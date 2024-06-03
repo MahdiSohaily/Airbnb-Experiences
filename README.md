@@ -12,15 +12,16 @@ This project aims to provide a hands-on practice opportunity for those learning 
 # Getting Started
 To get started with this project, follow these steps:
 
-Clone the repository:
+# Clone the repository:
 ``` git clone https://github.com/MahdiSohaily/airbnb-Experiencest```
 
-Navigate to the project directory:
-``` cd airbnb-experiences'``
+# Navigate to the project directory:
+``` cd airbnb-experiences```
 
-Install dependencies
+# Install dependencies
 ```npm install```
-Run the application:
+
+# Run the application:
 ```npm start```
 
 # License
