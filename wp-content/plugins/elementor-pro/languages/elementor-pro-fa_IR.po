@@ -1,0 +1,8166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Pro\n"
+"POT-Creation-Date: 2024-03-11 04:22-0700\n"
+"PO-Revision-Date: 2024-04-10 20:31+0330\n"
+"Last-Translator: \n"
+"Language-Team: webdenj\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: elementor-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "\"All\" Filter"
+msgstr "فیلتر \"همه\""
+
+msgid "\"All\" Filter Label"
+msgstr "برچسب فیلتر \"همه\""
+
+msgid "#id, .class"
+msgstr "#id, .class"
+
+msgid "%1$s %2$ssays:%3$s"
+msgstr "%1$s %2$sمی گوید :%3$s"
+
+msgid "%1$s (%2$s %3$dpx)"
+msgstr "%1$s (%2$s %3$dpx)"
+
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+msgid "%1$s mentioned you on %2$s at %3$s"
+msgstr "%1$s از شما در %2$s در %3$s نام برد"
+
+msgid "%1$s replied to a note on %2$s at %3$s"
+msgstr "%1$s به یادداشتی در %2$s در %3$s پاسخ داد"
+
+msgid "%1$s resolved a note on %2$s at %3$s"
+msgstr "%1$s یادداشتی را در %2$s در %3$s حل کرد"
+
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+msgid ""
+"%1$sDon’t miss out on the new version of Elementor%2$s Update to the latest "
+"version of Elementor to enjoy new features, better performance and compatibility."
+msgstr ""
+"%1$s نسخه جدید المنتور %2$s را از دست ندهید به آخرین نسخه المنتور بروزرسانی کنید "
+"تا از ویژگی‌های جدید، عملکرد بهتر و سازگاری لذت ببرید."
+
+msgid ""
+"%1$sElementor Pro requires newer version of the Elementor plugin%2$s Update the "
+"Elementor plugin to reactivate the Elementor Pro plugin."
+msgstr ""
+"%1$sElementor Pro به نسخه جدیدتر افزونه Elementor%2$s نیاز دارد برای فعال کردن "
+"مجدد افزونه Elementor، افزونه Elementor را به‌روزرسانی کنید."
+
+msgid ""
+"%1$sError:%2$s The nonce security check didn’t pass. Please reload the page and "
+"try again. You may want to try clearing your browser cache as a last attempt."
+msgstr ""
+"%1$s خطا: %2$s بررسی امنیتی nonce انجام نشد. لطفا صفحه را مجددا بارگذاری کنید و "
+"دوباره تلاش کنید. ممکن است بخواهید به عنوان آخرین تلاش، کش مرورگر خود را پاک "
+"کنید."
+
+msgid ""
+"%1$sYou have no more activations left.%2$s %3$sPlease upgrade to a more advanced "
+"license%4$s (you'll only need to cover the difference)."
+msgstr ""
+"%1$s دیگر هیچ فعال‌سازی ندارید.%2$s %3$s لطفاً به مجوز پیشرفته‌تر %4$s ارتقا دهید "
+"(فقط باید تفاوت را پوشش دهید)."
+
+msgid ""
+"%1$sYour Elementor Pro license has expired.%2$s Want to keep creating secure and "
+"high-performing websites? Renew your subscription to regain access to all of the "
+"Elementor Pro widgets, templates, updates & more. %3$sRenew now%4$s"
+msgstr ""
+"%1$sمجوز Elementor Pro شما منقضی شده است.%2$s آیا می‌خواهید به ایجاد وب‌سایت‌های "
+"ایمن و با عملکرد بالا ادامه دهید؟ اشتراک خود را تمدید کنید تا دوباره به همه "
+"ویجت‌ها، الگوها، به‌روزرسانی‌ها و موارد دیگر Elementor Pro دسترسی پیدا کنید. %3$s "
+"اکنون تمدید کنید %4$s"
+
+msgid ""
+"%1$sYour license key doesn't match your current domain%2$s. This is most likely "
+"due to a change in the domain URL of your site (including HTTPS/SSL migration). "
+"Please deactivate the license and then reactivate it again."
+msgstr ""
+"%1$s کلید مجوز شما با دامنه فعلی %2$s شما مطابقت ندارد. این به احتمال زیاد به "
+"دلیل تغییر در URL دامنه سایت شما (از جمله انتقال HTTPS/SSL) است. لطفاً لایسنس را "
+"غیرفعال کرده و مجدداً آن را فعال کنید."
+
+msgid ""
+"%1$sYour license key doesn't match your current domain%2$s. This is most likely "
+"due to a change in the domain URL. Please deactivate the license and then "
+"reactivate it again."
+msgstr ""
+"%1$s کلید مجوز شما با دامنه فعلی %2$s شما مطابقت ندارد. این به احتمال زیاد به "
+"دلیل تغییر در URL دامنه است. لطفاً لایسنس را غیرفعال کرده و مجدداً آن را فعال کنید."
+
+msgid ""
+"%1$sYour license key has been cancelled%2$s (most likely due to a refund "
+"request). Please consider acquiring a new license."
+msgstr ""
+"%1$s کلید مجوز شما %2$s لغو شده است (به احتمال زیاد به دلیل درخواست بازپرداخت). "
+"لطفاً در نظر گرفتن مجوز جدید."
+
+msgid ""
+"%1$sreCAPTCHA V3%2$s is a free service by Google that protects your website from "
+"spam and abuse. It does this while letting your valid users pass through with "
+"ease."
+msgstr ""
+"%1$s reCAPTCHA V3 %2$s یک سرویس رایگان توسط گوگل است که از وب سایت شما در برابر "
+"هرزنامه و سوء استفاده محافظت می کند. این کار را در حالی انجام می دهد که به "
+"کاربران معتبر شما اجازه می دهد به راحتی از آنجا عبور کنند."
+
+msgid ""
+"%1$sreCAPTCHA%2$s is a free service by Google that protects your website from "
+"spam and abuse. It does this while letting your valid users pass through with "
+"ease."
+msgstr ""
+"%1$s reCAPTCHA %2$s یک سرویس رایگان توسط گوگل است که از وب سایت شما در برابر "
+"هرزنامه و سوء استفاده محافظت می کند. این کار را در حالی انجام می دهد که به "
+"کاربران معتبر شما اجازه می دهد به راحتی از آنجا عبور کنند."
+
+msgid "%s - End"
+msgstr "پایان - %s"
+
+msgid "%s - Start"
+msgstr "شروع - %s"
+
+msgid "%s Archive"
+msgstr "%s بایگانی"
+
+msgid "%s By Author"
+msgstr "%s توسط نویسنده"
+
+msgid "%s Comments"
+msgstr "%s دیدگاه"
+
+msgid "%s File"
+msgstr "فایل %s"
+
+msgid "%s Not Connected"
+msgstr "%s متصل نیست"
+
+msgid "%s Not Connected Color"
+msgstr "%s رنگ متصل نیست"
+
+msgid "%s Widget"
+msgstr "%s ویجت"
+
+msgid "%s ago"
+msgstr "%s قبل"
+
+msgid "%s custom code cannot be not updated, someone else is editing it."
+msgid_plural "%s custom codes cannot be not updated, someone else is editing them."
+msgstr[0] ""
+"کدهای سفارشی %s  نمی توانند به روز شوند ، شخص دیگری آنها را ویرایش می کند."
+
+msgid "%s custom code moved to trash."
+msgid_plural "%s custom codes moved to trash."
+msgstr[0] "کد سفارشی %s به سطل زباله منتقل شد."
+
+msgid "%s custom code permanently deleted."
+msgid_plural "%s custom codes permanently deleted."
+msgstr[0] "کد سفارشی %s حذف شد."
+
+msgid "%s custom code restored."
+msgid_plural "%s custom code restored."
+msgstr[0] "کد سفارشی %s  بازیابی شد."
+
+msgid "%s custom code updated."
+msgid_plural "%s custom codes updated."
+msgstr[0] "کد های سفارشی %s به روز شد."
+
+msgid "%s is currently editing this template, please try again later"
+msgstr "%s در حال ویرایش این الگوی است ، لطفاً بعداً دوباره امتحان کنید"
+
+msgid "&laquo; Previous"
+msgstr "&laquo; قبلی"
+
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; صفحه %s"
+
+msgid "(unavailable)"
+msgstr "(غیر قابل دسترسی)"
+
+msgid ""
+"* Please note that this user will be able to see the list of all site users as "
+"part of the tagging ability in Notes."
+msgstr ""
+"* لطفاً توجه داشته باشید که این کاربر می‌تواند لیست همه کاربران سایت را به عنوان "
+"بخشی از قابلیت برچسب‌گذاری در یادداشت ها مشاهده کند."
+
+msgid "* Requires an Advanced subscription or higher"
+msgstr "* به اشتراک پیشرفته یا بالاتر نیاز دارد"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "3D Depth"
+msgstr "عمق 3D"
+
+msgid "3D Tilt"
+msgstr "شیب 3D"
+
+msgid "4"
+msgstr "4"
+
+msgid "404"
+msgstr "404"
+
+msgid "404 Page"
+msgstr "برگه 404"
+
+msgid "5"
+msgstr "5"
+
+msgid "6"
+msgstr "6"
+
+msgid ""
+"<p>Your Elementor Pro subscription has expired. Renew it now to regain access to "
+"the Pro features that elevate your website.</p>\n"
+"\t\t\t\t<ul>\n"
+"\t\t\t\t\t<li>Manage and edit every part of your website, including pages, "
+"templates, headers, footers, and more.</li>\n"
+"\t\t\t\t\t<li>Increase engagement and conversion with Elementor’s marketing "
+"features including Forms, and Popups.</li>\n"
+"\t\t\t\t\t<li>Update your website’s content and design using Elementor Pro’s "
+"professional widgets and features for any need.</li>\n"
+"\t\t\t\t\t<li>Keep your website secure and compatible by updating your Elementor "
+"Pro website to the latest version.</li>\n"
+"\t\t\t\t</ul>"
+msgstr ""
+"<p> اشتراک Elementor Pro شما منقضی شده است. اکنون آن را تمدید کنید تا دوباره به "
+"ویژگی های Pro که وب سایت شما را ارتقا می دهند دسترسی پیدا کنید.</p>\n"
+"<ul>\n"
+"<li>هر قسمت از وب سایت خود را مدیریت و ویرایش کنید، از جمله صفحات، الگوها، "
+"سرصفحه ها، پاورقی ها و موارد دیگر.</li>\n"
+"<li>با ویژگی‌های بازاریابی Elementor از جمله فرم‌ها و پنجره‌های بازشو تعامل و تبدیل "
+"را افزایش دهید.</li>\n"
+"<li>محتوا و طراحی وب سایت خود را با استفاده از ویجت ها و ویژگی های حرفه ای "
+"Elementor Pro برای هر نیازی به روز کنید.</li>\n"
+"<li>با به روز رسانی وب سایت Elementor Pro خود به آخرین نسخه، وب سایت خود را ایمن "
+"و سازگار نگه دارید.</li>\n"
+"</ul>"
+
+msgid ""
+"A 404 page template allows you to easily design the layout and style of the page "
+"that is displayed when a visitor arrives at a page that does not exist."
+msgstr ""
+"یک قالب صفحه 404 به شما امکان می دهد تا هنگام ورود یک بازدید کننده به صفحه ای که "
+"وجود ندارد ، به راحتی طرح و سبک آن صفحه را نمایش دهید."
+
+msgid ""
+"A Loop is a layout you can customize to display recurring dynamic content - like "
+"listings, posts, portfolios, products, , etc."
+msgstr ""
+"حلقه طرحی است که می توانید آن را برای نمایش محتوای پویا تکرارشونده سفارشی کنید - "
+"مانند فهرست ها، پست ها، نمونه کارها، محصولات و غیره."
+
+msgid ""
+"A PHP extension stopped the file upload. PHP does not provide a way to ascertain "
+"which extension caused the file upload to stop; examining the list of loaded "
+"extensions with %s may help."
+msgstr ""
+"یک پسوند PHP آپلود فایل را متوقف کرد. پی‌اچ‌پی یک راه برای اطمینان از اینکه کدام "
+"فرمت باعث توقف آپلود فایل شد را ارائه نمی‌کند، بررسی لیستی از پسوندهای بارگذاری "
+"شده با %s ممکن است کمک کند."
+
+msgid "A new Form Submission has been received"
+msgstr "یک فرم ارسال جدید دریافت شده است"
+
+msgid "A new Submission"
+msgstr "ارسال جدید"
+
+msgid ""
+"A products archive template allows you to easily design the layout and style of "
+"your WooCommerce shop page or other product archive pages - those pages that "
+"show a list of products, which may be filtered by terms such as categories, "
+"tags, etc."
+msgstr ""
+"یک الگوی بایگانی محصولات به شما امکان می دهد تا به راحتی طرح و سبک صفحه فروشگاه "
+"ووکامرس یا سایر صفحات بایگانی محصولات خود را طراحی کنید - صفحه هایی که لیستی از "
+"محصولات را نشان می دهند ، ممکن است با اصطلاحاتی از جمله دسته ها ، برچسب ها و "
+"غیره فیلتر شوند."
+
+msgid ""
+"A single page template allows you to easily create the layout and style of "
+"pages, ensuring design consistency across all the pages of your site."
+msgstr ""
+"یک الگوی یک صفحه به شما امکان می دهد تا به راحتی طرح و سبک صفحات را ایجاد کنید ، "
+"از ثبات طراحی در تمام صفحات سایت خود اطمینان حاصل کنید."
+
+msgid ""
+"A single post template allows you to easily design the layout and style of "
+"posts, ensuring a design consistency throughout all your blog posts, for example."
+msgstr ""
+"یک الگوی نوشته تنها به شما امکان می دهد تا به راحتی طرح و سبک پست ها را طراحی "
+"کنید ، به عنوان مثال از تمامیت طراحی در تمام پست های وبلاگ خود اطمینان حاصل کنید."
+
+msgid ""
+"A single product template allows you to easily design the layout and style of "
+"WooCommerce single product pages, and apply that template to various conditions "
+"that you assign."
+msgstr ""
+"یک الگوی تک محصول به شما امکان می دهد طرح و سبک صفحات تک محصول ووکامرس را به "
+"راحتی طراحی کنید و آن الگو را در شرایط مختلفی که تعیین می کنید اعمال کنید."
+
+msgid "ACF"
+msgstr "ACF"
+
+msgid "AJAX"
+msgstr "ایجکس"
+
+msgid "AND"
+msgstr "و"
+
+msgid "API Key"
+msgstr "کلید API"
+
+msgid "API URL"
+msgstr "نشانی API"
+
+msgid "ASC"
+msgstr "صعودی"
+
+msgid "Above"
+msgstr "بالا"
+
+msgid "Acceptance"
+msgstr "قبول کردن"
+
+msgid "Acceptance Text"
+msgstr "متن قبول کردن"
+
+msgid "Access to edit content only"
+msgstr "دسترسی فقط به محتوا"
+
+msgid "Accessible navigation"
+msgstr "ناوبری قابل دسترسی"
+
+msgid "Account"
+msgstr "حساب"
+
+msgid "Account Details"
+msgstr "جزئیات حساب"
+
+msgid "Account Title"
+msgstr "عنوان حساب"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "Actions"
+msgstr "عملیات"
+
+msgid "Actions After Expire"
+msgstr "اقدامات پس از انقضاء"
+
+msgid "Actions After Submit"
+msgstr "اقدامات پس از ثبت"
+
+msgid "Activate"
+msgstr "فعال"
+
+msgid "Activate License"
+msgstr "فعال‌سازی لایسنس"
+
+msgid "Activate Manually"
+msgstr "فعال‌سازی دستی"
+
+msgid "Activate Now"
+msgstr "هم اکنون فعال کن"
+
+msgid ""
+"Activate Your License and Get Access to Premium Elementor Templates, Support & "
+"Plugin Updates."
+msgstr ""
+"لایسنس خود را برای دسترسی به الگوهای پریمیوم المنتور و پشتیبانی و به‌روز رسانی‌ها "
+"فعال کنید."
+
+msgid ""
+"Activate the Elementor plugin to start using all of Elementor Pro plugin’s "
+"features."
+msgstr ""
+"افزونه Elementor را فعال کنید تا از تمام ویژگی های افزونه Elementor Pro استفاده "
+"کنید."
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Active Color"
+msgstr "رنگ فعال"
+
+msgid "Active Icon"
+msgstr "آیکون فعال"
+
+msgid "ActiveCampaign"
+msgstr "کمپین فعال"
+
+msgid "Add"
+msgstr "اضافه کردن"
+
+msgid "Add Action"
+msgstr "افزودن عمل/اقدام"
+
+msgid ""
+"Add Custom Code snippets anywhere on your website, including the header or "
+"footer to measure your page’s performance*"
+msgstr ""
+"قطعات کد سفارشی را در هر نقطه از وب سایت خود اضافه کنید، از جمله سرصفحه یا "
+"پاورقی برای اندازه گیری عملکرد صفحه خود*"
+
+msgid "Add Custom Code snippets to your website."
+msgstr "قطعات کد سفارشی را به وب سایت خود اضافه کنید."
+
+msgid "Add Font Variation"
+msgstr "افزودن فونت تغییر"
+
+msgid "Add New"
+msgstr "افزودن جدید"
+
+msgid "Add New Font"
+msgstr "افزودن فونت جدید"
+
+msgid "Add New Font Type"
+msgstr "افزودن نوع فونت جدید"
+
+msgid "Add New Icon Set"
+msgstr "افزودن تنظیم آیکون جدید"
+
+msgid "Add New Loop Template"
+msgstr "افزودن الگو حلقه جدید"
+
+msgid "Add New Theme Template"
+msgstr "افزودن الگوی قالب جدید"
+
+msgid "Add To Cart"
+msgstr "افرودن به سبد خرید"
+
+msgid "Add Your Custom Fonts"
+msgstr "فونت های سفارشی خود را اضافه کنید"
+
+msgid "Add Your Custom Icons"
+msgstr "آیکون های سفارشی خود را اضافه کنید"
+
+msgid "Add Your Text Here"
+msgstr "متن خود را در اینجا اضافه کنید"
+
+msgid "Add Your Tooltip Text Here"
+msgstr "متن راهنمای خود را در اینجا اضافه کنید"
+
+msgid ""
+"Add actions that will be performed after a visitor submits the form (e.g. send "
+"an email notification). Choosing an action will add its setting below."
+msgstr ""
+"افزودن اقداماتی که بعد از اینکه یک بازدید کننده فرم را ثبت کرد، آن عمل انجام "
+"گیرد (به عنوان مثال: ارسال یک ایمیل اطلاعیه). یک عمل برای افزودن آن به زیر "
+"انتخاب کنید."
+
+msgid "Add as many tags as you want, comma separated."
+msgstr "افزودن بعنوان برچسب‌های که می‌خواهید با کاما از هم جدا کنید."
+
+msgid "Add comma separated tags"
+msgstr "برای جدا کردن برچسب ها از کاما استفاده کنید"
+
+msgid "Add custom HTML attributes to any element."
+msgstr "ویژگی های سفارشی HTML را به هر عنصر اضافه کنید."
+
+msgid "Add item"
+msgstr "افزودن مورد"
+
+msgid "Add new"
+msgstr "افزودن جدید"
+
+msgid "Add nofollow"
+msgstr "افزودن نوفالو"
+
+msgid "Add or remove Font Types"
+msgstr "افزودن یا حذف نوع فونت"
+
+msgid "Add pixels, meta tags and any other scripts to your site."
+msgstr "پیکسل ها، متا تگ ها و هر اسکریپت دیگری را به سایت خود اضافه کنید."
+
+msgid ""
+"Add some content for each one of your videos, like a description, transcript or "
+"external links.To add, remove or edit tab names, go to Tabs."
+msgstr ""
+"برای هر یک از ویدئو های خود مقداری محتوا اضافه کنید ، مانند توضیحات ، متن یا "
+"پیوندهای خارجی. برای افزودن ، حذف یا ویرایش نام زبانه ها ، به زبانه ها بروید."
+
+msgid ""
+"Add the CSS ID or Class of a specific element on this page to track its progress "
+"separately"
+msgstr ""
+"شناسه CSS یا کلاس یک عنصر خاص را در این صفحه اضافه کنید تا پیشرفت آن را جداگانه "
+"پیگیری کنید"
+
+msgid "Add to Cart"
+msgstr "افزودن به سبد خرید"
+
+msgid "Add to Contacts"
+msgstr "افزودن به مخاطبین"
+
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "کلاس CSS خود را بدون نقطه وارد کنید. مثال : my-class"
+
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "شناسه CSS خود را بدون # وارد کنید. مثال: my-id"
+
+msgid "Add your own custom CSS"
+msgstr "CSS سفارشی خود را اضافه کنید"
+
+msgid "Additional Info"
+msgstr "اطلاعات اضافی"
+
+msgid "Additional Information"
+msgstr "اطلاعات اضافی"
+
+msgid "Additional Information Tab"
+msgstr "زبانه اطلاعات اضافی"
+
+msgid "Additional Options"
+msgstr "گزینه‌های اضافی"
+
+msgid "Additional Settings"
+msgstr "تنظیمات اضافی"
+
+msgid ""
+"Additional settings are available in the Yoast SEO %1$sBreadcrumbs Panel%2$s"
+msgstr "تنظیمات اضافی در یواست سئو %1$s راهنما مسیر %2$s موجود است"
+
+msgid "Addresses"
+msgstr "آدرس ها"
+
+msgid "Admin Notice:"
+msgstr "نکته مدیر:"
+
+msgid "Adobe Fonts (TypeKit)"
+msgstr "فونت های ادونی (وب کیت)"
+
+msgid "Advanced"
+msgstr "پیشرفته"
+
+msgid "Advanced Data"
+msgstr "اطلاعات پیشرفته"
+
+msgid "After"
+msgstr "بعد"
+
+msgid "After Inactivity"
+msgstr "پس از عدم فعالیت"
+
+msgid "After Text"
+msgstr "بعد از متن"
+
+msgid "Akismet Spam Protection"
+msgstr "حفاظت از هرزنامه Akismet"
+
+msgid "Alignment"
+msgstr "ترازبندی"
+
+msgid "All"
+msgstr "همه"
+
+msgid "All Archives"
+msgstr "همه آرشیوها"
+
+msgid "All Browsers"
+msgstr "همه مرورگر ها"
+
+msgid "All Font Types"
+msgstr "همه انواع فونت"
+
+msgid "All Fonts"
+msgstr "همه فونت‌ها"
+
+msgid "All Icons"
+msgstr "همه آیکون‌ها"
+
+msgid "All Posts"
+msgstr "همه نوشته‌ها"
+
+msgid "All Product Archives"
+msgstr "همه آرشیوهای محصول"
+
+msgid "All Singular"
+msgstr "همه مفرد"
+
+msgid "All Users"
+msgstr "همه کاربران"
+
+msgid "Allow Full Screen"
+msgstr "اجازه تمام صفحه"
+
+msgid "Allow Order"
+msgstr "اجازه سفارش"
+
+msgid "Allow Resubscribe"
+msgstr "مجاز به اشتراک مجدد شوید"
+
+msgid "Allow keyboard tab navigation for accessibility"
+msgstr "برای دسترسی به ناوبری برگه صفحه کلید مجاز است"
+
+msgid "Allow user to access the Notes feature."
+msgstr "به کاربر اجازه دسترسی به ویژگی یادداشت ها را بدهید."
+
+msgid "Allowed File Types"
+msgstr "نوع فایل مجاز"
+
+msgid "Already renewed?"
+msgstr "قبلا تمدید شده؟"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Always"
+msgstr "همیشه"
+
+msgid "Always load jQuery"
+msgstr "همیشه جی کوئری را بارگیری کنید"
+
+msgid "Amazing"
+msgstr "حیرت‌آور"
+
+msgid "Amount"
+msgstr "مقدار"
+
+msgid ""
+"An archive template allows you to easily design the layout and style of archive "
+"pages - those pages that show a list of posts (e.g. a blog’s list of recent "
+"posts), which may be filtered by terms such as authors, categories, tags, search "
+"results, etc."
+msgstr ""
+"یک الگوی بایگانی به شما امکان می دهد تا به راحتی طرح و سبک صفحات بایگانی را "
+"طراحی کنید - صفحه هایی که لیستی از پست ها را نشان می دهند (به عنوان مثال لیست "
+"وبلاگ پست های اخیر) ، که ممکن است با عباراتی مانند نویسندگان ، دسته ها ، برچسب "
+"ها ، نتایج جستجو فیلتر شوند. ، و غیره."
+
+msgid "An error occurred, please try again"
+msgstr "خطایی رخ داده. لطفا دوباره تلاش کنید"
+
+msgid "An error occurred."
+msgstr "خطایی رخ داد."
+
+msgid ""
+"An error occurred. Please check your internet connection and try again. If the "
+"problem persists, contact our support."
+msgstr ""
+"یک خطا رخ داده است. لطفاً اتصال اینترنت خود را بررسی کنید و دوباره امتحان کنید. "
+"اگر همچنان مشکل ادامه دارد، با پشتیبانی ما تماس بگیرید."
+
+msgid "Anchors By Selector"
+msgstr "انکرها توسط انتخاب کننده"
+
+msgid "Anchors By Tags"
+msgstr "انکرها توسط برچسب ها"
+
+msgid "Angle"
+msgstr "زاویه"
+
+msgid "Animated Headline"
+msgstr "خط عنوان متحرک"
+
+msgid "Animated Text"
+msgstr "متن متحرک"
+
+msgid "Animation"
+msgstr "انیمیشن"
+
+msgid "Animation Duration"
+msgstr "مدت زمان انیمیشن"
+
+msgid "Another check is in progress."
+msgstr "بررسی دیگر در حال انجام است."
+
+msgid "Any Amount"
+msgstr "هر مقدار"
+
+msgid "Any Child %s Of"
+msgstr "هر چایلدی %s از"
+
+msgid "Any Child Of"
+msgstr "هر چایلدی"
+
+msgid "App ID"
+msgstr "شناسه اپلیکیشن"
+
+msgid "Apply"
+msgstr "اعمال"
+
+msgid "Apply & Preview"
+msgstr "اعمال و پیش‌نمایش"
+
+msgid "Apply Button"
+msgstr "دکمه اعمال"
+
+msgid "Apply CSS globally across your site to elevate your designs."
+msgstr ""
+"CSS را به صورت عمومی در سراسر سایت خود اعمال کنید تا طرح های خود را ارتقا دهید."
+
+msgid "Apply CSS to any widget and elevate any element with Custom CSS."
+msgstr "CSS را به هر ویجتی اعمال کنید و هر عنصر را با CSS سفارشی بالا ببرید."
+
+msgid "Apply Coupon Button"
+msgstr "دکمه اعمال کوپن"
+
+msgid "Apply Effects On"
+msgstr "اعمال افکت‌ها بر روی"
+
+msgid "Apply Link On"
+msgstr "اعمال لینک روی"
+
+msgid "Apply Once"
+msgstr "یکبار درخواست کنید"
+
+msgid "Apply an alternate template"
+msgstr "یک الگوی جایگزین اعمال کنید"
+
+msgid "Apply coupon"
+msgstr "اعمال کوپن"
+
+msgid "Apply to custom Excerpt"
+msgstr "اعمال به گزیده سفارشی"
+
+msgid "Apply to post content"
+msgstr "برای ارسال مطالب اقدام کنید"
+
+msgid "Archive"
+msgstr "بایگانی"
+
+msgid "Archive Button"
+msgstr "دکمه آرشیو"
+
+msgid "Archive Description"
+msgstr "توضیحات آرشیو"
+
+msgid "Archive Meta"
+msgstr "اطلاعات آرشیو"
+
+msgid "Archive Posts"
+msgstr "آرشیو نوشته‌ها"
+
+msgid "Archive Products"
+msgstr "آرشیو محصولات"
+
+msgid "Archive Products (deprecated)"
+msgstr "محصولات بایگانی (منسوخ شده)"
+
+msgid "Archive Text"
+msgstr "متن آرشیو"
+
+msgid "Archive Title"
+msgstr "عنوان آرشیو"
+
+msgid "Archive URL"
+msgstr "آدرس آرشیو"
+
+msgid "Archives"
+msgstr "آرشیوها"
+
+msgid "Archives: %s"
+msgstr "آرشیو: %s"
+
+msgid "Are you sure?"
+msgstr "شما مطمئن هستید؟"
+
+msgid "Arrow"
+msgstr "پیکان"
+
+msgid "Arrow Circle"
+msgstr "دایره فلش"
+
+msgid "Arrow Circle Negative"
+msgstr "دایره فلش منفی"
+
+msgid "Arrows"
+msgstr "پیکان‌ها"
+
+msgid "Arrows Type"
+msgstr "نوع پیکان‌ها"
+
+msgid "Arrows and Dots"
+msgstr "پیکان ها و نقطه ها"
+
+msgid "Aside"
+msgstr "ستون کناری"
+
+msgid "Aspect Ratio"
+msgstr "نسبت ابعاد"
+
+msgid ""
+"Assign shortcodes to the fields below to enable spam protection on your form. "
+"%1$sShow me how%2$s"
+msgstr ""
+"برای فعال کردن محافظت از هرزنامه در فرم خود، کدهای کوتاه به فیلدهای زیر اختصاص "
+"دهید. %1$s نحوه %2$s را به من نشان دهید"
+
+msgid "Attachment Caption"
+msgstr "عنوان ضمیمه"
+
+msgid "Attachment URL"
+msgstr "آدرس پیوست"
+
+msgid "Attributes"
+msgstr "ویژگی‌ها"
+
+msgid "Audience"
+msgstr "حضار"
+
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Author Archive"
+msgstr "آرشیو نویسنده"
+
+msgid "Author Bio"
+msgstr "بیوگرافی نویسنده"
+
+msgid "Author Box"
+msgstr "کادر نویسنده"
+
+msgid "Author Email"
+msgstr "ایمیل نویسنده"
+
+msgid "Author Info"
+msgstr "اطلاعات نویسنده"
+
+msgid "Author Meta"
+msgstr "اطلاعات نویسنده"
+
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+msgid "Author Profile Picture"
+msgstr "تصویر پروفایل نویسنده"
+
+msgid "Author URL"
+msgstr "آدرس نویسنده"
+
+msgid "Author Website"
+msgstr "وبسایت نویسنده"
+
+msgid "Author picture"
+msgstr "تصویر نویسنده"
+
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+msgid "Auto"
+msgstr "خودکار"
+
+msgid "Auto Renewal"
+msgstr "تمدید خودکار"
+
+msgid "Automatically Close After"
+msgstr "بستن خودکار پس از"
+
+msgid "Automatically Open Cart"
+msgstr "باز کردن خودکار سبد خرید"
+
+msgid "Automatically Update Cart"
+msgstr "بروزرسانی خودکار سبد خرید"
+
+msgid "Automatically align buttons"
+msgstr "تراز کردن خودکار دکمه ها"
+
+msgid "Autoplay"
+msgstr "پخش خودکار"
+
+msgid "Autoplay Speed"
+msgstr "سرعت پخش خودکار"
+
+msgid "Autoscroll"
+msgstr "اسکرول خودکار"
+
+msgid "Autoscroll offset"
+msgstr "افست اسکرول خودکار"
+
+msgid "Avatar"
+msgstr "آواتار"
+
+msgid "Avatar URL"
+msgstr "آدرس لینک آواتار"
+
+msgid "Average Rating"
+msgstr "میانگین امتیاز"
+
+msgid "Avoid Duplicates"
+msgstr "اجتناب از تکرار"
+
+msgid "Avoid Multiple Popups"
+msgstr "اجتناب از پاپ‌‌آپ‌های چندگانه"
+
+msgid "Back"
+msgstr "پشت"
+
+msgid "Background"
+msgstr "پیش زمینه"
+
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+msgctxt "Background Control"
+msgid "Auto"
+msgstr "خودکار"
+
+msgctxt "Background Control"
+msgid "Contain"
+msgstr "حاوی"
+
+msgctxt "Background Control"
+msgid "Cover"
+msgstr "کاور"
+
+msgctxt "Background Control"
+msgid "Image"
+msgstr "تصویر"
+
+msgctxt "Background Control"
+msgid "Size"
+msgstr "اندازه"
+
+msgid "Background Overlay"
+msgstr "لایه پس زمینه"
+
+msgid "Badge"
+msgstr "مدال"
+
+msgid "Badge Taxonomy"
+msgstr "مدال طبقه‌بندی"
+
+msgid "Bag"
+msgstr "کیف"
+
+msgid "Bank Details"
+msgstr "جزئیات بانک"
+
+msgid "Basket"
+msgstr "سبد سبک"
+
+msgid "Bcc"
+msgstr "Bcc"
+
+msgid "Before"
+msgstr "قبل"
+
+msgid "Before Text"
+msgstr "قبل از متن"
+
+msgid "Below"
+msgstr "پایین"
+
+msgid "Beside"
+msgstr "در کنار"
+
+msgid "Billing Cycle"
+msgstr "چرخه صورتحساب"
+
+msgid "Billing Details"
+msgstr "جزئیات صورتحساب"
+
+msgid "Billing and Shipping Details"
+msgstr "جزئیات صورتحساب و حمل و نقل"
+
+msgid "Bio"
+msgstr "بیوگرافی"
+
+msgid "Biography"
+msgstr "زندگی‏نامه"
+
+msgid "Blend Mode"
+msgstr "حالت مخلوط"
+
+msgid "Block"
+msgstr "بلوک"
+
+msgid "Blockquote"
+msgstr "نقل قول"
+
+msgid "Blur"
+msgstr "مات"
+
+msgid "Body End"
+msgstr "پایان بدنه"
+
+msgid "Body Start"
+msgstr "شروع بدنه"
+
+msgid "Bold"
+msgstr "ضخیم"
+
+msgid "Border"
+msgstr "کادر"
+
+msgid "Border Color"
+msgstr "رنگ کادر دور"
+
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "نقطه چین"
+
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "خط چین"
+
+msgctxt "Border Control"
+msgid "Double"
+msgstr "دو برابر"
+
+msgctxt "Border Control"
+msgid "Groove"
+msgstr "شیار"
+
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "سالید"
+
+msgid "Border Radius"
+msgstr "حاشیه گرد"
+
+msgid "Border Type"
+msgstr "نوع حاشیه"
+
+msgid "Border Width"
+msgstr "عرض کادر"
+
+msgid "Borders"
+msgstr "کادرها"
+
+msgid "Both"
+msgstr "هر دو"
+
+msgid "Bottom"
+msgstr "پایین"
+
+msgid "Bottom Left"
+msgstr "پایین سمت چپ"
+
+msgid "Bottom Right"
+msgstr "دکمه راست"
+
+msgid "Bounce"
+msgstr "پرش"
+
+msgid "Bouncing Dots"
+msgstr "نقاط ضربه"
+
+msgid "Box"
+msgstr "باکس"
+
+msgid "Box Color"
+msgstr "رنگ جعبه"
+
+msgid "Box Count"
+msgstr "شمارش جعبه"
+
+msgid "Box Shadow"
+msgstr "سایه جعبه"
+
+msgid "Boxed"
+msgstr "جعبه‌ای"
+
+msgid "Boxed Icon"
+msgstr "آیکون جعبه‌ای"
+
+msgid "Boxes"
+msgstr "جعبه‌ها"
+
+msgid "Breadcrumbs"
+msgstr "موقعیت کنونی"
+
+msgid "Breakpoint"
+msgstr "نقطه انفصال"
+
+msgid "Bring to Front"
+msgstr "جلو آوردن"
+
+msgid "Browser Default"
+msgstr "پیشفرض مرورگر"
+
+msgid "Bubble"
+msgstr "حباب"
+
+msgid "Bullet"
+msgstr "گلوله"
+
+msgid "Bullets"
+msgstr "پرتاب"
+
+msgid "Button"
+msgstr "دکمه"
+
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+msgid "Button Count"
+msgstr "شمارش دکمه"
+
+msgid "Button Height"
+msgstr "ارتفاع دکمه"
+
+msgid "Button ID"
+msgstr "شناسه دکمه"
+
+msgid "Button Only"
+msgstr "فقط دکمه"
+
+msgid "Button Size"
+msgstr "اندازه‌ دکمه"
+
+msgid "Button Text"
+msgstr "متن دکمه"
+
+msgid "Buttons"
+msgstr "دکمه‌ها"
+
+msgid "By Author"
+msgstr "براساس نویسنده"
+
+msgid "By Parent"
+msgstr "براساس اصلی"
+
+msgid ""
+"By default, all form fields are sent via %s shortcode. To customize sent fields, "
+"copy the shortcode that appears inside each field and paste it above."
+msgstr ""
+"به طور پیش‌فرض، تمام زمینه‌های فرم از طریق کد کوتاه %s ارسال می‌شود. برای سفارشی "
+"کردن زمینه‌های ارسال شده، کد کوتاهی که در داخل هر زمینه ظاهر می‌شود را کپی کنید و "
+"آن را بالا ببرید."
+
+msgid "CEO"
+msgstr "مدیرعامل"
+
+msgctxt "CPT Menu Name"
+msgid "Custom Fonts"
+msgstr "فونت‌های دلخواه"
+
+msgctxt "CPT Menu Name"
+msgid "Custom Icons"
+msgstr "آیکون‌های دلخواه"
+
+msgctxt "CPT Name"
+msgid "Custom Fonts"
+msgstr "فونت‌های دلخواه"
+
+msgctxt "CPT Name"
+msgid "Custom Icons"
+msgstr "آیکون‌های دلخواه"
+
+msgctxt "CPT Singular Name"
+msgid "Font"
+msgstr "فونت"
+
+msgctxt "CPT Singular Name"
+msgid "Icon Set"
+msgstr "تنظیم آیکون"
+
+msgid "CSS Classes"
+msgstr "کلاس های CSS"
+
+msgid "CSS ID"
+msgstr "شناسه CSS"
+
+msgid "CSS Prefix"
+msgstr "پیشوند CSS"
+
+msgid "CSS selectors, in a comma-separated list"
+msgstr "انتخاب کنندگان CSS ، در یک لیست جدا از کاما"
+
+msgid "Call"
+msgstr "تماس"
+
+msgid "Call to Action"
+msgstr "اقدام برای عمل"
+
+msgid "Can not connect to the reCAPTCHA server (%d)."
+msgstr "نمی‌توان به سرور reCAPTCHA متصل شد (%d)."
+
+msgid "Cancelled"
+msgstr "لغو شد"
+
+msgid "Cannot save those conditions."
+msgstr "این شرایط را نمی توان ذخیره کرد."
+
+msgid "Canvas"
+msgstr "بوم"
+
+msgid "Caption"
+msgstr "زیرنویس"
+
+msgid "Captions"
+msgstr "زیرنویس‌ها"
+
+msgid "Card"
+msgstr "کارت"
+
+msgid "Cards"
+msgstr "کارت‌ها"
+
+msgid "Caret"
+msgstr "هشتگ"
+
+msgid "Carousel"
+msgstr "چرخشی"
+
+msgid "Carousel Items"
+msgstr "موارد چرخ و فلک"
+
+msgid "Cart"
+msgstr "سبد خرید"
+
+msgid "Cart Dividers"
+msgstr "تقسیم کننده سبد خرید"
+
+msgid "Cart Page"
+msgstr "صفحه سبد خرید"
+
+msgid "Cart Position"
+msgstr "موقعیت سبد خرید"
+
+msgid "Cart Totals"
+msgstr "مجموع سبد خرید"
+
+msgid "Cart Type"
+msgstr "نوع سبد خرید"
+
+msgid "Categories"
+msgstr "دسته‌ها"
+
+msgid "Categories Count"
+msgstr "تعداد دسته‌ها"
+
+msgid "Category"
+msgstr "دسته‌بندی"
+
+msgid "Category Image"
+msgstr "تصویر دسته‌بندی"
+
+msgid "Category: %s"
+msgstr "دسته‌بندی: %s"
+
+msgid "Cc"
+msgstr "Cc"
+
+msgid "Center"
+msgstr "وسط"
+
+msgid "Centered Slides"
+msgstr "اسلایدهای مرکز شده"
+
+msgid "Change Site Logo"
+msgstr "تغییر لوگوی سایت"
+
+msgid "Changelog"
+msgstr "گزارش تغییرات"
+
+msgid "Changes to the cart will update automatically."
+msgstr "تغییرات در سبد خرید به طور خودکار بروز می شوند."
+
+msgid "Channel"
+msgstr "کانال"
+
+msgid "Chat"
+msgstr "گفتگو"
+
+msgid "Check license status"
+msgstr "وضعیت مجوز را بررسی کنید"
+
+msgid "Checkbox"
+msgstr "چک باکس"
+
+msgid "Checkboxes"
+msgstr "چک باکس ها"
+
+msgid "Checked by Default"
+msgstr "به طور پیش‌فرض انتخاب شده"
+
+msgid "Checkout"
+msgstr "وارسی"
+
+msgid "Checkout Button"
+msgstr "دکمه پرداخت"
+
+msgid "Checkout Page"
+msgstr "صفحه تسویه حساب"
+
+msgid "Chevron"
+msgstr "فلش بدون دم"
+
+msgid "Chevron Circle"
+msgstr "دایره شور"
+
+msgid "Choose"
+msgstr "انتخاب"
+
+msgid "Choose File"
+msgstr "انتخاب فایل"
+
+msgid "Choose Icon"
+msgstr "انتخاب آیکون"
+
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+msgid "Choose Template"
+msgstr "انتخاب الگو"
+
+msgid "Choose a Loop Grid to view the Taxonomy Filter."
+msgstr "برای مشاهده فیلتر طبقه بندی، یک شبکه حلقه را انتخاب کنید."
+
+msgid "Choose a page or add a URL"
+msgstr "یک صفحه را انتخاب کنید یا یک آدرس اضافه کنید"
+
+msgid "Choose a template"
+msgstr "یک الگو را انتخاب کنید"
+
+msgid "Choose from the most used Font Types"
+msgstr "انتخاب از نوع فونت بیشترین استفاده شده"
+
+msgid "Choose source type"
+msgstr "نوع منبع را انتخاب کنید"
+
+msgid "Choose template"
+msgstr "الگو را انتخاب کنید"
+
+msgid "Choose template type"
+msgstr "نوع الگو را انتخاب کنید"
+
+msgid "Choose your plan"
+msgstr "طرح خود را انتخاب کنید"
+
+msgid "Chrome"
+msgstr "کروم"
+
+msgid "Circle"
+msgstr "گرد"
+
+msgid "Circle Dashed"
+msgstr "دایره چین دار"
+
+msgid "Circular"
+msgstr "گرد"
+
+msgid "Classic"
+msgstr "کلاسیک"
+
+msgid "Clean"
+msgstr "پاک‌سازی"
+
+msgid "Click"
+msgstr "کلیک"
+
+msgid "Click Here"
+msgstr "اینجا کلیک کنید"
+
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+msgid "Click here for Instructions"
+msgstr "برای دستور العمل اینجا را کلیک کنید"
+
+msgid "Click here to browse"
+msgstr "روی اینجا برای مرور کلیک کنید"
+
+msgid "Click here to enter your coupon code"
+msgstr "برای وارد کردن کد کوپن خود اینجا را کلیک کنید"
+
+msgid "Click here to login"
+msgstr "برای ورود اینجا کلیک کنید"
+
+msgid "Click on the menu item to edit its dropdown content."
+msgstr "روی مورد منو کلیک کنید تا محتوای کشویی آن را ویرایش کنید."
+
+msgid "Clicks"
+msgstr "کلیک"
+
+msgid "Close"
+msgstr "بسته"
+
+msgid "Close "
+msgstr "بستن"
+
+msgid "Close %s"
+msgstr "بستن %s"
+
+msgid "Close Button"
+msgstr "دکمه بستن"
+
+msgid "Close Cart"
+msgstr "بستن سبد خرید"
+
+msgid "Close Icon"
+msgstr "آیکون بستن"
+
+msgid "Close Popup"
+msgstr "بستن پاپ‌آپ"
+
+msgid "Close table of contents"
+msgstr "فهرست مطالب را ببندید"
+
+msgid "Close this search box."
+msgstr "این کادر جستجو را ببندید."
+
+msgid "Code"
+msgstr "کد"
+
+msgid "Code Highlight"
+msgstr "کد برجسته شده"
+
+msgid "Collapse Icon"
+msgstr "آیکون بستن"
+
+msgid "Collapse Subitems"
+msgstr "بستن زیرمجموعه‌ها"
+
+msgid "Collapsible"
+msgstr "تاشو"
+
+msgid "Collect Submissions"
+msgstr "ارسالی ها را جمع آوری کنید"
+
+msgid ""
+"Collect lead submissions directly within your WordPress Admin to manage, analyze "
+"and perform bulk actions on the submitted lead"
+msgstr ""
+"برای مدیریت، تجزیه و تحلیل و انجام اقدامات انبوه روی سرنخ ارسالی، مطالب ارسالی "
+"سرنخ را مستقیماً در مدیریت وردپرس خود جمع آوری کنید"
+
+msgid "Collected Submissions will be saved to Elementor > %1$s Submissions %2$s"
+msgstr "ارسال‌های جمع‌آوری‌شده در المنتور > %1$s ارسال‌ها %2$s ذخیره می‌شوند"
+
+msgid "Color"
+msgstr "رنگ"
+
+msgid "Color Picker Field"
+msgstr "زمینه انتخاب رنگ"
+
+msgid "Color Scheme"
+msgstr "طرح رنگی"
+
+msgid "Colors"
+msgstr "رنگ‌ها"
+
+msgid "Column"
+msgstr "ستون‌"
+
+msgid "Column Span"
+msgstr "دهانه ستون"
+
+msgid "Column Width"
+msgstr "عرض ستون"
+
+msgid "Columns"
+msgstr "ستون‌ها"
+
+msgid "Columns Gap"
+msgstr "مرز میان ستون‌ها"
+
+msgid "Comment"
+msgstr "دیدگاه"
+
+msgid "Comment Count"
+msgstr "شمارش دیدگاه"
+
+msgid "Comments"
+msgstr "دیدگاه"
+
+msgid "Comments Box"
+msgstr "جعبه‌ دیدگاه‌ها"
+
+msgid "Comments Link"
+msgstr "لینک دیدگاه"
+
+msgid "Comments Number"
+msgstr "تعداد دیدگاه‌ها"
+
+msgid "Comments URL"
+msgstr "آدرس دیدگاه‌ها"
+
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده اند."
+
+msgid "Compact"
+msgstr "جمع جور"
+
+msgid "Company Name"
+msgstr "نام شرکت"
+
+msgid ""
+"Complete the entire checkout experience on your site with a mock payment method, "
+"using the Stripe Test key in the %1$sIntegrations Settings%2$s."
+msgstr ""
+"کل تجربه پرداخت را در سایت خود با روش پرداخت ساختگی، با استفاده از کلید تست نوار "
+"در تنظیمات ادغام %1$s %2$s تکمیل کنید."
+
+msgid "Completed"
+msgstr "تکمیل شد"
+
+msgid "Conditions:"
+msgstr "شرایط :"
+
+msgid "Confirmation Message"
+msgstr "پیام تایید"
+
+msgid "Congrats! Your Site Part is Live"
+msgstr "تبریک می گویم قسمت سایت شما زنده است"
+
+msgid "Connect & Activate"
+msgstr "اتصال و فعال‌سازی"
+
+msgid "Contact"
+msgstr "تماس"
+
+msgid "Contact URL"
+msgstr "آدرس تماس"
+
+msgid ""
+"Contact the site admin or turn off notifications for Notes in your %1$suser "
+"profile%2$s."
+msgstr ""
+"با سرپرست سایت تماس بگیرید یا اعلان‌های یادداشت‌ها را در %1$s نمایه کاربر %2$s خود "
+"خاموش کنید."
+
+msgid "Contain"
+msgstr "حاوی"
+
+msgid "Container"
+msgstr "کانتینر"
+
+msgid "Container Width"
+msgstr "عرض محفظه"
+
+msgid "Contains"
+msgstr "حاوی"
+
+msgid "Content"
+msgstr "محتوا"
+
+msgid "Content Animation"
+msgstr "محتوای متحرک"
+
+msgid "Content Area"
+msgstr "ناحیه محتوا"
+
+msgid "Content Color"
+msgstr "رنگ محتوا"
+
+msgid "Content Horizontal Position"
+msgstr "موقعیت افقی محتوا"
+
+msgid "Content Padding"
+msgstr "فاصله داخلی محتوا"
+
+msgid "Content Position"
+msgstr "موقعیت محتوا"
+
+msgid "Content Width"
+msgstr "عرض محتوا"
+
+msgid "Contents Tabs "
+msgstr "زبانه های محتوا "
+
+msgid "ConvertKit"
+msgstr "ConvertKit"
+
+msgid "Copy the license key from your account and paste it below."
+msgstr "کپی کلید لایسنس از حساب کاربری و آن را در زیر قرار دهید."
+
+msgid "Copy to Clipboard"
+msgstr "کپی در کلیپ بورد"
+
+msgid "Could not retrieve query data."
+msgstr "داده های کوئری بازیابی نشد."
+
+msgid "Could not unzip or empty archive."
+msgstr "امکان بایگانی کردن یا خالی کردن بایگانی وجود ندارد."
+
+msgid "Count"
+msgstr "تعداد"
+
+msgid "Countdown"
+msgstr "شمارش گر معکوس"
+
+msgid "Country / Region"
+msgstr "کشور/استان"
+
+msgid "Coupon"
+msgstr "کوپن"
+
+msgid "Coupon code"
+msgstr "کد کوپن"
+
+msgid "Cover"
+msgstr "کاور"
+
+msgid "Cover Photo"
+msgstr "پوشش عکس"
+
+msgid "Coverflow"
+msgstr "کاور جریان"
+
+msgid ""
+"Create Global Widgets. Modify the content, style and setting of any widget and "
+"reuse it across your website to accelerate your workflow and stay consistent."
+msgstr ""
+"ابزارک های عمومی ایجاد کنید. محتوا، سبک و تنظیمات هر ویجت را تغییر دهید و از آن "
+"در سراسر وب‌سایت خود استفاده مجدد کنید تا گردش کار خود را تسریع کنید و ثابت "
+"بمانید."
+
+msgid "Create a template"
+msgstr "یک الگو ایجاد کنید"
+
+msgid "Create an Account"
+msgstr "یک حساب کاربری ایجاد کنید"
+
+msgid "Create an account?"
+msgstr "ایجاد حساب کاربری؟"
+
+msgid ""
+"Create beautiful menus and mega menus with new nested capabilities. Mega menus "
+"are ideal for websites with complex navigation structures and unique designs. "
+"%1$sLearn More%2$s"
+msgstr ""
+"منوهای زیبا و مگا منو با قابلیت های تو در تو جدید ایجاد کنید. مگا منوها برای وب "
+"سایت هایی با ساختارهای ناوبری پیچیده و طراحی های منحصر به فرد ایده آل هستند. "
+"%1$s بیشتر بدانید %2$s"
+
+msgid ""
+"Create custom designed Popups using all of Elementor's widgets. Use advanced "
+"display conditions and triggers to display the right popup, to the right "
+"visitor, at the right time and maximize conversions."
+msgstr ""
+"با استفاده از تمام ویجت های المنتور، پنجره های پاپ آپ طراحی شده سفارشی ایجاد "
+"کنید. از شرایط و محرک های پیشرفته نمایش برای نمایش پنجره بازشو مناسب، به "
+"بازدیدکننده مناسب، در زمان مناسب و به حداکثر رساندن تبدیل استفاده کنید."
+
+msgid "Create template"
+msgstr "ایجاد الگو"
+
+msgid "Created At"
+msgstr "ایجاد شده در"
+
+msgid "Created At GMT"
+msgstr "ایجاد شده در GMT"
+
+msgid "Created on"
+msgstr "ایجاد شده است"
+
+msgid ""
+"Creates a dedicated workspace for your team and other stakeholders to leave "
+"comments and replies on your website while it's in progress. Notifications for "
+"mentions, replies, etc. are sent by email, and all notes are stored in your "
+"site's database."
+msgstr ""
+"یک فضای کاری اختصاصی برای تیم شما و سایر ذینفعان ایجاد می کند تا نظرات و پاسخ "
+"های خود را در حالی که وب سایت شما در حال انجام است بگذارند. اعلان ها برای منشن "
+"ها، پاسخ ها و غیره از طریق ایمیل ارسال می شوند و تمام یادداشت ها در پایگاه داده "
+"سایت شما ذخیره می شوند."
+
+msgid "Credit"
+msgstr "اعتبار"
+
+msgid "Cross-Sells"
+msgstr "Cross-Sells"
+
+msgid "Cube"
+msgstr "مکعب"
+
+msgid "Currency"
+msgstr "واحد پول"
+
+msgctxt "Currency"
+msgid "AED"
+msgstr "AED"
+
+msgctxt "Currency"
+msgid "AFN"
+msgstr "AFN"
+
+msgctxt "Currency"
+msgid "ALL"
+msgstr "همه"
+
+msgctxt "Currency"
+msgid "AMD"
+msgstr "AMD"
+
+msgctxt "Currency"
+msgid "ANG"
+msgstr "ANG"
+
+msgctxt "Currency"
+msgid "AOA"
+msgstr "AOA"
+
+msgctxt "Currency"
+msgid "ARS"
+msgstr "ARS"
+
+msgctxt "Currency"
+msgid "AUD"
+msgstr "AUD"
+
+msgctxt "Currency"
+msgid "AWG"
+msgstr "AWG"
+
+msgctxt "Currency"
+msgid "AZN"
+msgstr "AZN"
+
+msgctxt "Currency"
+msgid "BAM"
+msgstr "BAM"
+
+msgctxt "Currency"
+msgid "BBD"
+msgstr "BBD"
+
+msgctxt "Currency"
+msgid "BDT"
+msgstr "BDT"
+
+msgctxt "Currency"
+msgid "BGN"
+msgstr "BGN"
+
+msgctxt "Currency"
+msgid "BIF"
+msgstr "BIF"
+
+msgctxt "Currency"
+msgid "BMD"
+msgstr "BMD"
+
+msgctxt "Currency"
+msgid "BND"
+msgstr "BND"
+
+msgctxt "Currency"
+msgid "BOB"
+msgstr "BOB"
+
+msgctxt "Currency"
+msgid "BRL"
+msgstr "BRL"
+
+msgctxt "Currency"
+msgid "BSD"
+msgstr "BSD"
+
+msgctxt "Currency"
+msgid "BWP"
+msgstr "BWP"
+
+msgctxt "Currency"
+msgid "BYN"
+msgstr "BYN"
+
+msgctxt "Currency"
+msgid "BZD"
+msgstr "BZD"
+
+msgctxt "Currency"
+msgid "Baht"
+msgstr "بات"
+
+msgctxt "Currency"
+msgid "CAD"
+msgstr "CAD"
+
+msgctxt "Currency"
+msgid "CDF"
+msgstr "CDF"
+
+msgctxt "Currency"
+msgid "CHF"
+msgstr "CHF"
+
+msgctxt "Currency"
+msgid "CLP"
+msgstr "CLP"
+
+msgctxt "Currency"
+msgid "CNY"
+msgstr "CNY"
+
+msgctxt "Currency"
+msgid "COP"
+msgstr "COP"
+
+msgctxt "Currency"
+msgid "CRC"
+msgstr "CRC"
+
+msgctxt "Currency"
+msgid "CVE"
+msgstr "CVE"
+
+msgctxt "Currency"
+msgid "CZK"
+msgstr "CZK"
+
+msgctxt "Currency"
+msgid "DJF"
+msgstr "DJF"
+
+msgctxt "Currency"
+msgid "DKK"
+msgstr "DKK"
+
+msgctxt "Currency"
+msgid "DOP"
+msgstr "DOP"
+
+msgctxt "Currency"
+msgid "DZD"
+msgstr "DZD"
+
+msgctxt "Currency"
+msgid "Dollar"
+msgstr "دلار"
+
+msgctxt "Currency"
+msgid "EGP"
+msgstr "EGP"
+
+msgctxt "Currency"
+msgid "ETB"
+msgstr "ETB"
+
+msgctxt "Currency"
+msgid "EUR"
+msgstr "EUR"
+
+msgctxt "Currency"
+msgid "Euro"
+msgstr "یورو"
+
+msgctxt "Currency"
+msgid "FJD"
+msgstr "FJD"
+
+msgctxt "Currency"
+msgid "FKP"
+msgstr "FKP"
+
+msgctxt "Currency"
+msgid "Franc"
+msgstr "فرانک"
+
+msgctxt "Currency"
+msgid "GBP"
+msgstr "GBP"
+
+msgctxt "Currency"
+msgid "GEL"
+msgstr "GEL"
+
+msgctxt "Currency"
+msgid "GIP"
+msgstr "GIP"
+
+msgctxt "Currency"
+msgid "GMD"
+msgstr "GMD"
+
+msgctxt "Currency"
+msgid "GNF"
+msgstr "GNF"
+
+msgctxt "Currency"
+msgid "GTQ"
+msgstr "GTQ"
+
+msgctxt "Currency"
+msgid "GYD"
+msgstr "GYD"
+
+msgctxt "Currency"
+msgid "Guilder"
+msgstr "گیلدر"
+
+msgctxt "Currency"
+msgid "HKD"
+msgstr "HKD"
+
+msgctxt "Currency"
+msgid "HNL"
+msgstr "HNL"
+
+msgctxt "Currency"
+msgid "HRK"
+msgstr "HRK"
+
+msgctxt "Currency"
+msgid "HTG"
+msgstr "HTG"
+
+msgctxt "Currency"
+msgid "HUF"
+msgstr "HUF"
+
+msgctxt "Currency"
+msgid "IDR"
+msgstr "IDR"
+
+msgctxt "Currency"
+msgid "ILS"
+msgstr "ILS"
+
+msgctxt "Currency"
+msgid "INR"
+msgstr "INR"
+
+msgctxt "Currency"
+msgid "ISK"
+msgstr "ISK"
+
+msgctxt "Currency"
+msgid "JMD"
+msgstr "JMD"
+
+msgctxt "Currency"
+msgid "JPY"
+msgstr "JPY"
+
+msgctxt "Currency"
+msgid "KES"
+msgstr "KES"
+
+msgctxt "Currency"
+msgid "KGS"
+msgstr "KGS"
+
+msgctxt "Currency"
+msgid "KHR"
+msgstr "KHR"
+
+msgctxt "Currency"
+msgid "KMF"
+msgstr "KMF"
+
+msgctxt "Currency"
+msgid "KRW"
+msgstr "KRW"
+
+msgctxt "Currency"
+msgid "KYD"
+msgstr "KYD"
+
+msgctxt "Currency"
+msgid "KZT"
+msgstr "KZT"
+
+msgctxt "Currency"
+msgid "Krona"
+msgstr "کرونا"
+
+msgctxt "Currency"
+msgid "LAK"
+msgstr "LAK"
+
+msgctxt "Currency"
+msgid "LBP"
+msgstr "LBP"
+
+msgctxt "Currency"
+msgid "LKR"
+msgstr "LKR"
+
+msgctxt "Currency"
+msgid "LRD"
+msgstr "LRD"
+
+msgctxt "Currency"
+msgid "LSL"
+msgstr "LSL"
+
+msgctxt "Currency"
+msgid "Lira"
+msgstr "لیر"
+
+msgctxt "Currency"
+msgid "MAD"
+msgstr "MAD"
+
+msgctxt "Currency"
+msgid "MDL"
+msgstr "MDL"
+
+msgctxt "Currency"
+msgid "MGA"
+msgstr "MGA"
+
+msgctxt "Currency"
+msgid "MKD"
+msgstr "MKD"
+
+msgctxt "Currency"
+msgid "MMK"
+msgstr "MMK"
+
+msgctxt "Currency"
+msgid "MNT"
+msgstr "MNT"
+
+msgctxt "Currency"
+msgid "MOP"
+msgstr "MOP"
+
+msgctxt "Currency"
+msgid "MRO"
+msgstr "MRO"
+
+msgctxt "Currency"
+msgid "MUR"
+msgstr "MUR"
+
+msgctxt "Currency"
+msgid "MVR"
+msgstr "MVR"
+
+msgctxt "Currency"
+msgid "MWK"
+msgstr "MWK"
+
+msgctxt "Currency"
+msgid "MXN"
+msgstr "MXN"
+
+msgctxt "Currency"
+msgid "MYR"
+msgstr "MYR"
+
+msgctxt "Currency"
+msgid "MZN"
+msgstr "MZN"
+
+msgctxt "Currency"
+msgid "NAD"
+msgstr "NAD"
+
+msgctxt "Currency"
+msgid "NGN"
+msgstr "NGN"
+
+msgctxt "Currency"
+msgid "NIO"
+msgstr "NIO"
+
+msgctxt "Currency"
+msgid "NOK"
+msgstr "NOK"
+
+msgctxt "Currency"
+msgid "NPR"
+msgstr "NPR"
+
+msgctxt "Currency"
+msgid "NZD"
+msgstr "NZD"
+
+msgctxt "Currency"
+msgid "PAB"
+msgstr "PAB"
+
+msgctxt "Currency"
+msgid "PEN"
+msgstr "PEN"
+
+msgctxt "Currency"
+msgid "PGK"
+msgstr "PGK"
+
+msgctxt "Currency"
+msgid "PHP"
+msgstr "PHP"
+
+msgctxt "Currency"
+msgid "PKR"
+msgstr "PKR"
+
+msgctxt "Currency"
+msgid "PLN"
+msgstr "PLN"
+
+msgctxt "Currency"
+msgid "PYG"
+msgstr "PYG"
+
+msgctxt "Currency"
+msgid "Peseta"
+msgstr "پستا"
+
+msgctxt "Currency"
+msgid "Peso"
+msgstr "پشو"
+
+msgctxt "Currency"
+msgid "Pound Sterling"
+msgstr "پوند استرلینگ"
+
+msgctxt "Currency"
+msgid "QAR"
+msgstr "QAR"
+
+msgctxt "Currency"
+msgid "RON"
+msgstr "RON"
+
+msgctxt "Currency"
+msgid "RSD"
+msgstr "RSD"
+
+msgctxt "Currency"
+msgid "RUB"
+msgstr "RUB"
+
+msgctxt "Currency"
+msgid "RWF"
+msgstr "RWF"
+
+msgctxt "Currency"
+msgid "Real"
+msgstr "ریال"
+
+msgctxt "Currency"
+msgid "Ruble"
+msgstr "روبل"
+
+msgctxt "Currency"
+msgid "Rupee"
+msgstr "روپیه"
+
+msgctxt "Currency"
+msgid "Rupee (Indian)"
+msgstr "روپیه (هند)"
+
+msgctxt "Currency"
+msgid "SAR"
+msgstr "SAR"
+
+msgctxt "Currency"
+msgid "SBD"
+msgstr "SBD"
+
+msgctxt "Currency"
+msgid "SCR"
+msgstr "SCR"
+
+msgctxt "Currency"
+msgid "SEK"
+msgstr "SEK"
+
+msgctxt "Currency"
+msgid "SGD"
+msgstr "SGD"
+
+msgctxt "Currency"
+msgid "SHP"
+msgstr "SHP"
+
+msgctxt "Currency"
+msgid "SLL"
+msgstr "SLL"
+
+msgctxt "Currency"
+msgid "SOS"
+msgstr "SOS"
+
+msgctxt "Currency"
+msgid "SRD"
+msgstr "SRD"
+
+msgctxt "Currency"
+msgid "STD"
+msgstr "STD"
+
+msgctxt "Currency"
+msgid "SZL"
+msgstr "SZL"
+
+msgctxt "Currency"
+msgid "Shekel"
+msgstr "شکل (اسرائیل)"
+
+msgctxt "Currency"
+msgid "THB"
+msgstr "THB"
+
+msgctxt "Currency"
+msgid "TJS"
+msgstr "TJS"
+
+msgctxt "Currency"
+msgid "TOP"
+msgstr "TOP"
+
+msgctxt "Currency"
+msgid "TRY"
+msgstr "TRY"
+
+msgctxt "Currency"
+msgid "TTD"
+msgstr "TTD"
+
+msgctxt "Currency"
+msgid "TWD"
+msgstr "TWD"
+
+msgctxt "Currency"
+msgid "TZS"
+msgstr "TZS"
+
+msgctxt "Currency"
+msgid "UAH"
+msgstr "UAH"
+
+msgctxt "Currency"
+msgid "USD"
+msgstr "USD"
+
+msgctxt "Currency"
+msgid "UYU"
+msgstr "UYU"
+
+msgctxt "Currency"
+msgid "UZS"
+msgstr "UZS"
+
+msgctxt "Currency"
+msgid "VND"
+msgstr "VND"
+
+msgctxt "Currency"
+msgid "VUV"
+msgstr "VUV"
+
+msgctxt "Currency"
+msgid "WST"
+msgstr "WST"
+
+msgctxt "Currency"
+msgid "Won"
+msgstr "وون"
+
+msgctxt "Currency"
+msgid "XAF"
+msgstr "XAF"
+
+msgctxt "Currency"
+msgid "XCD"
+msgstr "XCD"
+
+msgctxt "Currency"
+msgid "XOF"
+msgstr "XOF"
+
+msgctxt "Currency"
+msgid "XPF"
+msgstr "XPF"
+
+msgctxt "Currency"
+msgid "YER"
+msgstr "YER"
+
+msgctxt "Currency"
+msgid "Yen/Yuan"
+msgstr "ین/یوان"
+
+msgctxt "Currency"
+msgid "ZAR"
+msgstr "ZAR"
+
+msgctxt "Currency"
+msgid "ZMW"
+msgstr "ZMW"
+
+msgid "Currency Format"
+msgstr "فرمت ارز"
+
+msgid "Currency Symbol"
+msgstr "علامت ارز"
+
+msgid "Current Author"
+msgstr "نویسنده کنونی"
+
+msgid "Current Date"
+msgstr "تاریخ فعلی"
+
+msgid "Current Date Time"
+msgstr "زمان تاریخ کنونی"
+
+msgid "Current Page"
+msgstr "صفحه ی کنونی"
+
+msgid "Current Post"
+msgstr "نوشته کنونی"
+
+msgid "Current Query"
+msgstr "کوئری کنونی"
+
+msgid "Current Subcategories"
+msgstr "زیر دسته‌های کنونی"
+
+msgid "Custom"
+msgstr "دلخواه"
+
+msgid "Custom (Advanced)"
+msgstr "سفارشی (پیشرفته)"
+
+msgid "Custom API Key"
+msgstr "کلید API سفارشی"
+
+msgid "Custom Add To Cart"
+msgstr "افزودن به سبد خرید دلخواه"
+
+msgid "Custom Attributes"
+msgstr "ویژگی‌های دلخواه"
+
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+msgid "Custom CTA Button"
+msgstr "دکمه CTA دلخواه"
+
+msgid "Custom Caption"
+msgstr "عنوان سفارشی"
+
+msgid "Custom Code"
+msgstr "کد سفارشی"
+
+msgid "Custom Date Format"
+msgstr "فرمت تاریخ دلخواه"
+
+msgid "Custom Field"
+msgstr "زمینه‌ دلخواه"
+
+msgid "Custom Fonts"
+msgstr "فونت‌های دلخواه"
+
+msgid ""
+"Custom Fonts allows you to add your self-hosted fonts and use them on your "
+"Elementor projects to create a unique brand language."
+msgstr ""
+"فونت های سفارشی به شما این امکان را می دهد که فونت های خود میزبان خود را اضافه "
+"کنید و از آنها در پروژه های المنتور خود برای ایجاد یک زبان برند منحصر به فرد "
+"استفاده کنید."
+
+msgid "Custom Format"
+msgstr "فرمت دلخواه"
+
+msgid "Custom Height"
+msgstr "ارتفاع دلخواه"
+
+msgid "Custom Hotspot Size"
+msgstr "اندازه کانون گرم دلخواه"
+
+msgid "Custom Icon"
+msgstr "آیکون‌ دلخواه"
+
+msgid "Custom Icons"
+msgstr "آیکون‌های دلخواه"
+
+msgid "Custom Key"
+msgstr "کلید سفارشی"
+
+msgid "Custom Label"
+msgstr "برچسب دلخواه"
+
+msgid "Custom Messages"
+msgstr "پیام‌های سفارشی"
+
+msgid "Custom Position"
+msgstr "موقعیت سفارشی"
+
+msgid "Custom Symbol"
+msgstr "علامت دلخواه"
+
+msgid "Custom Time Format"
+msgstr "فرمت زمان دلخواه"
+
+msgid "Custom Tooltip Properties"
+msgstr "ویژگی های متن راهنما دلخواه"
+
+msgid "Custom URL"
+msgstr "آدرس لینک"
+
+msgid "Custom code"
+msgstr "کد سفارشی"
+
+msgid "Custom code draft updated."
+msgstr "پیش نویس کد سفارشی به روز شد."
+
+msgid "Custom code published."
+msgstr "کد سفارشی منتشر شد."
+
+msgid "Custom code saved."
+msgstr "کد سفارشی ذخیره شد."
+
+msgid "Custom code scheduled for %s."
+msgstr "کد سفارشی برای %s برنامه ریزی شده است."
+
+msgid "Custom code submitted."
+msgstr "کد سفارشی ارسال شد."
+
+msgid "Custom code updated."
+msgstr "کد سفارشی به روز شد."
+
+msgid "Custom field deleted."
+msgstr "زمینه سفارشی حذف شد."
+
+msgid "Custom field updated."
+msgstr "زمینه سفارشی به روز شد."
+
+msgid "Customize"
+msgstr "شخصی سازی"
+
+msgid "Customize Dashboard"
+msgstr "طراحی دلخواه داشبورد"
+
+msgid "Customize empty cart"
+msgstr "سبد خالی را سفارشی کنید"
+
+msgid "Customize: Additional Information"
+msgstr "سفارشی سازی : اطلاعات اضافی"
+
+msgid "Customize: Billing Details"
+msgstr "سفارشی کردن: جزئیات صورتحساب"
+
+msgid "Customize: Coupon"
+msgstr "شخصی سازی کوپن"
+
+msgid "Customize: Order Summary"
+msgstr "سفارشی کردن: خلاصه سفارش"
+
+msgid "Customize: Payment"
+msgstr "سفارشی سازی: پرداخت"
+
+msgid "Customize: Returning Customer"
+msgstr "سفارشی سازی: مشتری بازگشتی"
+
+msgid "Customize: Shipping Address"
+msgstr "سفارشی کردن: آدرس حمل و نقل"
+
+msgid "Customize: Totals"
+msgstr "شخصی سازی : مجموع"
+
+msgid "DESC"
+msgstr "نزولی"
+
+msgid "Daily"
+msgstr "روزانه"
+
+msgid "Danger"
+msgstr "خطر"
+
+msgid "Dark"
+msgstr "تاریک"
+
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+msgid "Dashed"
+msgstr "نقطه چین"
+
+msgid "Data"
+msgstr "اطلاعات"
+
+msgid "Data Tabs"
+msgstr "زبانه‌های اطلاعات"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Date Archive"
+msgstr "تاریخ آرشیو"
+
+msgid "Date Field"
+msgstr "زمینه تاریخ"
+
+msgid "Date Format"
+msgstr "فرمت تاریخ"
+
+msgctxt "Date Format"
+msgid "March 6, 2018 (F j, Y)"
+msgstr "March 6, 2018 (F j, Y)"
+
+msgid "Date Modified"
+msgstr "تاریخ اصلاح شد"
+
+msgid "Date Time Field"
+msgstr "زمینه تاریخ زمان"
+
+msgid "Date and Time"
+msgstr "تاریخ و زمان"
+
+msgid "Date of Publish"
+msgstr "تاریخ انتشار"
+
+msgid "Date set according to your timezone: %s."
+msgstr "تاریخ تعیین شده با توجه به منطقه زمانی شما: %s."
+
+msgid "Date:"
+msgstr "تاریخ :"
+
+msgid "Day"
+msgstr "روز"
+
+msgid "Day Of Cycle"
+msgstr "چرخش در روز"
+
+msgid "Day of the week"
+msgstr "روز هفته"
+
+msgid "Day: %s"
+msgstr "روز: %s"
+
+msgid "Days"
+msgstr "روز‌ها"
+
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+msgid "Default"
+msgstr "پیشفرض"
+
+msgid "Default (Simple)"
+msgstr "پیشفرض (ساده)"
+
+msgid "Default Page Template from your theme"
+msgstr "قالب کلی برگه بر اساس پوسته شما"
+
+msgid "Default Value"
+msgstr "مقدار پیشفرض"
+
+msgid "Default to New Theme Builder"
+msgstr "سازنده الگو جدید به پیشفرض"
+
+msgid "Define in which order the Custom Code will appear"
+msgstr "مشخص کنید کد سفارشی به چه ترتیب ظاهر می شود"
+
+msgid ""
+"Define one or multiple conditions per widget, controlling when they're visible. "
+"Widgets will only appear on the front end if these conditions are met. It's "
+"ideal for showing content to specific audiences based on time, date, user role, "
+"and more. %1$sLearn More%2$s%3$s%4$sRequires: Elementor version 3.19%5$s"
+msgstr ""
+"برای هر ویجت یک یا چند شرط تعریف کنید و زمان مشاهده آنها را کنترل کنید. ویجت ها "
+"فقط در صورتی در قسمت جلویی ظاهر می شوند که این شرایط رعایت شوند. این برای نمایش "
+"محتوا به مخاطبان خاص بر اساس زمان، تاریخ، نقش کاربر و موارد دیگر ایده آل است. "
+"%1$s بیشتر بدانید %2$s%3$s%4$s مورد نیاز: المنتور نسخه 3.19%5$s"
+
+msgid "Define where the Custom Code will appear"
+msgstr "مشخص کنید کد سفارشی کجا ظاهر می شود"
+
+msgid "Delay"
+msgstr "تاخیر"
+
+msgid "Delete"
+msgstr "پاک کردن"
+
+msgid "Depth"
+msgstr "عمق"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Description Color"
+msgstr "رنگ توضیح"
+
+msgid "Description HTML Tag"
+msgstr "تگ HTML توضیحات"
+
+msgid "Descriptions"
+msgstr "توضیحات"
+
+msgid "Desktop"
+msgstr "دسکتاپ"
+
+msgid "Desktop (or smaller)"
+msgstr "دسکتاپ (یا کوچکتر )"
+
+msgid "Digits"
+msgstr "ارقام"
+
+msgid "Direct"
+msgstr "مستقیم"
+
+msgid "Direct Child %s Of"
+msgstr "چایلد مستقیم %s از"
+
+msgid "Direct Child Of"
+msgstr "چایلد مستقیم"
+
+msgid "Direction"
+msgstr "جهت"
+
+msgid "Disable"
+msgstr "غیرفعال"
+
+msgid "Disable Page Scrolling"
+msgstr "غیرفعال کردن اسکرول صفحه"
+
+msgid "Disc"
+msgstr "دیسک"
+
+msgid "Disconnect"
+msgstr "قطع شده"
+
+msgid "Discord"
+msgstr "اختلاف نظر"
+
+msgid "Display Conditions"
+msgstr "نمایش شرط‌ها"
+
+msgid "Display Name"
+msgstr "نمایش نام"
+
+msgid "Display Percentage"
+msgstr "نمایش درصد"
+
+msgid "Displayed Elements"
+msgstr "عناصر نمایش داده شده"
+
+msgid ""
+"Displayed if no relevant results are found. Manual selection display order is "
+"random"
+msgstr ""
+"نمایش داده می‌شود اگر نتایح مربوطه پیدا نشد. منظور نمایش انتخاب دستی براساس "
+"تصادفی است"
+
+msgid "Distance"
+msgstr "فاصله"
+
+msgid "Distance from content"
+msgstr "فاصله از محتوا"
+
+msgid "Distance from dropdown"
+msgstr "فاصله از کشویی"
+
+msgid "Divider"
+msgstr "تقسیم کننده"
+
+msgid "Divider Gap"
+msgstr "فاصله تقسیم کننده"
+
+msgid "Divider Style"
+msgstr "طرح تقسیم کننده"
+
+msgid "Divider Total"
+msgstr "تقسیم کننده کل"
+
+msgid "Divider Width"
+msgstr "عرض تقسیم کننده"
+
+msgid "Dividers"
+msgstr "تقسیم کننده ها"
+
+msgid "Document doesn't exist"
+msgstr "سند وجود ندارد"
+
+msgid "Documentation on date and time formatting"
+msgstr "مستندات در فرمت تاریخ و زمان"
+
+msgid "Does not contain"
+msgstr "شامل نمی شود"
+
+msgid "Don't Show Again"
+msgstr "دوباره نمایش نده"
+
+msgid ""
+"Don't rely solely on the FontAwesome icons everyone else is using! Differentiate "
+"your website and your style with custom icons you can upload from your favorite "
+"icons source."
+msgstr ""
+"فقط به آیکون های فونت آسم که دیگران استفاده می کنند تکیه نکنید! وب سایت و سبک "
+"خود را با آیکون های سفارشی که می توانید از منبع آیکون های مورد علاقه خود آپلود "
+"کنید متمایز کنید."
+
+msgid "Don't want to receive these notifications?"
+msgstr "نمی خواهید این اعلان ها را دریافت کنید؟"
+
+msgid "Donation"
+msgstr "کمک مالی"
+
+msgid "Donation Amount"
+msgstr "مقدارکمک مالی"
+
+msgid "Done!"
+msgstr "تمام  شد!"
+
+msgid "Dots"
+msgstr "نقطه"
+
+msgid "Dotted"
+msgstr "نقطه چین"
+
+msgid "Double"
+msgstr "دوبرابر"
+
+msgid "Double Angle"
+msgstr "دو زوایه"
+
+msgid "Double Line"
+msgstr "خط دو"
+
+msgid "Double Opt-In"
+msgstr "دو انتخابی"
+
+msgid "Down"
+msgstr "پایین"
+
+msgid "Downloads"
+msgstr "دانلودها"
+
+msgid "Drag & Drop to Upload"
+msgstr "برای آپلود بکشید و رها کنید"
+
+msgid "Drip"
+msgstr "Drip"
+
+msgid ""
+"Drop this widget anywhere on the page or template where you want notices to "
+"appear."
+msgstr ""
+"این ابزارک را در هر جایی از صفحه یا الگو که می‌خواهید اعلان ها نمایش داده شوند، "
+"رها کنید."
+
+msgid "Dropdown"
+msgstr "کرکره‌ای"
+
+msgid "Dropdown Box"
+msgstr "جعیه کشویی"
+
+msgid "Dropdown Content"
+msgstr "محتوای کشویی"
+
+msgid "Dropdown Effect"
+msgstr "افکت کشویی"
+
+msgid "Dropdown Indicator"
+msgstr "نشانگر کشویی"
+
+msgid "Dropdown Menu"
+msgstr "منو کشویی"
+
+msgid "Due Date"
+msgstr "موعد مقرر"
+
+msgid "Duration"
+msgstr "مدت زمان"
+
+msgid "Dynamic Tags"
+msgstr "برچسب های پویا"
+
+msgid "Edge"
+msgstr "Edge"
+
+msgid "Edit"
+msgstr "ويرايش"
+
+msgid "Edit Font"
+msgstr "ویرایش فونت"
+
+msgid "Edit Font Type"
+msgstr "ویرایش نوع فونت"
+
+msgid "Edit Handle Selector"
+msgstr "انتخابگر دسته را ویرایش کنید"
+
+msgid "Edit Icon Set"
+msgstr "ویرایش آیکون تنظیم"
+
+msgid "Edit Template"
+msgstr "ویرایش الگو"
+
+msgid "Edit code"
+msgstr "ویرایش کد"
+
+msgid "Edit global widget"
+msgstr "ویرایش ابزارک سراسری"
+
+msgid "Edit template"
+msgstr "ویرایش الگو"
+
+msgid ""
+"Edit this global widget to simultaneously update every place you used it, or "
+"unlink it so it gets back to being regular widget."
+msgstr ""
+"این ابزارک سراسری را ویرایش کنید تا به طور همزمان هرجایی که از آن استفاده "
+"کرده‌اید، بروزرسانی شود یا آن را قطع کنید تا ابزارک منظم به وی بازگردد."
+
+msgid "Effect"
+msgstr "جلوه"
+
+msgid "Effects Offset"
+msgstr "افست افکت"
+
+msgid "Effects Relative To"
+msgstr "اثرات نسبی به"
+
+msgid ""
+"Either choose an existing template or create a new one and use it as the main "
+"item for your loop."
+msgstr ""
+"یا یک الگوی موجود را انتخاب کنید یا یک قالب جدید ایجاد کنید و از آن به عنوان "
+"مورد اصلی حلقه خود استفاده کنید."
+
+msgid "Element"
+msgstr "المان"
+
+msgid "Elementor"
+msgstr "المنتور"
+
+msgid "Elementor - Notes"
+msgstr "یادداشت ها - المنتور"
+
+msgid "Elementor Canvas"
+msgstr "بوم المنتور"
+
+msgctxt "Elementor Font"
+msgid "Custom Fonts"
+msgstr "فونت‌های دلخواه"
+
+msgctxt "Elementor Font"
+msgid "Custom Icons"
+msgstr "آیکون‌های دلخواه"
+
+msgid "Elementor Forms"
+msgstr "فرم‌های المنتور"
+
+msgid "Elementor Full Width"
+msgstr "عرض کامل المنتور"
+
+msgid "Elementor Is Making the Web Beautiful!!!"
+msgstr "المنتور به صورت زیبا وب را ایجاد می‌کند!!!"
+
+msgid "Elementor Library"
+msgstr "کتابخانه المنتور"
+
+msgid "Elementor Logo"
+msgstr "لوگو المنتور"
+
+msgid "Elementor Notes"
+msgstr "یادداشت های المنتور"
+
+msgid "Elementor Pro"
+msgstr "المنتور پرو"
+
+msgid "Elementor Pro Data Updater"
+msgstr "بروز کننده داده المنتور پرو"
+
+msgid "Elementor Pro plugin requires installing the Elementor plugin"
+msgstr "افزونه Elementor Pro نیاز به نصب افزونه Elementor دارد"
+
+msgid "Elementor Pro v%s"
+msgstr "المنتور پرو نسخه %s"
+
+msgid "Elementor Submissions"
+msgstr "ارسالی های المنتور"
+
+msgid "Elementor recognized that you have set this location for other templates: "
+msgstr "المنتور متوجه شده است که این مکان را برای سایر قالب‌ها تنظیم کرده‌اید: "
+
+msgid "Elementor template shortcode for template %s"
+msgstr "کد کوتاه الگوی المنتور برای الگو %s"
+
+msgid "Elementor.com"
+msgstr "Webdenj"
+
+msgid ""
+"Elevate your designs and unlock the full power of Elementor. Gain access to "
+"dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce "
+"building capabilities."
+msgstr ""
+"طرح های خود را بالا ببرید و قدرت کامل المنتور را باز کنید. دسترسی به ده ها ویدجت "
+"و کیت Pro ، Theme Builder ، Pop Ups ، Forms و قابلیت های ساخت ووکامرس."
+
+msgid "Email"
+msgstr "مقدار"
+
+msgid "Email 2"
+msgstr "ایمیل 2"
+
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+msgid "Email with attachment"
+msgstr "ایمیل با پیوست"
+
+msgid "Email with both"
+msgstr "با هر دو ایمیل بزنید"
+
+msgid "Email with link"
+msgstr "ایمیل با لینک"
+
+msgid "Embed"
+msgstr "جاسازی"
+
+msgid "Embed your saved elements."
+msgstr "المان‌های ذخیره شده خود را جاسازی کنید."
+
+msgid "Embedded OpenType, Used by IE6-IE9 Browsers"
+msgstr "جاسازی OpenType، مورد استفاده برای مرورگرهای IE6-IE9"
+
+msgid "Empty Cart Message Color"
+msgstr "رنگ پیام سبد خرید خالی"
+
+msgid "Empty Items"
+msgstr "موارد خالی"
+
+msgid "Empty Star Color"
+msgstr "رنگ ستاره خالی"
+
+msgid "Enable"
+msgstr "فعال"
+
+msgid "Enable Elementor Notes notifications"
+msgstr "اعلان‌های یادداشت های المنتور را فعال کنید"
+
+msgid "End"
+msgstr "پایان"
+
+msgid "End Point"
+msgstr "نقطه پایان"
+
+msgid "Enjoy Creative Freedom %s with Custom Code"
+msgstr "از آزادی خلاق %s با کد سفارشی لذت ببرید"
+
+msgid "Enter Font Family"
+msgstr "خانواده فونت را وارد کنید"
+
+msgid "Enter Icon Set Name"
+msgstr "نام تنظیم آیکون را وارد کنید"
+
+msgid "Enter Your %1$sFont Awesome Pro Kit ID%2$s."
+msgstr "شناسه Font %1$s Awesome Pro Kit %2$s خود را وارد کنید."
+
+msgid "Enter Your %1$sTypeKit Project ID%2$s."
+msgstr "شناسه پروژه %1$sTypeKit %2$s خود را وارد کنید."
+
+msgid ""
+"Enter each option in a separate line. To differentiate between label and value, "
+"separate them with a pipe char (\"|\"). For example: First Name|f_name"
+msgstr ""
+"هر گزینه را در یک خط جداگانه وارد کنید. برای تمایز بین برچسب و مقدار، آن‌ها را با "
+"یک علامت لوله (\"|\") جدا کنید. به عنوان مثال: نام|f_name"
+
+msgid "Enter each word in a separate line"
+msgstr "هر کلمه را در یک خط جداگانه وارد کنید"
+
+msgid "Enter the allowed file types, separated by a comma (jpg, gif, pdf, etc)."
+msgstr "نوع فایل‌ فایل مجاز را با کاما از هم جدا کنید (jpg, gif, pdf, غیره)."
+
+msgid ""
+"Enter the integration URL (like Zapier) that will receive the form's submitted "
+"data."
+msgstr ""
+"آدرس یکپارچه‌سازی را وراد کنید (مثلا Zapier) که داده‌های ارسال شده فرم را دریافت "
+"می‌کند."
+
+msgid "Enter the webhook URL that will receive the form's submitted data."
+msgstr ""
+"آدرس لینک های وب هوک که داده‌های ارسال شده فرم را دریافت می‌کنند را وارد کنید."
+
+msgid "Enter your Live secret key %1$slink%2$s."
+msgstr "کلید مخفی زنده %1$s لینک %2$s خود را وارد کنید."
+
+msgid "Enter your URL"
+msgstr "آدرس اینترنتی خود را وارد کنید"
+
+msgid "Enter your description"
+msgstr "توضیح خود را وارد کنید"
+
+msgid "Enter your headline"
+msgstr "سرعنوان را وارد کنید"
+
+msgid "Enter your image caption"
+msgstr "زیرنویس تصویر خود را وارد کنید"
+
+msgid ""
+"Enter your license key here, to activate Elementor Pro, and get feature updates, "
+"premium support and unlimited access to the template library."
+msgstr ""
+"کلید لایسنس خود را اینجا وارد کنید تا المنتور پرو فعال‌سازی شود و بروزرسانی "
+"خودکار، پشتیبانی و دسترسی نامحدود به کتابخانه الگوها را داشته باشید."
+
+msgid "Enter your quote"
+msgstr "نقل‌قول خود را وارد کنید"
+
+msgid "Enter your test secret key %1$slink%2$s."
+msgstr "کلید محرمانه آزمایشی خود را وارد کنید پیوند %1$s %2$s."
+
+msgid "Enter your title"
+msgstr "عنوان خود را وارد کنید"
+
+msgid "Enter your video link"
+msgstr "پیوند ویدئو خود را وارد کنید"
+
+msgid ""
+"Entering the Theme Builder through WP Dashboard > Templates > Theme Builder "
+"opens the New theme builder by default. But don’t worry, you can always view the "
+"WP styled version of the screen with a simple click of a button."
+msgstr ""
+"با وارد کردن سازنده قالب از طریق پیشخوان وردپرس > الگو ها > سازنده قالب جدید به "
+"طور پیشفرض باز می شود. اما نگران نباشید، همیشه می‌توانید نسخه وردپرس استایل صفحه "
+"را با یک کلیک ساده مشاهده کنید."
+
+msgid "Entire Page"
+msgstr "صفحه ورودی"
+
+msgid "Entire Shop"
+msgstr "ورودی فروشگاه"
+
+msgid "Entire Site"
+msgstr "همه صفحات"
+
+msgid "Entrance"
+msgstr "ورود"
+
+msgid "Entrance Animation"
+msgstr "انمیشین هنگام ورود"
+
+msgid "Equal Height"
+msgstr "ارتفاع مساوی"
+
+msgid "Equal height"
+msgstr "ارتفاع مساوی"
+
+msgid "Error 404"
+msgstr "خطا 404"
+
+msgid "Error Message"
+msgstr "پیام خطا"
+
+msgid "Error Message Color"
+msgstr "رنگ پیام خطا"
+
+msgid "Error Notices"
+msgstr "اعلان های خطا"
+
+msgid ""
+"Error occurred, The version selected is invalid. Try selecting different version."
+msgstr "خطایی روی داد ، نسخه انتخابی نامعتبر است. نسخه متفاوتی را انتخاب کنید."
+
+msgid "Error while saving conditions."
+msgstr "خطا در هنگام صرفه جویی در شرایط."
+
+msgid "Error!"
+msgstr "خطا!"
+
+msgid "Events"
+msgstr "رویدادها"
+
+msgid "Evergreen Timer"
+msgstr "تایمر همیشه سبز"
+
+msgid "Excerpt"
+msgstr "طول خلاصه"
+
+msgid "Excerpt Length"
+msgstr "طول خلاصه مطلب"
+
+msgid "Exclude"
+msgstr "محروم کردن"
+
+msgid "Exclude By"
+msgstr "محروم کردن توسط"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Exit Animation"
+msgstr "انیمیشن خروج"
+
+msgid "Expand"
+msgstr "توسعه"
+
+msgid "Expand Icon"
+msgstr "آیکون گسترش"
+
+msgid "Expired"
+msgstr "پایان یافته"
+
+msgid "Explore Add-ons"
+msgstr "افزونه ها را کاوش کنید"
+
+msgid "Extend Elementor With Add-ons"
+msgstr "المنتور را با افزونه ها گسترش دهید"
+
+msgid "External Links"
+msgstr "لینک‌های خارجی"
+
+msgid "External URL"
+msgstr "URL خارجی"
+
+msgid "Extra Large"
+msgstr "بسیار بزرگ"
+
+msgid "Extra Small"
+msgstr "کوچک اضافی"
+
+msgid "Facebook App ID is not valid"
+msgstr "شناسه اپ فیسبوک نامعتبر است"
+
+msgid "Facebook Button"
+msgstr "دکمه اشتراک گذاری"
+
+msgid "Facebook Comments"
+msgstr "دیدگاه‌های فیسبوک"
+
+msgid "Facebook Embed"
+msgstr "فیسبوک جاسازی شده"
+
+msgid "Facebook Page"
+msgstr "صفحه‌ی فیسبوک"
+
+msgid "Facebook SDK"
+msgstr "Facebook SDK"
+
+msgid ""
+"Facebook SDK lets you connect to your %1$sdedicated application%2$s so you can "
+"track the Facebook Widgets analytics on your site."
+msgstr ""
+"Facebook SDK به شما امکان می دهد به %1$s برنامه اختصاصی %2$s خود متصل شوید تا "
+"بتوانید تجزیه و تحلیل Widgets Facebook را در سایت خود ردیابی کنید."
+
+msgid "Faces"
+msgstr "چهره‌ها"
+
+msgid "Fade"
+msgstr "محو"
+
+msgid "Fade By Direction"
+msgstr "جهت براساس محو شدن"
+
+msgid "Fade Grow"
+msgstr "محو شدن"
+
+msgid "Fade In"
+msgstr "Fade In"
+
+msgid "Fade In Down"
+msgstr "Fade In Down"
+
+msgid "Fade In Left"
+msgstr "Fade In Left"
+
+msgid "Fade In Right"
+msgstr "Fade In Right"
+
+msgid "Fade In Up"
+msgstr "Fade In Up"
+
+msgid "Fade In/Out"
+msgstr "محو شدن/خارج شدن"
+
+msgid "Fade Out"
+msgstr "Fade Out"
+
+msgid "Fade Out Down"
+msgstr "Fade Out Down"
+
+msgid "Fade Out Left"
+msgstr "Fade Out Left"
+
+msgid "Fade Out Right"
+msgstr "Fade Out Right"
+
+msgid "Fade Out Up"
+msgstr "Fade Out Up"
+
+msgid "Fade in"
+msgstr "محو به داخل"
+
+msgid "Failed to write file to disk."
+msgstr "نوشتن فایل روی دیسک شکست خورد."
+
+msgid "Fallback"
+msgstr "جایگزین"
+
+msgid "Featured"
+msgstr "شاخص"
+
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+msgid "Featured Image Data"
+msgstr "اطلاعات تصویر شاخص"
+
+msgid "Features"
+msgstr "ویژگی‌ها"
+
+msgid "Field"
+msgstr "فیلد"
+
+msgid "Field Mapping"
+msgstr "نقشه‌‌برداری زمینه"
+
+msgid "Fields"
+msgstr "زمینه‌ها"
+
+msgid "File Field"
+msgstr "زمینه فایل"
+
+msgid "File URL"
+msgstr "آدرس فایل"
+
+msgid "File Upload"
+msgstr "بارگذاری فایل"
+
+msgid "Filter Bar"
+msgstr "نوار فیلتر"
+
+msgid "Filter By"
+msgstr "فیلتر براساس"
+
+msgid "Filter Logic"
+msgstr "منطق فیلتر"
+
+msgid ""
+"Find the plan that matches your needs and enjoy Pro widgets, templates, and "
+"support for a whole year."
+msgstr ""
+"طرحی را پیدا کنید که با نیازهای شما مطابقت دارد و از ویجت ها، قالب ها و پشتیبانی "
+"Pro برای یک سال تمام لذت ببرید."
+
+msgid "Firefox"
+msgstr "فایرفاکس"
+
+msgid "First Item"
+msgstr "اولین مورد"
+
+msgid "First Item Title"
+msgstr "عنوان اولین مورد"
+
+msgid "First Name"
+msgstr "نام"
+
+msgid "First item on the list"
+msgstr "اولین مورد روی این لیست"
+
+msgid "Fit To Content"
+msgstr "متناسب با محتوا"
+
+msgid "Fit To Screen"
+msgstr "هم اندازه صفحه نمایش"
+
+msgid "Fixed"
+msgstr "فیکس"
+
+msgid "Flash"
+msgstr "فلش"
+
+msgid "Flat"
+msgstr "تخت"
+
+msgid "Flip Box"
+msgstr "جعبه تلنگر"
+
+msgid "Flip Direction"
+msgstr "جهت تلنگر"
+
+msgid "Flip Effect"
+msgstr "افکت تلنگر"
+
+msgid "Focus"
+msgstr "کانون"
+
+msgid "Font %s was not found."
+msgstr "فونت %s پیدا نشد."
+
+msgid "Font Awesome - Brands Pro"
+msgstr "Font Awesome - Brands Pro"
+
+msgid "Font Awesome - Duotone Pro"
+msgstr "Font Awesome - Duotone Pro"
+
+msgid "Font Awesome - Light Pro"
+msgstr "Font Awesome - Light Pro"
+
+msgid "Font Awesome - Regular Pro"
+msgstr "Font Awesome - Regular Pro"
+
+msgid "Font Awesome - Solid Pro"
+msgstr "Font Awesome - Solid Pro"
+
+msgid "Font Awesome Pro"
+msgstr "Font Awesome Pro"
+
+msgid "Font Awesome, the web's most popular icon set and toolkit, Pro Integration"
+msgstr "مجموعه Font Awesome از محبوب‌ترین ابزارهای وب برای ادغام پرو است"
+
+msgid "Font Family"
+msgstr "خانواده فونت"
+
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+msgid "Font Types"
+msgstr "نوع فونت"
+
+msgid "Font draft updated."
+msgstr "پیش نویس فونت بروزرسانی شد."
+
+msgid "Font restored to revision from %s"
+msgstr "فونت به نسخه %s بازگردانی شد"
+
+msgid "Font saved."
+msgstr "فونت ذخیره شد."
+
+msgid "Font submitted."
+msgstr "فونت ثبت شد."
+
+msgctxt "Font type singular name"
+msgid "Font Type"
+msgstr "نوع فونت"
+
+msgctxt "Font type taxonomy general name"
+msgid "Font Types"
+msgstr "انواع فونت"
+
+msgid "Font updated."
+msgstr "فونت بروزرسانی شد."
+
+msgid "Fontastic"
+msgstr "خارق العاده"
+
+msgid "Fontello"
+msgstr "فونتلو"
+
+msgid ""
+"Fonts Families Found in project. Please note that typekit takes a few minutes to "
+"sync once you publish or update a project."
+msgstr ""
+"خانواده‌های فونت در پروژه پیدا شد. لطفاً توجه داشته باشید که بعد از انتشار یا "
+"بروزرسانی typekit ممکن است برای همگام‌سازی چند دقیقه طول بکشد."
+
+msgid "Footer"
+msgstr "پانوشت"
+
+msgid "Footers"
+msgstr "پاورقی ها"
+
+msgid "For example, choose 'Entire Site' to display the template across your site."
+msgstr "برای مثال، انتخاب 'همه صفحات' برای نمایش الگو در سایت شما."
+
+msgid ""
+"For multiple Loop Widgets on the same page, toggle this on to control the "
+"pagination for each individually. Note: It affects the page's URL structure."
+msgstr ""
+"برای چندین ویجت حلقه در یک صفحه، این را روشن کنید تا صفحه بندی هر کدام به صورت "
+"جداگانه کنترل شود. توجه: بر ساختار URL صفحه تأثیر می گذارد."
+
+msgid ""
+"For multiple Posts Widgets on the same page, toggle this on to control the "
+"pagination for each individually. Note: It affects the page's URL structure."
+msgstr ""
+"برای ویجت‌های چند پست در یک صفحه، این مورد را روشن کنید تا صفحه‌بندی هر کدام "
+"به‌صورت جداگانه کنترل شود. توجه: بر ساختار URL صفحه تأثیر می گذارد."
+
+msgid ""
+"For this widget to work, you need to set your Stripe API keys in the "
+"%1$sIntegrations Settings%2$s."
+msgstr ""
+"برای اینکه این ابزارک کار کند، باید کلیدهای Stripe API خود را در %1$s تنظیمات "
+"ادغام %2$s تنظیم کنید."
+
+msgid ""
+"For visitors from the EU, Facebook widgets will only work for site visitors if "
+"they have logged into Facebook and consented to cookies. %1$sLearn more%2$s"
+msgstr ""
+"برای بازدیدکنندگان از اتحادیه اروپا، ابزارک های فیس‌بوک تنها در صورتی برای "
+"بازدیدکنندگان سایت کار می‌کنند که به فیسبوک وارد شده باشند و با کوکی‌ها موافقت "
+"کرده باشند. %1$sبیشتر بیاموزید%2$s"
+
+msgid "Form"
+msgstr "فرم"
+
+msgid "Form Data"
+msgstr "اطلاعات فرم"
+
+msgid "Form Error"
+msgstr "خطای فرم"
+
+msgid "Form Fields"
+msgstr "زمینه‌های فرم"
+
+msgid "Form ID"
+msgstr "شناسه فرم"
+
+msgid "Form Items"
+msgstr "موارد فرم"
+
+msgid "Form Name"
+msgstr "نام فرم"
+
+msgid "Form Name (ID)"
+msgstr "نام فرم (شناسه)"
+
+msgid "Form Submissions"
+msgstr "ارسال فرم"
+
+msgid "Form Validation"
+msgstr "اعتبار سنجی فرم"
+
+msgid "Format"
+msgstr "فرمت"
+
+msgid "Forms"
+msgstr "فرم ها"
+
+msgid "Fraction"
+msgstr "کسری"
+
+msgid "Fractional Part"
+msgstr "قسمت جزئی"
+
+msgid "Framed"
+msgstr "قاب شده"
+
+msgid "Friday"
+msgstr "جمعه"
+
+msgid "From Email"
+msgstr "ایمیل فرستنده"
+
+msgid "From Name"
+msgstr "نام فرستنده"
+
+msgid "From URL"
+msgstr "لینک فرم"
+
+msgid "Front"
+msgstr "فرانت"
+
+msgid "Front Page"
+msgstr "صفحه بخش ظاهری سایت"
+
+msgid "Full Content"
+msgstr "محتوای کامل"
+
+msgid "Full Post"
+msgstr "نوشته کامل"
+
+msgid "Full Screen"
+msgstr "تمام صفحه"
+
+msgid "Full Width"
+msgstr "تمام عرض"
+
+msgid "Galleries"
+msgstr "گالری"
+
+msgid "Gallery"
+msgstr "گالری"
+
+msgid "Gallery Field"
+msgstr "زمینه گالری"
+
+msgid "Gallery filter"
+msgstr "فیلتر گالری"
+
+msgid "Gap"
+msgstr "فاصله"
+
+msgid "Gap between columns"
+msgstr "فاصله بین ستون ها"
+
+msgid "Gap between rows"
+msgstr "فاصله بین ردیف ها"
+
+msgid "Gap between slides"
+msgstr "فاصله بین اسلایدها"
+
+msgid "Gateway not connected. Contact seller"
+msgstr "هیچ روش پرداختی متصل نیست. با فروشنده تماس بگیرید"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "General Text"
+msgstr "متن عمومی"
+
+msgid "Get Popup Builder"
+msgstr "پاپ آپ ساز را دریافت کنید"
+
+msgid "Get Project ID"
+msgstr "دریافت شناسه پروژه"
+
+msgid "Get Video Data"
+msgstr "داده های ویدئو را دریافت کنید"
+
+msgid "GetResponse"
+msgstr "GetResponse"
+
+msgid "Give your Query a custom unique id to allow server side filtering"
+msgstr ""
+"به کوئری خود یک شناسه سفارشی منحصربفرد بدهید تا بتواند فیلترینگ را در سمت سرور "
+"ایجاد کند"
+
+msgid "Global"
+msgstr "سراسری"
+
+msgid "Global Widget"
+msgstr "ابزارک سراسری"
+
+msgid "Global Widgets"
+msgstr "ابزارک های عمومی"
+
+msgid "Go Pro"
+msgstr "برو طرفدار"
+
+msgid "Go Pro now"
+msgstr "حالا برو حرفه ای"
+
+msgid "Go to WP Dashboard"
+msgstr "رفتن به پیشخوان وردپرس"
+
+msgid "Go to the %1$sMenus screen%2$s to create one."
+msgstr "برای ایجاد یکی به صفحه منوی %1$s %2$s بروید."
+
+msgid "Go to the %1$sMenus screen%2$s to manage your menus."
+msgstr "برای مدیریت منوهای خود به صفحه منوهای %1$s %2$s بروید."
+
+msgid "Google Calendar"
+msgstr "تقویم گوگل"
+
+msgid "Gradient"
+msgstr "گرادینت"
+
+msgid "Graphic Element"
+msgstr "المان گرافیکی"
+
+msgid "Gravatar"
+msgstr "گراواتور"
+
+msgid "Greater than or equal"
+msgstr "بزرگتر یا مساوی"
+
+msgid "Grid"
+msgstr "گرید"
+
+msgid "Groove"
+msgstr "شیار"
+
+msgid "Group"
+msgstr "گروه"
+
+msgid "Groups"
+msgstr "گروه‌ها"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML Field"
+msgstr "زمینه HTML"
+
+msgid "HTML Tag"
+msgstr "تگ HTML"
+
+msgid "HTTP Error"
+msgstr "خطای HTTP"
+
+msgid "Hamburger"
+msgstr "همبرگر"
+
+msgid "Have a coupon?"
+msgstr "کوپن دارید؟"
+
+msgid "Head"
+msgstr "Head"
+
+msgid "Head Shake"
+msgstr "Head Shake"
+
+msgid "Header"
+msgstr "سربرگ"
+
+msgid "Headers"
+msgstr "سربرگ ها"
+
+msgid "Heading"
+msgstr "سرعنوان"
+
+msgid "Headline"
+msgstr "عنوان"
+
+msgid ""
+"Heads up! You are using a free trial. Want to enjoy Pro widgets & templates for "
+"a whole year?"
+msgstr ""
+"سر بالا! شما از نسخه آزمایشی رایگان استفاده می کنید. آیا می خواهید برای یک سال "
+"تمام از ابزارک ها و قالب های حرفه ای لذت ببرید؟"
+
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid "Here's a link"
+msgstr "اینجا یک لینک است"
+
+msgid ""
+"Here's where you can customize how notices form WooCommerce will appear for your "
+"customers"
+msgstr ""
+"اینجا جایی است که می توانید نحوه نمایش اعلان های ووکامرس را برای مشتریان خود "
+"سفارشی کنید"
+
+msgid "Hidden"
+msgstr "مخفی"
+
+msgid "Hide"
+msgstr "مخفی سازی"
+
+msgid "Hide Empty"
+msgstr "مخفی کردن خالی"
+
+msgid "Hide for logged in users"
+msgstr "مخفی کردن برای کاربران وارد شده"
+
+msgid "Hierarchical View"
+msgstr "مشاهده سلسه مراتب"
+
+msgid "Highlight Lines"
+msgstr "خطوط برجسته"
+
+msgid "Highlighted"
+msgstr "برجسته شده"
+
+msgid "Highlighted Text"
+msgstr "متن‌ها یلایت"
+
+msgid "Home page"
+msgstr "صفحه اصلی"
+
+msgid "Honeypot"
+msgstr "هانی پات"
+
+msgid "Horizontal"
+msgstr "افقی"
+
+msgid "Horizontal Orientation"
+msgstr "جهت افقی"
+
+msgid "Horizontal Padding"
+msgstr "فاصله داخلی افقی"
+
+msgid "Horizontal Position"
+msgstr "جایگاه افقی"
+
+msgid "Horizontal Scroll"
+msgstr "اسکرول افقی"
+
+msgid "Hotspot"
+msgstr "کانون گرم"
+
+msgid "Hours"
+msgstr "ساعت ها"
+
+msgid "Hover"
+msgstr "هاور"
+
+msgid "Hover Animation"
+msgstr "انیمیشن به هنگام قرارگیری موس"
+
+msgid "Hover Area"
+msgstr "ناحیه هاور"
+
+msgid "Hover Effect"
+msgstr "افکت نشانگر"
+
+msgid "Hover Effects"
+msgstr "افکت‌های هاور"
+
+msgid "Hover over the date next to the comment, and copy its link address."
+msgstr "هاور کاور در کنار تاریخ دیدگاه و کپی لینک آدرس آن."
+
+msgid "Hover over the date next to the post, and copy its link address."
+msgstr "هاور کاور در کنار تاریخ نوشته و کپی آدرس آن."
+
+msgid "Hover over the date next to the video, and copy its link address."
+msgstr "هاور کاور در کنار ویدیو و کپی لینک آدرس آن."
+
+msgid "Human Readable"
+msgstr "قابل خواندن انسانی"
+
+msgid "I have read and agree to the website"
+msgstr "من وب سایت را خوانده ام و با آن موافقم"
+
+msgid "ID"
+msgstr "شناسه"
+
+msgid "Icomoon"
+msgstr "آیکون"
+
+msgid "Icon"
+msgstr "آیکون"
+
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+msgid "Icon End"
+msgstr "آیکون پایان"
+
+msgid "Icon Padding"
+msgstr "فاصله داخلی مربوط به آیکون"
+
+msgid "Icon Position"
+msgstr "محل قرارگیری آیکون"
+
+msgid "Icon Rotate"
+msgstr "آیکون چرخش"
+
+msgid "Icon Set"
+msgstr "تنظیم آیکون"
+
+msgid "Icon Set draft updated."
+msgstr "تنظیم آیکون پیش‌نویس به‌روز شده است."
+
+msgid "Icon Set restored to revision from %s"
+msgstr "تنظیم آیکون به بازبینی از %s بازگردانده شده است"
+
+msgid "Icon Set saved."
+msgstr "تنظیم آیکون ذخیره شده است."
+
+msgid "Icon Set submitted."
+msgstr "تنظیم آیکون ثبت شده است."
+
+msgid "Icon Set updated."
+msgstr "تنظیم آیکون به‌روز شده است."
+
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+msgid "Icon Spacing"
+msgstr "فاصله بین آیکون ها"
+
+msgid "Icon Start"
+msgstr "آیکون شروع"
+
+msgid "Icons"
+msgstr "آیکون ها"
+
+msgid "Icons Count"
+msgstr "شمارش آیکون ها"
+
+msgid "If the user has seen another popup on the page hide this popup"
+msgstr ""
+"اگر کاربر یک پنجره پاپ‌آپ دیگر را در صفحه پنهان کرده است، این صفحه را پنهان کنید"
+
+msgid ""
+"If you are using the Facebook Comments Widget, you can add moderating options "
+"through your application. Note that this option will not work on local sites and "
+"on domains that don't have public access."
+msgstr ""
+"اگر از ابزارک دیدگاه‌های فیسبوک استفاده می‌کنید، می‌توانید از طریق برنامه خود در "
+"تنظیم‌های مدیریت برنامه را اضافه کنید. توجه داشته باشید این گزینه در سایت‌های محلی "
+"و در دامنه‌های که دسترسی عمومی ندارد، کار نخواهد کرد."
+
+msgid "If you don't yet have a license key, %1$sget Elementor Pro now%2$s."
+msgstr "اگر هنوز کلید مجوز ندارید، %1$s اکنون %2$s المنتور پرو را دریافت کنید."
+
+msgid "If you have a coupon code, please apply it below."
+msgstr "اگر کد کوپن دارید، لطفاً آن را در زیر اعمال کنید."
+
+msgid ""
+"If you have shopped with us before, please enter your details below. If you are "
+"a new customer, please proceed to the Billing section."
+msgstr ""
+"اگر قبلا از ما خرید کرده اید، لطفا مشخصات خود را در زیر وارد کنید. اگر مشتری "
+"جدید هستید، لطفاً به بخش صورت‌حساب بروید."
+
+msgid "If you need to increase max upload size please contact your hosting."
+msgstr ""
+"اگر شما نیاز به افزایش حداکثر اندازه آپلود دارید لطفاً با هاست خود تماس بگیرید."
+
+msgid ""
+"If your snippet includes jQuery, this will ensure it will work for all visitors. "
+"It may have a minor impact on loading speed."
+msgstr ""
+"اگر قطعه شما شامل jQuery باشد، این اطمینان حاصل می کند که برای همه بازدیدکنندگان "
+"کار خواهد کرد. ممکن است تاثیر جزئی بر سرعت بارگذاری داشته باشد."
+
+msgid ""
+"If you’d like a different style for a specific category, it’s easy to create a "
+"separate archive template whose condition is to only display when users are "
+"viewing that category’s list of posts."
+msgstr ""
+"اگر طرح خاصی را برای یک دسته بندی خاص می خواهید ، ایجاد یک الگوی بایگانی جداگانه "
+"آسان است که شرط آن این است که فقط هنگامی که کاربران این لیست دسته بندی پست ها را "
+"مشاهده می کنند ، نمایش داده شود."
+
+msgid "Ignore Sticky Posts"
+msgstr "نادیده گرفتن نوشته‌های چسبان"
+
+msgid "Image"
+msgstr "تصویر"
+
+msgid "Image Above"
+msgstr "تصویر بالا"
+
+msgid "Image Alt"
+msgstr "جایگزین تصویر"
+
+msgid "Image Caption"
+msgstr "عنوان تصویر"
+
+msgid "Image Field"
+msgstr "زمینه تصویر"
+
+msgid "Image Fit"
+msgstr "تناسب تصویر"
+
+msgid "Image Inline"
+msgstr "تصویر درون‌خطی"
+
+msgid "Image Left"
+msgstr "تصویر چپ"
+
+msgid "Image Overlay"
+msgstr "همپوشانی تصویر"
+
+msgid "Image Position"
+msgstr "موقعیت تصویر"
+
+msgid "Image Ratio"
+msgstr "نسبت تصویر"
+
+msgid "Image Resolution"
+msgstr "رزولوشن تصویر"
+
+msgid "Image Right"
+msgstr "تصویر راست"
+
+msgid "Image Size"
+msgstr "اندازه عکس"
+
+msgid "Image Stacked"
+msgstr "تصویر انباشته شده"
+
+msgid "Image Title"
+msgstr "عنوان تصویر"
+
+msgid "Image Width"
+msgstr "عرض تصویر"
+
+msgid "In"
+msgstr "ورود"
+
+msgid "In %s"
+msgstr "در %s"
+
+msgid "In Categories"
+msgstr "در دسته بندی ها"
+
+msgid "In Child %s"
+msgstr "در چایلد %s"
+
+msgid "In Tags"
+msgstr "در برچسب ها"
+
+msgid ""
+"In order to open a popup on selector click, please set your Popup Conditions"
+msgstr ""
+"برای باز کردن یک پاپ‌آپ در انتخاب کلیک کنید، لطفاً شرایط پاپ‌آپ‌های خود را تنظیم کنید"
+
+msgid "In same Term"
+msgstr "در همین مدت"
+
+msgid "Inactive"
+msgstr "غیر فعال"
+
+msgid "Include"
+msgstr "مشمول"
+
+msgid "Include By"
+msgstr "شامل براساس"
+
+msgid "Include Context"
+msgstr "شامل متن"
+
+msgid "Incompatible archive"
+msgstr "آرشیو ناسازگار"
+
+msgid "Indent"
+msgstr "فرورفتگی"
+
+msgid "Indicate Watched"
+msgstr "نشان داده شده"
+
+msgid ""
+"Indicates whether next post must be within the same taxonomy term as the current "
+"post, this lets you set a taxonomy per each post type"
+msgstr ""
+"نشان می‌دهد که آیا نوشته بعدی در همان طبقه‌بندی به عنوان پست فعلی باشد، این به شما "
+"اجازه می‌دهد تا طبقه‌بندی را در هر نوع نوشته تعیین کنید"
+
+msgid "Individual Pagination"
+msgstr "صفحه بندی فردی"
+
+msgid "Infinite Loop"
+msgstr "حلقه بی نهایت"
+
+msgid "Infinite Scroll"
+msgstr "اسکرول بی نهایت"
+
+msgid "Infinite scroll"
+msgstr "اسکرول بی نهایت"
+
+msgid ""
+"Infinite scroll is inactive while editing. Preview your page to see it in action."
+msgstr ""
+"اسکرول بی نهایت در حین ویرایش غیرفعال است. صفحه خود را پیش نمایش کنید تا آن را "
+"در عمل ببینید."
+
+msgid "Info"
+msgstr "اطلاعات"
+
+msgid "Info Box"
+msgstr "جعبه اطلاعات"
+
+msgid "Info Notices"
+msgstr "اعلان اطلاعات"
+
+msgid "Inline"
+msgstr "درون خطی"
+
+msgid "Inline List"
+msgstr "لیست درون‌خطی"
+
+msgid "Inline Message Color"
+msgstr "رنگ پیام درون‌خطی"
+
+msgid "Input"
+msgstr "ورودی"
+
+msgid "Input Size"
+msgstr "اندازه ورودی"
+
+msgid ""
+"Insert the API keys provided in the stripe admin dashboard to start collecting "
+"payments on your website using Stripe."
+msgstr ""
+"کلیدهای API ارائه شده در داشبورد مدیریت stripe را وارد کنید تا با استفاده از "
+"Stripe شروع به جمع آوری پرداخت ها در وب سایت خود کنید."
+
+msgid "Inside"
+msgstr "داخل"
+
+msgid "Install Now"
+msgstr "الآن نصب کن"
+
+msgid "Install and activate the Elementor plugin to access all the Pro features."
+msgstr ""
+"افزونه Elementor را نصب و فعال کنید تا به تمام ویژگی های Pro دسترسی داشته باشید."
+
+msgid "Instances"
+msgstr "شاخص‌ها"
+
+msgid "Integrate your favorite marketing software"
+msgstr "نرم افزار بازاریابی مورد علاقه خود را ادغام کنید"
+
+msgid "Integration requires an email field"
+msgstr "ادغام به یک قسمت ایمیل احتیاج دارد"
+
+msgid "Integrations"
+msgstr "یکپارچگی‌ها"
+
+msgid "Internal Links"
+msgstr "لینک‌های داخلی"
+
+msgid "Internal URL"
+msgstr "آدرس داخلی"
+
+msgid "Internet Explorer"
+msgstr "اینترنت اکسپلورر"
+
+msgid "Invalid Form"
+msgstr "فرم نامعتبر است"
+
+msgid "Invalid Form."
+msgstr "فرم نامعتبر است."
+
+msgid "Invalid SVG Format, file not uploaded for security reasons"
+msgstr "فرمت SVG نامعتبر است، فایل به دلایل امنیتی آپلود نشده است"
+
+msgid "Invalid form, reCAPTCHA validation failed."
+msgstr "فرم نامعتبر، اعتبار سنجی reCAPTCHA ناموفق بود."
+
+msgid "Invalid post type."
+msgstr "نوع پست نامعتبر است."
+
+msgid "Is"
+msgstr "است"
+
+msgid "Is After"
+msgstr "پس از"
+
+msgid "Is Before"
+msgstr "قبل است"
+
+msgid "Is Empty"
+msgstr "خالی است"
+
+msgid "Is Not"
+msgstr "نیست"
+
+msgid "Is not Empty"
+msgstr "خالی نیست"
+
+msgid "Is on or after"
+msgstr "روشن یا بعد از آن است"
+
+msgid "Is on or before"
+msgstr "روشن یا قبل است"
+
+msgid "It seems we can't find what you're looking for."
+msgstr "به نظر می‌رسد ما نمی‌توانم آنچه که دنبالش هستید پیدا کنیم."
+
+msgid "It seems we can’t find what you’re looking for."
+msgstr "به نظر می رسد ما نمی توانیم آنچه شما به دنبال آن هستید را پیدا کنیم."
+
+msgid "Italic"
+msgstr "ایتالیک"
+
+msgid "Item"
+msgstr "مورد"
+
+msgid "Item #%d"
+msgstr "مورد #%d"
+
+msgid "Item #1"
+msgstr "مورد #1"
+
+msgid "Item #2"
+msgstr "مورد #2"
+
+msgid "Item #3"
+msgstr "مورد #3"
+
+msgid "Item Alignment"
+msgstr "ترازبندی مورد"
+
+msgid "Item Gap"
+msgstr "مورد Gap"
+
+msgid "Item Layout"
+msgstr "طرح بندی مورد"
+
+msgid "Item Name"
+msgstr "نام مورد"
+
+msgid "Item Overlay"
+msgstr "پوشش مورد"
+
+msgid "Item Position"
+msgstr "موقعیت مورد"
+
+msgid "Item Ratio"
+msgstr "نسبت مورد"
+
+msgid "Item Title"
+msgstr "عنوان مورد"
+
+msgid "Items"
+msgstr "آیتم‌ها"
+
+msgid "Items Indicator"
+msgstr "شاخص موارد"
+
+msgid "Items Per Page"
+msgstr "موارد در هر صفحه"
+
+msgid "Jello"
+msgstr "Jello"
+
+msgid "John Doe"
+msgstr "John Doe"
+
+msgid "Justified"
+msgstr "تعدیل شده"
+
+msgid "Justify"
+msgstr "توجیه کردن"
+
+msgid "Keep Your Website’s Shine On"
+msgstr "درخشش وب سایت خود را حفظ کنید"
+
+msgid ""
+"Keep your site's visitors happy when they get lost by displaying your recent "
+"posts, a search bar, or any information that might help the user find what they "
+"were looking for."
+msgstr ""
+"با نمایش پست های اخیر شما ، نوار جستجو یا هرگونه اطلاعاتی که ممکن است به کاربر "
+"کمک کند تا آنچه را که به دنبالش می گشت ، بازدید کنندگان سایت خود را خوشحال نگه "
+"دارید."
+
+msgid "Ken Burns Effect"
+msgstr "افکت Ken Burns"
+
+msgid "Key"
+msgstr "کلید"
+
+msgid "Kit ID"
+msgstr "شناسه Kit"
+
+msgid "Label"
+msgstr "برچسب"
+
+msgid "Label Position"
+msgstr "موقعیت برچسب"
+
+msgid "Labels"
+msgstr "برچسب ها"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Large"
+msgstr "بزرگ"
+
+msgid "Last Modified"
+msgstr "آخرین ویرایش"
+
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+msgid "Latest Products"
+msgstr "آخرین محصولات"
+
+msgid "Layout"
+msgstr "طرح بندی"
+
+msgid "Lazy Load"
+msgstr "لیزی لود"
+
+msgid "Lazyload"
+msgstr "بارگذاری تنبل"
+
+msgid "Learn More"
+msgstr "بیشتر بدانید"
+
+msgid "Learn more about adding custom code"
+msgstr "درباره افزودن کد دلخواه بیشتر بیاموزید"
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Less than or equal"
+msgstr "کمتر یا مساوی"
+
+msgid "Level"
+msgstr "سطح"
+
+msgid "Leverage Elementor AI to instantly generate Custom Code for Elementor"
+msgstr "از هوش مصنوعی المنتور برای ایجاد فوری کد سفارشی برای المنتور استفاده کنید"
+
+msgid "License"
+msgstr "لایسنس"
+
+msgid "License Mismatch"
+msgstr "معافیت لایسنس"
+
+msgid "License Settings"
+msgstr "تنظیمات لایسنس"
+
+msgid "License has been activated successfully."
+msgstr "لایسنس با موفقیت فعال شده است."
+
+msgid "License key is missing."
+msgstr "کلید لایسنس گم شده است."
+
+msgid "Light"
+msgstr "سبک"
+
+msgid "Lightbox"
+msgstr "لایت باکس"
+
+msgid "Like"
+msgstr "لایک"
+
+msgid "Line Numbers"
+msgstr "شماره های خط"
+
+msgid "Link"
+msgstr "پیوند"
+
+msgid "Link Color"
+msgstr "رنگ پیوند"
+
+msgid "Link Text"
+msgstr "متن پیوند"
+
+msgid "Link Timeout"
+msgstr "پایان زمان پیوند"
+
+msgid "Link for the Author Name and Image"
+msgstr "لینک برای نام نویسنده و تصویر"
+
+msgid "Links"
+msgstr "پیوندها"
+
+msgid "Links Color"
+msgstr "رنگ لینک‌ها"
+
+msgid "Links Hover Color"
+msgstr "رنگ هاور لینک‌ها"
+
+msgid "List"
+msgstr "لیست"
+
+msgid "List Item"
+msgstr "لیست آیتم"
+
+msgid "List Item #1"
+msgstr "مورد شماره 1 در لیست"
+
+msgid "List Item #2"
+msgstr "مورد شماره 2 در لیست"
+
+msgid "List Item #3"
+msgstr "مورد شماره 3 در لیست"
+
+msgid "List Items"
+msgstr "موارد لیست"
+
+msgid "Live Secret key"
+msgstr "کلید مخفی زنده"
+
+msgid "Load More"
+msgstr "بیشتر بدانید"
+
+msgid "Load Type"
+msgstr "نوع بارگذاری"
+
+msgid "Load on Click"
+msgstr "روی کلیک بارگذاری کنید"
+
+msgid "Loader Color"
+msgstr "رنگ لودر"
+
+msgid "Loading"
+msgstr "درحال بارگذاری"
+
+msgid "Location"
+msgstr "موقعیت"
+
+msgid "Location '%s' is not a core location."
+msgstr "مکان '%s' یک مکان اصلی نیست."
+
+msgid "Location Settings"
+msgstr "تنظیمات موقعیت"
+
+msgid "Log In"
+msgstr "ورود به سایت"
+
+msgid "Log in to %1$syour account%2$s to get your license key."
+msgstr "برای دریافت کلید مجوز خود به %1$s حساب خود %2$s وارد شوید."
+
+msgid "Logged In"
+msgstr "وارد شده"
+
+msgid "Logged Out"
+msgstr "از سیستم خارج شد"
+
+msgid "Logged in Message"
+msgstr "پیام وارد شده"
+
+msgid "Logical Combination"
+msgstr "ترکیب منطقی"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Login Button"
+msgstr "دکمه ورود"
+
+msgid "Login Messages"
+msgstr "پیام های ورود"
+
+msgid "Login Status"
+msgstr "وضعیت ورود"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "Long Arrow"
+msgstr "پیکان بلند"
+
+msgid ""
+"Looks like you are using WooCommerce, while your theme does not support it. "
+"Please consider switching themes."
+msgstr ""
+"به نظر می‌رسد که شما از ووکامرس استفاده می‌کنید، در حالی که قالب شما از آن "
+"پشتیبانی نمی‌کند. لطفاً تعویض قالب خود را در نظر بگیرید."
+
+msgid "Loop"
+msgstr "حلقه"
+
+msgid "Loop Base"
+msgstr "پایه حلقه"
+
+msgid "Loop Carousel"
+msgstr "چرخ فلک حلقه"
+
+msgid "Loop Carousel starts with a template."
+msgstr "چرخ فلک حلقه با یک الگو شروع می شود."
+
+msgid "Loop Grid"
+msgstr "شبکه حلقه"
+
+msgid "Loop Grid starts with a template."
+msgstr "حلقه شبکه با یک الگو شروع می شود."
+
+msgid "Loop Item"
+msgstr "مورد حلقه"
+
+msgid "Loop Items"
+msgstr "موارد حلقه"
+
+msgid "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+"برای تغییر این متن روی دکمه ویرایش کلیک کنید. لورم ایپسوم متن ساختگی با تولید "
+"سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است"
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus "
+"nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+"من اسلاید محتوا هستم. برای تغییر این متن روی دکمه ویرایش کلیک کنید. لورم ایپسوم "
+"متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
+
+msgid "Lost your password?"
+msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+msgid "Lottie"
+msgstr "Lottie"
+
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+msgid "MailChimp"
+msgstr "میل چیمپ"
+
+msgid "MailPoet"
+msgstr "MailPoet"
+
+msgid "MailPoet 3"
+msgstr "MailPoet 3"
+
+msgid "MailerLite"
+msgstr "میلرلایت"
+
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+msgid "Manage Your Font Files"
+msgstr "مدیریت فایل‌های فونت شما"
+
+msgid "Manage your site’s lightbox settings in the %1$sLightbox panel%2$s."
+msgstr "تنظیمات لایت باکس سایت خود را در پانل لایت باکس %1$s %2$s مدیریت کنید."
+
+msgid "Manual Selection"
+msgstr "انتخاب دستی"
+
+msgid "Many Comment Format"
+msgstr "بسیاری از فرمت دیدگاه"
+
+msgid "Margin"
+msgstr "حاشیه"
+
+msgid "Mark Color"
+msgstr "رنگ علامت"
+
+msgid "Marker"
+msgstr "نشانگر"
+
+msgid "Marker View"
+msgstr "نمای نشانگر"
+
+msgid "Masonry"
+msgstr "پازلی"
+
+msgid "Max Height"
+msgstr "حداکثر ارتفاع"
+
+msgid "Max Width"
+msgstr "حداکثر عرض"
+
+msgid "Max. Date"
+msgstr "حداکثر.تاریخ"
+
+msgid "Max. File Size"
+msgstr "حداکثر. اندازه فایل"
+
+msgid "Max. Files"
+msgstr "حداکثر.فایل"
+
+msgid "Max. Value"
+msgstr "حداکثر.مقدار"
+
+msgid "Media"
+msgstr "رسانه"
+
+msgid "Media Carousel"
+msgstr "چرخش رسانه"
+
+msgid "Media File"
+msgstr "فایل رسانه"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "Meet Our Attributes"
+msgstr "با ویژگی های ما آشنا شوید"
+
+msgid "Meet Our Custom CSS"
+msgstr "با CSS سفارشی ما آشنا شوید"
+
+msgid "Meet Our Global Widget"
+msgstr "با ویجت عمومی ما آشنا شوید"
+
+msgid "Meet the New Theme Builder: More Intuitive and Visual Than Ever"
+msgstr "با جدید سازنده سازگار کنید: تا کنون شهودی تر و بصری تر باشید"
+
+msgid "Menu"
+msgstr "منو"
+
+msgid "Menu Cart"
+msgstr "سبد خرید منو"
+
+msgid "Menu Icon"
+msgstr "آیکون منو"
+
+msgid "Menu Items"
+msgstr "موارد منو"
+
+msgid "Menu Order"
+msgstr "ترتیب منو"
+
+msgid "Menu Toggle"
+msgstr "تنظیم منو"
+
+msgid "Merchant Account"
+msgstr "حساب بازرگان"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "Message Notices"
+msgstr "اعلان  های پیام"
+
+msgid "Messages"
+msgstr "پیام‌ها"
+
+msgid "Messenger"
+msgstr "پیام رسان"
+
+msgid "Meta"
+msgstr "متا"
+
+msgid "Meta Border Color"
+msgstr "رنگ کادر متا"
+
+msgid "Meta Data"
+msgstr "دادە متا"
+
+msgid "Meta Key"
+msgstr "کلید متا"
+
+msgid "Middle"
+msgstr "میانی"
+
+msgid "Min Height"
+msgstr "حداقل ارتفاع"
+
+msgid "Min Width"
+msgstr "حداقل عرض"
+
+msgid "Min. Date"
+msgstr "حداقل.تاریخ"
+
+msgid "Min. Value"
+msgstr "حداقل.مقدار"
+
+msgid "Mini Cart"
+msgstr "سبد خرید کوچک"
+
+msgid "Mini Cart Template"
+msgstr "الگوی سبد خرید"
+
+msgid "Minimal"
+msgstr "مینیمال"
+
+msgid "Minimize Box"
+msgstr "جعبه را به حداقل برسانید"
+
+msgid "Minimized On"
+msgstr "به حداقل رساند"
+
+msgid "Minimum number of comments: 5"
+msgstr "حداقل تعداد دیدگاه‌ها: 5"
+
+msgid "Minutes"
+msgstr "دقیقه‌ها"
+
+msgid "Mismatch"
+msgstr "عدم تطابق"
+
+msgid "Missing"
+msgstr "گم شده"
+
+msgid "Missing a temporary folder."
+msgstr "پوشه موقت گم شده‌است."
+
+msgid "Mobile Dropdown"
+msgstr "کرکره‌ای موبایل"
+
+msgid "Monday"
+msgstr "دوشنبه"
+
+msgid "Month"
+msgstr "ماه‌"
+
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+msgid "Monthly"
+msgstr "ماهانه"
+
+msgid "Months"
+msgstr "ماه‌"
+
+msgid "Mouse Effects"
+msgstr "افکت‌های ماوس"
+
+msgid "Mouse Track"
+msgstr "پیگیری ماوس"
+
+msgid "Multiple"
+msgstr "چندگانه"
+
+msgid "Multiple Files"
+msgstr "فایلهای ترکیبی"
+
+msgid "Multiple Selection"
+msgstr "چند انتخابی"
+
+msgid "My Account"
+msgstr "حساب کاربری من"
+
+msgid "N/A"
+msgstr "پوچ"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Native HTML5"
+msgstr "بومی HTML5"
+
+msgid "Navigation"
+msgstr "ناوبری"
+
+msgid "Nested Spinners"
+msgstr "اسپینرهای تو در تو"
+
+msgid "Network"
+msgstr "شبکه"
+
+msgid ""
+"Never lose another submission! Using “Actions After Submit” you can now choose "
+"to save all submissions to an internal database."
+msgstr ""
+"تسلیم دیگر را هرگز از دست ندهید! با استفاده از \"اقدامات پس از ارسال\" اکنون می "
+"توانید همه موارد ارسالی را در یک پایگاه داده داخلی ذخیره کنید."
+
+msgid "New Font"
+msgstr "فونت جدید"
+
+msgid "New Font Type Name"
+msgstr "نام نوع فونت جدید"
+
+msgid "New Form"
+msgstr "فرم جدید"
+
+msgid "New Gallery"
+msgstr "گالری جدید"
+
+msgid "New Icon Set"
+msgstr "تنظیم آیکون جدید"
+
+msgid "New code"
+msgstr "کد جدید"
+
+msgid "New mention in Note #%1$s on %2$s - %3$s"
+msgstr "ذکر جدید در یادداشت #%1$s در %2$s - %3$s"
+
+msgid "New message from \"%s\""
+msgstr "پیام جدید از \"%s\""
+
+msgid "New reply in Note #%1$s on %2$s - %3$s"
+msgstr "پاسخ جدید در یادداشت #%1$s در %2$s - %3$s"
+
+msgid "Next"
+msgstr "بعد"
+
+msgid "Next & Submit Button"
+msgstr "دکمه ثبت و بعدی"
+
+msgid "Next &raquo;"
+msgstr "بعدی &raquo;"
+
+msgid "Next Arrow"
+msgstr "فلش بعدی"
+
+msgid "Next Button"
+msgstr "دکمه بعدی"
+
+msgid "Next Label"
+msgstr "برچسب بعدی"
+
+msgid "Next Up"
+msgstr "بعدی"
+
+msgid "Next slide"
+msgstr "اسلاید بعدی"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "No Comments"
+msgstr "بدون دیدگاه"
+
+msgid "No Comments Format"
+msgstr "فرمت دیدگاه‌ها وجود ندارد"
+
+msgid "No Font Types found."
+msgstr "هیچ نوع فونتی پیدا نشد."
+
+msgid "No Label"
+msgstr "بدون برچسب"
+
+msgid "No More Posts Message"
+msgstr "دیگر پیام ارسال نمی شود"
+
+msgid "No Rating Reviews"
+msgstr "بدون بررسی امتیاز"
+
+msgid "No Responses"
+msgstr "بدون پاسخ"
+
+msgid "No file was uploaded."
+msgstr "هیچ فایلی آپلود نشده است."
+
+msgid "No fonts found"
+msgstr "هیچ فونتی پیدا نشد"
+
+msgid "No fonts found in trash"
+msgstr "هیچ فونتی در زباله‌دان نیست"
+
+msgid "No header, no footer, just Elementor"
+msgstr "بدون سربرگ، بدون پابرگ، فقط المنتور"
+
+msgid "No icons found"
+msgstr "هیچ فونتی پیدا نشد"
+
+msgid "No icons found in trash"
+msgstr "هیچ آیکونی در زباله دان نیست"
+
+msgid "No instances"
+msgstr "هیچ موردی نیست"
+
+msgid "No more posts message"
+msgstr "دیگر خبری از پیام نیست"
+
+msgid "No more posts to show"
+msgstr "پست دیگری برای نمایش وجود ندارد"
+
+msgid "No payment method connected. Contact seller."
+msgstr "هیچ روش پرداختی متصل نیست. با فروشنده تماس بگیرید."
+
+msgid "No products in the cart."
+msgstr "سبد خرید خالی است."
+
+msgid "No project data was returned."
+msgstr "اطلاعات پروژه بازگردانده نشده است."
+
+msgid "No taxonomy terms found."
+msgstr "هیچ عبارت طبقه بندی یافت نشد."
+
+msgid "None"
+msgstr "هیچ‌کدام"
+
+msgid "Normal"
+msgstr "نرمال"
+
+msgid "Not Set"
+msgstr "تنظیم نشده"
+
+msgid "Note #%1$s resolved on %2$s - %3$s"
+msgstr "یادداشت #%1$s در %2$s - %3$s حل شد"
+
+msgid ""
+"Note that these layout settings will override settings made in Appearance > "
+"Customize"
+msgstr ""
+"توجه داشته باشید که این تنظیمات طرح تنظیمات ساخته شده در نمایش -> شخصی‌سازی را "
+"لغو می‌کند"
+
+msgid "Note:"
+msgstr "توجه داشته باشید:"
+
+msgid ""
+"Note: Because of security reasons, you can ONLY use your current domain here."
+msgstr ""
+"توجه: به دلایل امنیتی، شما می‌توانید تنها از دامنه فعلی خود در اینجا استفاده کنید."
+
+msgid ""
+"Note: By default, only your last order is displayed while editing the orders "
+"section. You can see other orders on your live site or in the WooCommerce orders "
+"section"
+msgstr ""
+"توجه: به طور پیش فرض در هنگام ویرایش قسمت سفارشات فقط آخرین سفارش شما نمایش داده "
+"می شود. می توانید سایر سفارشات را در سایت زنده یا در قسمت سفارشات ووکامرس مشاهده "
+"کنید"
+
+msgid ""
+"Note: Changes you make here will also be reflected in the WooCommerce settings "
+"on your WP dashboard"
+msgstr ""
+"توجه: تغییراتی که در اینجا ایجاد می‌کنید در تنظیمات ووکامرس در پیشخوان وردپرس شما "
+"نیز منعکس خواهند شد"
+
+msgid ""
+"Note: Item layout will switch to dropdown on any screen smaller than the "
+"selected breakpoint."
+msgstr ""
+"توجه: طرح‌بندی مورد در هر صفحه‌ای که کوچک‌تر از نقطه شکست انتخاب‌شده باشد، به کشویی "
+"تغییر می‌کند."
+
+msgid "Note: Item will span across a number of columns."
+msgstr "توجه: مورد در تعدادی از ستون ها قرار می گیرد."
+
+msgid "Note: Repeat the alternate template once every chosen number of items."
+msgstr "توجه: الگوی جایگزین را یک بار در هر تعداد مورد انتخاب شده تکرار کنید."
+
+msgid "Note: Scroll menu items if they don’t fit into their parent container."
+msgstr "توجه: اگر موارد منو در محفظه اصلی خود قرار نمی گیرند، پیمایش کنید."
+
+msgid ""
+"Note: Static Items remain in place when new items are added to grid. Other items "
+"appear according to query settings."
+msgstr ""
+"توجه: هنگامی که موارد جدید به شبکه اضافه می شوند، موارد ثابت باقی می مانند. "
+"موارد دیگر با توجه به تنظیمات کوئری ظاهر می شوند."
+
+msgid "Note: The Cross-Sells Query is available when creating a Cart page"
+msgstr "توجه: هنگام ایجاد صفحه سبد خرید، پرس و جوی Cross-Sells  در دسترس است"
+
+msgid ""
+"Note: The Masonry option combined with Column Span might cause unexpected "
+"results and break the layout."
+msgstr ""
+"توجه: گزینه پازلی همراه با دهانه ستون ممکن است باعث نتایج غیرمنتظره و شکستن طرح "
+"شود."
+
+msgid ""
+"Note: The Related Products Query is available when creating a Single Product "
+"template"
+msgstr "توجه: هنگام ایجاد یک الگوی محصول واحد، درخواست محصولات مرتبط در دسترس است"
+
+msgid ""
+"Note: The Upsells Query is available when creating a Single Product template"
+msgstr "توجه: درخواست Upsells هنگام ایجاد یک الگوی محصول واحد در دسترس است"
+
+msgid "Note: This content cannot be changed due to local regulations."
+msgstr "توجه: این محتوا به دلیل قوانین محلی قابل تغییر نیست."
+
+msgid "Note: This control will only affect screen sizes Tablet and below"
+msgstr "توجه: این کنترل فقط بر اندازه صفحه نمایش تبلت و پایین تر تأثیر می گذارد"
+
+msgid ""
+"Note: This label and placeholder are taken from the Billing section. You can "
+"change it there."
+msgstr ""
+"توجه: این برچسب و مکان‌ نما از قسمت صورتحساب گرفته شده است. شما می توانید آن را "
+"در آنجا تغییر دهید."
+
+msgid "Note: This message will appear when no content is loaded in the grid."
+msgstr "توجه: زمانی که هیچ محتوایی در شبکه بارگذاری نشود، این پیام ظاهر می شود."
+
+msgid "Note: To find an order ID, go to the WP dashboard: WooCommerce > Orders"
+msgstr "توجه: برای یافتن شناسه سفارش، به پیشخوان وردپرس بروید: ووکامرس > سفارش ها"
+
+msgid ""
+"Note: You can only track progress relative to Post Content on a single post "
+"template."
+msgstr ""
+"توجه: شما فقط می توانید پیشرفت را نسبت به محتوای پست در یک قالب پست پیگیری کنید."
+
+msgid "Notes"
+msgstr "یادداشت ها"
+
+msgid "Notes Proxy"
+msgstr "پروکسی یادداشت ها"
+
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr "نکاتی در مورد سفارش شما، به عنوان مثال یادداشت های ویژه برای تحویل."
+
+msgid "Nothing Found Message"
+msgstr "هیچ پیامی موجود نیست"
+
+msgid "Notice Box"
+msgstr "جعبه اعلان"
+
+msgid "Notice Text"
+msgstr "متن اعلان"
+
+msgid "Notice Type"
+msgstr "نوع اعلان"
+
+msgid ""
+"Notice! Please make sure to meet Stripe's guidelines regarding minimum charge "
+"amounts. %1$s Learn more. %2$s"
+msgstr ""
+"اطلاع! لطفاً مطمئن شوید که دستورالعمل های Stripe را در مورد حداقل مقدار شارژ "
+"رعایت می کنید. %1$s بیشتر بیاموزید. %2$s"
+
+msgid "Notices"
+msgstr "اعلان ها"
+
+msgid "Notifications"
+msgstr "اعلان ها"
+
+msgid "Number"
+msgstr "شماره"
+
+msgid "Number of Comments"
+msgstr "تعداد دیدگاه ها"
+
+msgid "Number of slides"
+msgstr "تعداد اسلایدها"
+
+msgid "Number of taxonomies"
+msgstr "تعداد طبقه بندی ها"
+
+msgid "Numbers"
+msgstr "شماره"
+
+msgid "Numeric"
+msgstr "عددی"
+
+msgid "OFF"
+msgstr "خاموش"
+
+msgid "ON"
+msgstr "روشن"
+
+msgid "OR"
+msgstr "یا"
+
+msgid "Oblique"
+msgstr "مورب"
+
+msgid "Of Authors"
+msgstr "از نویسندگان"
+
+msgid "Of Categories"
+msgstr "از دسته بندی ها"
+
+msgid "Of Tags"
+msgstr "از برچسب ها"
+
+msgid "Off"
+msgstr "خاموش"
+
+msgid "Official"
+msgstr "رسمی"
+
+msgid "Offset"
+msgstr "افست"
+
+msgid "Offset Sides"
+msgstr "کناره های افست"
+
+msgid "Offset Width"
+msgstr "عرض افست"
+
+msgid "Offset is inactive while editing. Preview your page to see it in action."
+msgstr ""
+"افست هنگام ویرایش غیرفعال است. صفحه خود را پیش نمایش کنید تا آن را در عمل ببینید."
+
+msgid "On"
+msgstr "در"
+
+msgid "On Click"
+msgstr "با کلیک"
+
+msgid "On Close"
+msgstr "بستن"
+
+msgid "On Hover"
+msgstr "روی هاور"
+
+msgid "On Hover Out"
+msgstr "روی هاور بیرونی"
+
+msgid "On Load"
+msgstr "در بارگذاری"
+
+msgid "On Open"
+msgstr "باز"
+
+msgid "On Page Exit Intent"
+msgstr "زمانی که از صفحه خارج می‌شود"
+
+msgid "On Page Load"
+msgstr "بر روی صفحه بارگذاری شود"
+
+msgid "On Scroll"
+msgstr "بر روی اسکرول"
+
+msgid "On Scroll To Element"
+msgstr "بر روی اسکرول به المان"
+
+msgid ""
+"On desktop, this will affect the submenu. On mobile, this will affect the entire "
+"menu."
+msgstr ""
+"بر روی دسکتاپ، این ساب منو را تحت تاثیر می‌گذارد. در تلفن همراه، این منوی کامل را "
+"تحت تاثیر قرار می‌دهد."
+
+msgid ""
+"Once deleted, those notes will remain and include an indication that this user "
+"was deleted. If you wish, you can manually delete this user's notes."
+msgstr ""
+"پس از حذف، آن یادداشت‌ها باقی خواهند ماند و نشانی از حذف این کاربر دارند. در صورت "
+"تمایل می توانید یادداشت های این کاربر را به صورت دستی حذف کنید."
+
+msgid "One Comment"
+msgstr "یک دیدگاه"
+
+msgid "One Comment Format"
+msgstr "یک فرمت دیدگاه"
+
+msgid "One Response"
+msgstr "یک پاسخ"
+
+msgid "One column"
+msgstr "یک ستون"
+
+msgid "Only Top Level"
+msgstr "فقط سطح بالا"
+
+msgid "Only numbers and phone characters (#, -, *, etc) are accepted."
+msgstr "فقط شماره و کاراکترهای تلفن (#, -, *, و غیره) مورد پذیرش است."
+
+msgid "Only zip files are allowed"
+msgstr "فقط فایل‌های zip مجاز هستند"
+
+msgid "Opacity"
+msgstr "شفافیت"
+
+msgid "Open "
+msgstr "باز "
+
+msgid "Open %s"
+msgstr "بازکردن %s"
+
+msgid "Open %s In New Tab"
+msgstr "%s را در برگه جدید باز کنید"
+
+msgid "Open By Selector"
+msgstr "باز براساس انتخابگر"
+
+msgid "Open Cart"
+msgstr "باز کردن سبد خرید"
+
+msgid "Open On"
+msgstr "روشن را باز کنید"
+
+msgid "Open Popup"
+msgstr "بازشدن پاپ‌آپ"
+
+msgid "Open in new window"
+msgstr "در پنجره جدید باز کنید"
+
+msgid "Open table of contents"
+msgstr "فهرست مطالب را باز کنید"
+
+msgid "Open the cart every time an item is added."
+msgstr "هربار که موردی اضافه می شود سبد خرید را باز کنید."
+
+msgid "Opposing Nested Rings"
+msgstr "حلقه های تودرتوی مخالف"
+
+msgid "Opposing Nested Spinners"
+msgstr "مخالف اسپینرهای تودرتو"
+
+msgid "Opposite"
+msgstr "در مقابل"
+
+msgid "Options"
+msgstr "گزینه‌ها"
+
+msgid "Order"
+msgstr "ترتیب"
+
+msgid "Order By"
+msgstr "مرتب سازی بر اساس"
+
+msgid "Order Date:"
+msgstr "تاریخ سفارش:"
+
+msgid "Order Details"
+msgstr "جزئیات سفارش"
+
+msgid "Order Email:"
+msgstr "ایمیل سفارش:"
+
+msgid "Order ID"
+msgstr "شناسه سفارش"
+
+msgid "Order Notes"
+msgstr "یادداشت های سفارش"
+
+msgid "Order Number:"
+msgstr "شماره سفارش :"
+
+msgid "Order Summary"
+msgstr "خلاصه سفارش"
+
+msgid "Order Total:"
+msgstr "مجموع سفارش:"
+
+msgid "Order Tracking Form"
+msgstr "فرم سفارش پیگیری"
+
+msgid ""
+"Ordering is not available if this widget is placed in your front page. Visible "
+"on frontend only."
+msgstr ""
+"سفارش در دسترس نیست اگر این ویجت در صفحه اول قرار داده شود فقط در بخش ظاهری سایت "
+"قابل مشاهده است."
+
+msgid "Orders"
+msgstr "سفارشات"
+
+msgid "Orientation"
+msgstr "گرایش"
+
+msgid "Original"
+msgstr "اصلی"
+
+msgid "Original Price"
+msgstr "قیمت اصلی"
+
+msgid "Other"
+msgstr "دیگر"
+
+msgid "Our Bank Details"
+msgstr "جزئیات بانک ما"
+
+msgid "Out"
+msgstr "خروج"
+
+msgid "Outline"
+msgstr "خط خارجی"
+
+msgid "Outlook Calendar"
+msgstr "تقویم Outlook"
+
+msgid "Outside"
+msgstr "برون"
+
+msgid "Overlap"
+msgstr "همپوشانی"
+
+msgid "Overlay"
+msgstr "پوشش"
+
+msgid "Overlay Color"
+msgstr "رنگ پوشش"
+
+msgid "Overline"
+msgstr "رو خط دار"
+
+msgid "POSITION"
+msgstr "موقعیت"
+
+msgid "Padding"
+msgstr "فاصله داخلی"
+
+msgid "Page"
+msgstr "برگه"
+
+msgid "Page Layout"
+msgstr "طرح صفحه"
+
+msgid "Page Limit"
+msgstr "محدودیت صفحه"
+
+msgid "Page Not Found"
+msgstr "صفحه پیدا نشد"
+
+msgid "Page Parent"
+msgstr "صفحه والد"
+
+msgid "Page Reload"
+msgstr "بارگذاری مجدد صفحه"
+
+msgid "Page Title"
+msgstr "عنوان صفحه"
+
+msgid "Page Transitions"
+msgstr "انتقال صفحه"
+
+msgid "Page URL"
+msgstr "آدرس لینک صفحه"
+
+msgid "Page Views"
+msgstr "بازدیدهای صفحه"
+
+msgid "Pages"
+msgstr "برگه‌ها"
+
+msgid "Pages:"
+msgstr "صفحات:"
+
+msgid "Pagination"
+msgstr "صفحه‌گذاری"
+
+msgid "Panel"
+msgstr "پنل"
+
+msgid "Parameter Name"
+msgstr "نام پارامتر"
+
+msgid "Parent"
+msgstr "مادر"
+
+msgid "Parent Comment"
+msgstr "دیدگاه اصلی"
+
+msgid "Parent ID"
+msgstr "شناسه اصلی"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+msgid "Password Label"
+msgstr "برچسب رمز عبور"
+
+msgid "Password Placeholder"
+msgstr "نگهدارنده رمز عبور"
+
+msgid "Past Day"
+msgstr "روز گذشته"
+
+msgid "Past Month"
+msgstr "ماه گذشته"
+
+msgid "Past Quarter"
+msgstr "سه ماه گذشته"
+
+msgid "Past Week"
+msgstr "هفته گذشته"
+
+msgid "Past Year"
+msgstr "سال گذشته"
+
+msgid "Paste URL"
+msgstr "افزودن URL"
+
+msgid "Paste URL or type"
+msgstr "URL یا نوع را جایگذاری کنید"
+
+msgid "Paste the URL of the Facebook page."
+msgstr "قرار دادن آدرس صفحه فیسبوک."
+
+msgid "Pause"
+msgstr "توقف"
+
+msgid "Pause on Hover"
+msgstr "توقف به محض بردن موس"
+
+msgid "Pause on Interaction"
+msgstr "مکث در تعامل"
+
+msgid "Pause on hover"
+msgstr "مکث در حالت شناور"
+
+msgid "Pause on interaction"
+msgstr "مکث در تعامل"
+
+msgid "PayPal Account"
+msgstr "حساب پی پال"
+
+msgid "PayPal Button"
+msgstr "دکمه پی پال"
+
+msgid "Payment"
+msgstr "پرداخت"
+
+msgid "Payment Details"
+msgstr "جزئیات پرداخت"
+
+msgid "Payment Method:"
+msgstr "روش پرداخت:"
+
+msgid "Per"
+msgstr "مطابق"
+
+msgid "Percentage"
+msgstr "درصد"
+
+msgid "Percentage Position"
+msgstr "موقعیت درصد"
+
+msgid "Period"
+msgstr "دوره زمانی"
+
+msgid "Permissions"
+msgstr "مجوزها"
+
+msgid "Persisting"
+msgstr "ماندگار"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "Picture Size"
+msgstr "اندازه تصویر"
+
+msgid "Placeholder"
+msgstr "نگهدارنده"
+
+msgid "Plain"
+msgstr "ساده"
+
+msgid "Plain Permalink"
+msgstr "پیوندیکتای ساده"
+
+msgid "Play"
+msgstr "پخش"
+
+msgid "Play Icon"
+msgstr "آیکون پخش"
+
+msgid "Play Speed"
+msgstr "سرعت پخش"
+
+msgid "Play Video"
+msgstr "پخش ویدئو"
+
+msgid "Playlist"
+msgstr "لیست پخش"
+
+msgid "Playlist Items"
+msgstr "موارد لیست پخش"
+
+msgid "Playlist Name"
+msgstr "نام لیست پخش"
+
+msgid ""
+"Please activate your license to get feature updates, premium support and "
+"unlimited access to the template library."
+msgstr ""
+"لطفاً لایسنس خود را برای دریافت به‌روز رسانی‌ها، پشتیبانی حرفه‌ای و دسترسی به قالب‌ها "
+"وارد کنید."
+
+msgid "Please connect to Elementor in order to activate license."
+msgstr "لطفاً برای اتصال به المنتور، لایسنس خود را فعال کنید."
+
+msgid "Please enable the Review Rating"
+msgstr "لطفاً امتیازدهی را فعال‌سازی کنید"
+
+msgid "Please enter a valid URL"
+msgstr "لطفاً یک آدرس معتبر را وارد کنید"
+
+msgid "Please enter your license key here"
+msgstr "لطفاً کلید لایسنس خود را قرار دهید"
+
+msgid "Please enter your license key."
+msgstr "لطفاً کلید لایسنس خود را وارد کنید."
+
+msgid ""
+"Please make sure the ID is unique and not used elsewhere in this form. This "
+"field allows `A-z 0-9` & underscore chars without spaces."
+msgstr ""
+"لطفاً مطمئن شوید که شناسه منحصر به فرد است و در جای دیگری در این فرم استفاده نشده "
+"است. این فیلد نویسه‌های A-z 0-9 و زیرخط بدون فاصله را مجاز می‌کند."
+
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this form "
+"is displayed. This field allows `A-z 0-9` & underscore chars without spaces."
+msgstr ""
+"لطفاً مطمئن شوید که شناسه منحصر به فرد است و در جای دیگری از صفحه نمایش این فرم "
+"استفاده نشده است. این فیلد به نویسه‌های A-z 0-9 و زیرخط بدون فاصله اجازه می‌دهد."
+
+msgid ""
+"Please note that switching on this option will disable some of the design "
+"controls."
+msgstr ""
+"لطفا توجه داشته باشید که با فعال کردن این گزینه برخی از کنترل های طراحی غیرفعال "
+"می شوید."
+
+msgid "Please note that this user has notes/replies in Elementor Notes feature."
+msgstr ""
+"لطفاً توجه داشته باشید که این کاربر دارای یادداشت/پاسخ در ویژگی  یادداشت های "
+"المنتور است."
+
+msgid ""
+"Please note: The Stripe name and logos are trademarks or service marks of "
+"Stripe, Inc. or its affiliates in the U.S. and other countries. %s Other names "
+"may be trademarks of their respective owners."
+msgstr ""
+"لطفاً توجه داشته باشید: نام و نشان‌های Stripe علائم تجاری یا علائم خدمات Stripe، "
+"Inc. یا شرکت‌های وابسته آن در ایالات متحده و سایر کشورها هستند. %s نام‌های دیگر "
+"ممکن است علائم تجاری صاحبان مربوطه باشند."
+
+msgid "Please select a taxonomy."
+msgstr "لطفاً یک طبقه بندی انتخاب کنید."
+
+msgid "Please set a valid product"
+msgstr "لطفاً یک محصول معتبر تنظیم کنید"
+
+msgid "Please set the embed type"
+msgstr "لطفاً نوع جاسازی را تنظیم کنید"
+
+msgid "Plural"
+msgstr "جمع"
+
+msgid "Pods"
+msgstr "شاخه‌ها"
+
+msgid "Pointer"
+msgstr "اشاره‌گر"
+
+msgid "Pointer Color"
+msgstr "رنگ اشاره‌گر"
+
+msgid "Pointer Width"
+msgstr "عرض اشاره‌گر"
+
+msgid "Popular"
+msgstr "محبوب"
+
+msgid "Popular Font Types"
+msgstr "انواع فونت محبوب"
+
+msgid "Popularity"
+msgstr "محبوبیت"
+
+msgid "Popup"
+msgstr "پاپ آپ"
+
+msgid "Popups"
+msgstr "پاپ‌آپ"
+
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+msgid "Position"
+msgstr "موقعیت"
+
+msgid "Position in grid"
+msgstr "موقعیت در شبکه"
+
+msgid "Post"
+msgstr "نوشته"
+
+msgid "Post Code"
+msgstr "کد پستی"
+
+msgid "Post Comments"
+msgstr "دیدگاه‌های نوشته"
+
+msgid "Post Content"
+msgstr "محتوای نوشته"
+
+msgid "Post Custom Field"
+msgstr "زمینه‌های سفارشی نوشته"
+
+msgid "Post Date"
+msgstr "تاریخ پست"
+
+msgid "Post Excerpt"
+msgstr "خلاصه پست"
+
+msgid "Post ID"
+msgstr "شناسه نوشته"
+
+msgid "Post Image Attachments"
+msgstr "پیوست‌های نوشته"
+
+msgid "Post Info"
+msgstr "اطلاعات پست"
+
+msgid "Post Modified"
+msgstr "نوشته ویرایش شده"
+
+msgid "Post Navigation"
+msgstr "ناوبری نوشته"
+
+msgid "Post Published"
+msgstr "نوشته منتشر شده"
+
+msgid "Post Terms"
+msgstr "شرایط نوشته"
+
+msgid "Post Time"
+msgstr "زمان نوشته"
+
+msgid "Post Title"
+msgstr "عنوان مطلب"
+
+msgid "Post Type"
+msgstr "نوع نوشته"
+
+msgid "Post URL"
+msgstr "آدرس نوشته"
+
+msgid "Posts"
+msgstr "نوشته‌ها"
+
+msgid "Posts Archive"
+msgstr "آرشیو نوشته‌ها"
+
+msgid "Posts Per Page"
+msgstr "پست‌ها در هر صفحه"
+
+msgctxt "Posts Query Control"
+msgid "Manual Selection"
+msgstr "بخش دستی"
+
+msgid "Posts widget doesn't exist"
+msgstr "ابزارک نوشته ها وجود ندارد"
+
+msgid "Powered by"
+msgstr "قدرت گرفته از"
+
+msgid "Powered by %s"
+msgstr "قدرت گرفته از %s"
+
+msgid "Pre Text"
+msgstr "پیش گفتار"
+
+msgid "Preloader"
+msgstr "پیش بارگذاری"
+
+msgid "Preloader Delay"
+msgstr "تاخیر پیش بارگذاری"
+
+msgid "Pretty Permalink"
+msgstr "پیوندیکتای پیوسته"
+
+msgid "Prev"
+msgstr "قبلی"
+
+msgid "Prevent Closing on ESC key"
+msgstr "جلوگیری از بسته شدن با کلید ESC"
+
+msgid "Prevent Closing on Overlay"
+msgstr "جلوگیری از بسته شدن روی روکش"
+
+msgid "Preview"
+msgstr "نمایش"
+
+msgid "Preview Changes"
+msgstr "پیش نمایش تغییرات"
+
+msgid "Preview Dynamic Content as"
+msgstr "پیش‌نمایش محتوای پویا به عنوان"
+
+msgid "Preview Page Transition"
+msgstr "پیش نمایش انتقال صفحه"
+
+msgid "Preview Settings"
+msgstr "تنظیمات پیش‌نمایش"
+
+msgid "Preview a specific post or item"
+msgstr "پیش نمایش یک پست یا مورد خاص"
+
+msgid "Preview order with"
+msgstr "پیش نمایش سفارش با"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Previous Arrow"
+msgstr "فلش قبلی"
+
+msgid "Previous Button"
+msgstr "دکمه قبلی"
+
+msgid "Previous Label"
+msgstr "برچسب قبلی"
+
+msgid "Previous slide"
+msgstr "اسلاید قبلی"
+
+msgid "Previous/Next"
+msgstr "قبلی/بعدی"
+
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Price List"
+msgstr "لیست قیمت"
+
+msgid "Price Table"
+msgstr "جدول قیمت"
+
+msgid "Price and Quantity"
+msgstr "قیمت و مقدار"
+
+msgid "Pricing"
+msgstr "قیمت گذاری"
+
+msgid "Pricing & Payments"
+msgstr "قیمت گذاری و پرداخت ها"
+
+msgid "Primary Color"
+msgstr "رنگ اولیه"
+
+msgid "Priority"
+msgstr "اولویت"
+
+msgid "Pro"
+msgstr "برو"
+
+msgid "Proceed to Checkout"
+msgstr "به تسویه حساب بروید"
+
+msgid "Product"
+msgstr "تولید"
+
+msgid "Product Archive"
+msgstr "آرشیو محصول"
+
+msgid "Product Categories"
+msgstr "دسته‌های محصول"
+
+msgid "Product Content"
+msgstr "محتوای محصول"
+
+msgid "Product Data Tabs"
+msgstr "زباله‌های اطلاعات محصول"
+
+msgid "Product Gallery"
+msgstr "گالری محصول"
+
+msgid "Product Image"
+msgstr "تصویر محصول"
+
+msgid "Product Images"
+msgstr "تصویر محصول"
+
+msgid "Product Link"
+msgstr "پیوند محصول"
+
+msgid "Product Meta"
+msgstr "اطلاعات محصول"
+
+msgid "Product Name"
+msgstr "نام محصول"
+
+msgid "Product Post"
+msgstr "نوشته محصول"
+
+msgid "Product Posts"
+msgstr "نوشته محصول"
+
+msgid "Product Price"
+msgstr "قیمت محصول"
+
+msgid "Product Rating"
+msgstr "امتیازدهی محصول"
+
+msgid "Product Related"
+msgstr "محصول مرتبط"
+
+msgid "Product SKU"
+msgstr "کد محصول"
+
+msgid "Product Sale"
+msgstr "حراج محصول"
+
+msgid "Product Short Description"
+msgstr "توضیح کوتاه محصول"
+
+msgid "Product Stock"
+msgstr "موجودی محصول"
+
+msgid "Product Terms"
+msgstr "شروط محصول"
+
+msgid "Product Title"
+msgstr "عنوان محصول"
+
+msgid "Products"
+msgstr "محصولات شما"
+
+msgid "Products Archive"
+msgstr "بایگانی محصولات"
+
+msgid "Products Archives"
+msgstr "بایگانی محصولات"
+
+msgid "Products Count"
+msgstr "شمارش محصولات"
+
+msgid "Products Per Page"
+msgstr "محصولات در هر صفحه"
+
+msgid "Profile Photos"
+msgstr "عکس‌های پروفایل"
+
+msgid "Profile Picture"
+msgstr "تصویر پروفایل"
+
+msgid "Progress"
+msgstr "پیشرفت"
+
+msgid "Progress Bar"
+msgstr "نوار پیشرفت"
+
+msgid "Progress Color"
+msgstr "رنگ پیشرفت"
+
+msgid "Progress Indicator"
+msgstr "شاخص پیشرفت"
+
+msgid "Progress Tracker"
+msgstr "ردیاب پیشرفت"
+
+msgid "Progress relative to"
+msgstr "پیشرفت نسبت به"
+
+msgid "Project ID"
+msgstr "شناسه پروژه"
+
+msgid "Project not found."
+msgstr "پروژه پیدا نشد."
+
+msgid "Protected Posts"
+msgstr "نوشته‌های محافظت شده"
+
+msgid "Pulse"
+msgstr "ضربه"
+
+msgid "Pulsing Dots"
+msgstr "نقطه های ضربه"
+
+msgid "Purchase Button"
+msgstr "دکمه خرید"
+
+msgid "Purchase Summary"
+msgstr "خلاصه خرید"
+
+msgid "Quantity"
+msgstr "مقدار"
+
+msgid "Quantity Borders"
+msgstr "حاشیه ها تعداد"
+
+msgid "Query"
+msgstr "کوئری"
+
+msgid "Query ID"
+msgstr "شناسه کوئری"
+
+msgid "Quotation"
+msgstr "نقل قول"
+
+msgid "Quote"
+msgstr "نقل‌قول"
+
+msgid "Radio"
+msgstr "رادیو"
+
+msgid "Radio Button"
+msgstr "دکمه رادیویی"
+
+msgid "Radio Buttons"
+msgstr "دکمه های رادیویی"
+
+msgid "Random"
+msgstr "تصادفی"
+
+msgid "Rating"
+msgstr "رتبه"
+
+msgid "Rating Count"
+msgstr "شمارش امتیازدهی"
+
+msgid "Ratio"
+msgstr "نسبت"
+
+msgid "Reaction"
+msgstr "واکنش"
+
+msgid "Reactivate License"
+msgstr "فعال‌سازی دوباره لایسنس"
+
+msgid "Read Less Label"
+msgstr "برچسب مشاهده کمتر"
+
+msgid "Read More"
+msgstr "بیشتر بدانید"
+
+msgid "Read More Label"
+msgstr "برچسب مشاهده بیشتر"
+
+msgid "Read More Text"
+msgstr "متن مطالعه بیشتر"
+
+msgid "Read More »"
+msgstr "مطالعه بیشتر »"
+
+msgid "Read more about %s"
+msgstr "درباره %s بیشتر بخوانید"
+
+msgid "Recent Posts"
+msgstr "مطالب اخیر"
+
+msgid "Recommend"
+msgstr "پیشنهاد"
+
+msgid "Recommended"
+msgstr "توصیه شده"
+
+msgid "Redirect"
+msgstr "انتقال"
+
+msgid "Redirect After Login"
+msgstr "تغییرنشانی بعد از ورود"
+
+msgid "Redirect After Logout"
+msgstr "ریدایرکت پس از خروج"
+
+msgid "Redirect After Success"
+msgstr "پس از موفقیت تغییر مسیر دهید"
+
+msgid "Redirect To"
+msgstr "ریدایرکت به"
+
+msgid "Redirect URL"
+msgstr "تغییر مسیر لینک"
+
+msgid "Redirect to link after selected timeout"
+msgstr "پس از اتمام زمان انتخاب شده ، به پیوند هدایت شوید"
+
+msgid "Referer"
+msgstr "مراجعه کننده"
+
+msgid "Referrer"
+msgstr "مراجعه کننده"
+
+msgid "Regex"
+msgstr "عبارت منظم"
+
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "Registration Date"
+msgstr "تاریخ ثبت نام"
+
+msgid "Regular Price"
+msgstr "قیمت عادی"
+
+msgid "Reinstall"
+msgstr "نصب مجدد"
+
+msgid "Related"
+msgstr "مرتبط"
+
+msgid "Related Products"
+msgstr "محصولات مرتبط"
+
+msgid "Reload Editor"
+msgstr "بارگذاری مجدد ویرایشگر"
+
+msgid "Remember Me"
+msgstr "مرا بخاطر بسپار"
+
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "Remember to add the domain to your %1$sApp Domains%2$s"
+msgstr "به یاد داشته باشید که دامنه را به دامنه‌های برنامه %1$s %2$s خود اضافه کنید"
+
+msgid "Remote IP"
+msgstr "آی پی از راه دور"
+
+msgid "Remove Item"
+msgstr "مورد را حذف کنید"
+
+msgid "Remove Item Icon"
+msgstr "حذف آیکون مورد"
+
+msgid "Remove icon"
+msgstr "حذف آیکون"
+
+msgid "Remove this item"
+msgstr "حذف این مورد"
+
+msgid "Renderer"
+msgstr "رندر"
+
+msgid "Renew Now"
+msgstr "همین حالا تمدید کردن"
+
+msgid "Renew now"
+msgstr "اکنون تمدید کنید"
+
+msgid "Renew to unlock all Elementor Pro features"
+msgstr "تمدید کنید تا قفل تمام ویژگی های Elementor Pro باز شود"
+
+msgid ""
+"Renew your Elementor Pro subscription to get %s and dozens more Pro widgets to "
+"expand your web-creation toolbox."
+msgstr ""
+"اشتراک Elementor Pro خود را تمدید کنید تا %s و ده ها ویجت Pro دیگر را برای گسترش "
+"جعبه ابزار ایجاد وب خود دریافت کنید."
+
+msgid "Renew your license today, and get an exclusive, time-limited %s discount."
+msgstr ""
+"همین امروز مجوز خود را تمدید کنید و از تخفیف انحصاری %s با زمان محدود برخوردار "
+"شوید."
+
+msgid ""
+"Renew your license today, to keep getting feature updates, premium support, Pro "
+"widgets & unlimited access to the template library."
+msgstr ""
+"مجوز خود را امروز تمدید کنید تا بروزرسانی ویژگی ها، پشتیبانی ممتاز، ابزارک های "
+"حرفه ای و دسترسی نامحدود به کتابخانه الگو ادامه دهید."
+
+msgid "Repeater State - hidden"
+msgstr "حالت تکرار کننده - پنهان"
+
+msgid "Repeating Bar"
+msgstr "نوار تکراری"
+
+msgid ""
+"Replaces the default WooCommerce Empty Cart screen with a custom template. "
+"(Don’t have one? Head over to %1$sSaved Templates%2$s)"
+msgstr ""
+"صفحه سبد خالی پیش‌فرض ووکامرس را با یک الگوی سفارشی جایگزین می‌کند. (یکی ندارید؟ "
+"به %1$s الگوهای ذخیره شده %2$s بروید)"
+
+msgid ""
+"Replaces the default WooCommerce customer dashboard screen with a custom "
+"template. (Don't have one? Head over to %1$sSaved Templates%2$s.)"
+msgstr ""
+"صفحه پیش فرض داشبورد مشتری ووکامرس را با یک الگوی سفارشی جایگزین می کند. (یکی "
+"ندارید؟ به %1$s الگوهای ذخیره شده %2$s بروید.)"
+
+msgid "Reply Button"
+msgstr "دکمه پاسخ"
+
+msgid "Reply-To"
+msgstr "پاسخ به"
+
+msgid "Request Locked"
+msgstr "درخواست قفل شد"
+
+msgid "Request Parameter"
+msgstr "درخواست پارامتر"
+
+msgid "Required"
+msgstr "ضروری"
+
+msgid "Required Field"
+msgstr "زمینه مورد نیاز"
+
+msgid "Required Mark"
+msgstr "علامت‌گذاری مورد نیاز است"
+
+msgid "Returning Customer"
+msgstr "مشتری برگشتی"
+
+msgid "Returning customer?"
+msgstr "مشتری برگشتی؟"
+
+msgid "Reverse"
+msgstr "معکوس"
+
+msgid "Reverse Time"
+msgstr "زمان معکوس"
+
+msgid "Review"
+msgstr "بررسی"
+
+msgid "Review Count"
+msgstr "تعداد نقد و بررسی"
+
+msgid "Reviews"
+msgstr "نقد و بررسی‌ها"
+
+msgid "Revision restored."
+msgstr "ویرایش مجدد انجام شد."
+
+msgid "Ribbon"
+msgstr "روبان"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "Role"
+msgstr "نقش"
+
+msgid "Rollback Pro Version"
+msgstr "بازگشت به نسخه پرو"
+
+msgid "Rollback to Previous Version"
+msgstr "بازگشت به نسخه قبل"
+
+msgid "Rotate"
+msgstr "چرخش"
+
+msgid "Rotating"
+msgstr "چرخش"
+
+msgid "Rotating Text"
+msgstr "چرخش متن"
+
+msgid "Rounded"
+msgstr "گرد شده"
+
+msgid "Rounded Edges"
+msgstr "لبه‌های گرد"
+
+msgid "Row"
+msgstr "ردیف"
+
+msgid "Row Height"
+msgstr "ارتفاع سطر"
+
+msgid "Rows"
+msgstr "ردیف ها"
+
+msgid "Rows Gap"
+msgstr "ردیف Gap"
+
+msgid "Rubber Band"
+msgstr "بند لاستیکی"
+
+msgid "SDK Token"
+msgstr "توکن SDK"
+
+msgid "SKU"
+msgstr "کد کالا"
+
+msgid "SMS"
+msgstr "پیامک"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid ""
+"SVG fonts allow SVG to be used as glyphs when displaying text, Used by Legacy iOS"
+msgstr ""
+"فونت‌های SVG اجازه می‌دهد که SVG در هنگام نمیاش متن، از glyphs و Legacy در iOS "
+"استفاده کرد"
+
+msgid "Safari"
+msgstr "سافاری"
+
+msgid "Sale"
+msgstr "حراج"
+
+msgid "Sale Flash"
+msgstr "فلش حراج"
+
+msgid "Sale Price"
+msgstr "قیمت فروش ویژه"
+
+msgid "Sale!"
+msgstr "حراج!"
+
+msgid "Sample Video"
+msgstr "نمونه ویدئو"
+
+msgid "Sandbox"
+msgstr "سندباکس"
+
+msgid "Sandbox Email Account"
+msgstr "حساب ایمیل سندباکس"
+
+msgid "Saturday"
+msgstr "شنبه"
+
+msgid "Save Your First Global Widget"
+msgstr "ذخیره اولین ابزارک سراسری شما"
+
+msgid ""
+"Save a widget as global, then add it to multiple areas. All areas will be "
+"editable from one single place."
+msgstr ""
+"ذخیره یک ابزارک بعنوان ابزارک سراسری، سپس آن را به چندین قسمت اضافه کنید. همه "
+"ناحیه‌ها قابل ویرایش از یک مکان واحد است."
+
+msgid "Say hello to %s WooCommerce notices!"
+msgstr "به اعلان های ووکامرس %s سلام کنید!"
+
+msgid "Say hello to %s WooCommerce pages!"
+msgstr "به صفحات ووکامرس %s سلام کنید!"
+
+msgid "Scale"
+msgstr "مقیاس"
+
+msgid "Schedule date and time"
+msgstr "تاریخ و زمان را برنامه ریزی کنید"
+
+msgid "Score Threshold"
+msgstr "آستانه امتیاز"
+
+msgid "Score threshold should be a value between 0 and 1, default: 0.5"
+msgstr "آستانه امتیاز باید مقداری بین 0 و 1 به طور پیش‌فرض 0.5 باشد"
+
+msgid "Scroll"
+msgstr "اسکرول"
+
+msgid "Scroll Padding"
+msgstr "فاصله داخلی اسکرول"
+
+msgid "Scroll Snap"
+msgstr "اسنپ اسکرول"
+
+msgid "Scroll Snap Stop"
+msgstr "اسنپ استاپ را اسکرول کنید"
+
+msgid ""
+"Scroll Snap makes the viewport stop on a specific position of a section when "
+"scrolling ends."
+msgstr ""
+"اسکرول اسنپ باعث می‌شود که هنگام پایان پیمایش، در یک موقعیت خاص از یک بخش، درگاه "
+"دید متوقف شود."
+
+msgid "Scroll Speed"
+msgstr "سرعت اسکرول"
+
+msgid "Scroll items if they don’t fit into their parent container"
+msgstr "اگر موارد در کانتینر اصلی خود جا نمی‌شوند، پیمایش کنید"
+
+msgid "Scrolling Effects"
+msgstr "افکت‌های اسکرول"
+
+msgid "Seal the deal on your Form Submissions"
+msgstr "قرارداد را روی فرم های ارسالی خود مهر و موم کنید"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Search & Select"
+msgstr "جستجو و انتخاب"
+
+msgid "Search Engines"
+msgstr "موتورهای جستجو"
+
+msgid "Search Font"
+msgstr "جستجوی فونت"
+
+msgid "Search Font Types"
+msgstr "جستجوی نوع فونت"
+
+msgid "Search Form"
+msgstr "فرم جستجو"
+
+msgid "Search Icon Set"
+msgstr "جستجوی فونت"
+
+msgid "Search Results"
+msgstr "نتایج جستجو"
+
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+msgid "Search Term"
+msgstr "شرایط جستجو"
+
+msgid "Second item on the list"
+msgstr "مورد دوم در لیست"
+
+msgid "Secondary Color"
+msgstr "رنگ دوم"
+
+msgid "Secondary Title"
+msgstr "عنوان دوم"
+
+msgid "Secondary Titles"
+msgstr "عنوان دوم"
+
+msgid "Seconds"
+msgstr "ثانیه‌"
+
+msgid "Secret Key"
+msgstr "Secret Key"
+
+msgid "Section"
+msgstr "بخش"
+
+msgid "Section Title"
+msgstr "عنوان بخش"
+
+msgid "Section Titles"
+msgstr "عناوین بخش"
+
+msgid "Sections"
+msgstr "بخش ها"
+
+msgid "Select"
+msgstr "منوی بازشو"
+
+msgid "Select .%s file"
+msgstr "انتخاب. فایل %s"
+
+msgid "Select Post Type"
+msgstr "انتخاب نوع نوشته"
+
+msgid "Select Roles"
+msgstr "انتخاب نقش‌ها"
+
+msgid "Select a Location"
+msgstr "انتخاب یک موقعیت"
+
+msgid "Select a page"
+msgstr "یک صفحه را انتخاب کنید"
+
+msgid "Select a taxonomy"
+msgstr "یک طبقه بندی را انتخاب کنید"
+
+msgid "Select a widget"
+msgstr "یک ویجت را انتخاب کنید"
+
+msgid "Select field"
+msgstr "انتخاب زمینه"
+
+msgid "Select sections of the cart to customize:"
+msgstr "بخش هایی از سبد خرید را برای سفارشی کردن انتخاب کنید:"
+
+msgid "Select sections of the checkout to customize:"
+msgstr "بخش‌هایی از پرداخت را برای سفارشی‌ سازی انتخاب کنید:"
+
+msgid "Select the pages you want to use as your default WooCommerce shop pages"
+msgstr ""
+"صفحاتی را که می خواهید به عنوان صفحات پیشفرض فروشگاه ووکامرس خود استفاده کنید، "
+"انتخاب کنید"
+
+msgid "Select..."
+msgstr "انتخاب..."
+
+msgid "Selected Text"
+msgstr "متن انتخاب شده"
+
+msgid "Selected loop grid"
+msgstr "شبکه حلقه انتخاب شده"
+
+msgid "Selection Color"
+msgstr "رنگ انتخاب شده"
+
+msgid "Selector"
+msgstr "انتخاب‌گر"
+
+msgid "Self Hosted"
+msgstr "خود میزبان"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Send Additional Data to Drip"
+msgstr "ارسال اطلاعات اضافی برای Drip"
+
+msgid "Send As"
+msgstr "ارسال بعنوان"
+
+msgid "Send Voice Mail"
+msgstr "ارسال ایمیل صوتی"
+
+msgid "Send all form fields to drip as custom fields"
+msgstr "ارسال همه زمینه‌های فرم به drip بعنوان زمینه‌های دلخواه"
+
+msgid "Send files"
+msgstr "فایل ها را ارسال کنید"
+
+msgid "Separate Font Types with commas"
+msgstr "با کاما نوع فونت‌ را از هم جدا کنید"
+
+msgid "Separate emails with commas"
+msgstr "ایمیل‌های جداگانه با کاماها"
+
+msgid "Separator"
+msgstr "جداکننده"
+
+msgid "Separator Between"
+msgstr "فاصله جداساز"
+
+msgid "Separator Color"
+msgstr "رنگ جداکننده"
+
+msgid "Separator Width"
+msgstr "عرض جداکننده"
+
+msgid "Sequence Duration"
+msgstr "مدت زمان دنباله"
+
+msgid "Sequenced Animation"
+msgstr "توالی انیمیشن"
+
+msgid "Server Error"
+msgstr "خطای سرور"
+
+msgid "Server Time"
+msgstr "زمان سرور"
+
+msgid "Session"
+msgstr "جلسه"
+
+msgid "Sessions"
+msgstr "جلسات"
+
+msgid "Set"
+msgstr "تنظیم"
+
+msgid "Set custom Hotspot size that will only affect this specific hotspot."
+msgstr ""
+"اندازه کانون گرم سفارشی را تنظیم کنید که فقط روی این نقطه اتصال خاص تأثیر بگذارد."
+
+msgid "Set custom Tooltip opening that will only affect this specific hotspot."
+msgstr ""
+"باز کردن راهنمای ابزار سفارشی را تنظیم کنید که فقط روی این نقطه اتصال خاص تأثیر "
+"بگذارد."
+
+msgid ""
+"Set custom attributes for the wrapper element. Each attribute in a separate "
+"line. Separate attribute key from the value using %s character."
+msgstr ""
+"تنظیم ویژگی‌های دلخواه برای المان دربرگیرنده. هر ویژگی به صورت جداگانه در هر خط. "
+"کلید ویژگی جداگانه از این مقدار %s کاراکتر استفاده کنید."
+
+msgid "Set custom style that will only affect this specific slide."
+msgstr "تنظیم استایل دلخواه که تنها بر روی اسلاید خاص تاثیر می‌گذارد."
+
+msgid "Set how many slides are scrolled per swipe."
+msgstr "مشخص کنید چه تعداد اسلاید در هر چرخش اسکرول شوند."
+
+msgid ""
+"Set the conditions that determine where your %s is used throughout your site."
+msgstr "شرایطی که تعیین می‌کنید کدام %s در سایت شما استفاده می‌شود."
+
+msgid ""
+"Set to Yes to avoid duplicate posts from showing up on the page. This only "
+"affects the frontend."
+msgstr ""
+"برای جلوگیری از نوشته‌های تکراری از نمایش در صفحه، روی بله تنظیم کنید. این فقط "
+"روی ظاهر تاثیر می‌گذارد."
+
+msgid ""
+"Set to Yes to avoid duplicate posts from showing up. This only effects the "
+"frontend."
+msgstr ""
+"برای جلوگیری از ارسال نوشته‌های تکراری جهت نمایش، روی بله این گزینه را تنظیم "
+"کنید. این تنها بر روی بخش ظاهری سایت تاثیر دارد."
+
+msgid ""
+"Set to `Disable` in order to use your Theme's or WooCommerce's mini-cart "
+"template instead of Elementor's."
+msgstr ""
+"به منظور استفاده از الگوی کوچک سبد تم یا ووکامرس به جای المنتور، گزینه \"غیرفعال"
+"\" را تنظیم کنید."
+
+msgid "Set to include parent comment (if URL is a reply)."
+msgstr "تنظیم برای شامل دیدگاه اصلی (اگر لینک یک پاسخ است)."
+
+msgid "Set your %1$s in the %2$sIntegrations Settings%3$s."
+msgstr "%1$s خود را در %2$s تنظیمات ادغام%3$s تنظیم کنید."
+
+msgid "Set your Facebook App ID in the %1$sIntegrations Settings%2$s"
+msgstr "شناسه برنامه فیسبوک خود را در تنظیمات ادغام %1$s %2$s تنظیم کنید"
+
+msgid ""
+"Setting a ‘Before’ date will show all the posts published until the chosen date "
+"(inclusive)."
+msgstr ""
+"تنظیم یک تاریخ \"قبل از\" تمام نوشته‌های منتشر شده با تاریخ انتخاب شده (شامل "
+"باشد) را نمایش می‌دهد."
+
+msgid ""
+"Setting an ‘After’ date will show all the posts published since the chosen date "
+"(inclusive)."
+msgstr ""
+"تنظیم یک تاریخ \"پس از\" تمام نوشته‌های منتشر شده با تاریخ انتخاب شده (شامل باشد) "
+"را نمایش می‌دهد."
+
+msgid "Settings"
+msgstr "تنضیمات"
+
+msgid "Shake"
+msgstr "تکان دادن"
+
+msgid "Shape"
+msgstr "شکل"
+
+msgctxt "Shapes"
+msgid "Circle"
+msgstr "گرد"
+
+msgctxt "Shapes"
+msgid "Curly"
+msgstr "فرفری"
+
+msgctxt "Shapes"
+msgid "Diagonal"
+msgstr "مورب"
+
+msgctxt "Shapes"
+msgid "Double"
+msgstr "دوبرابر"
+
+msgctxt "Shapes"
+msgid "Double Underline"
+msgstr "دو خط زیرین"
+
+msgctxt "Shapes"
+msgid "Strikethrough"
+msgstr "خط خورده"
+
+msgctxt "Shapes"
+msgid "Underline"
+msgstr "زیر خط"
+
+msgctxt "Shapes"
+msgid "Underline Zigzag"
+msgstr "زیرخط زیگ زاگ"
+
+msgid "Share Button"
+msgstr "دکمه اشتراک گذاری"
+
+msgid "Share Buttons"
+msgstr "دکمه‌های اشتراک‌گذاری"
+
+msgid "Share on %s"
+msgstr "اشتراگ گذاری در %s"
+
+msgid "Sharing"
+msgstr "اشتراک‌گذاری"
+
+msgid "Ship to a different address?"
+msgstr "به آدرس دیگری ارسال شود؟"
+
+msgid "Shipping Address"
+msgstr "آدرس حمل و نقل"
+
+msgid "Shipping Details"
+msgstr "جزئیات حمل و نقل"
+
+msgid "Shipping Price"
+msgstr "قیمت حمل و نقل"
+
+msgid "Shop"
+msgstr "فروشگاه"
+
+msgid "Shop Page"
+msgstr "صفحه فروشگاه"
+
+msgid "Short Description"
+msgstr "توضیح کوتاه"
+
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+msgid "Shorten"
+msgstr "کوتاه شدن"
+
+msgid "Show"
+msgstr "نمایش"
+
+msgid "Show All"
+msgstr "نمایش همه"
+
+msgid "Show Close Button After"
+msgstr "نمایش دکمه بستن پس از"
+
+msgid "Show Home Title"
+msgstr "نمایش عنوان صفحه اصلی"
+
+msgid "Show Image"
+msgstr "نمایش تصویر"
+
+msgid "Show Label"
+msgstr "نمایش برچسب"
+
+msgid "Show Less"
+msgstr "مشاهده کمتر"
+
+msgid "Show Message"
+msgstr "نمایش پیام"
+
+msgid "Show More"
+msgstr "مشاهده بیشتر"
+
+msgid "Show Profile"
+msgstr "نمایش پروفایل"
+
+msgid "Show Quantity"
+msgstr "نمایش مقدار"
+
+msgid "Show Result Count"
+msgstr "نمایش شمارش نتایج"
+
+msgid "Show Text"
+msgstr "نمایش متن"
+
+msgid "Show Thumbnail"
+msgstr "نمایش تصاویر بند انگشتی‌ها"
+
+msgid "Show Title"
+msgstr "نمایش عنوان"
+
+msgid "Show after X page views"
+msgstr "نمایش پس از X بازدید صفحه"
+
+msgid "Show after X sessions"
+msgstr "نمایش پس از X جلسه"
+
+msgid "Show captions if available (only on desktop)."
+msgstr "نمایش زیرنویس‌ها اگر موجود باشد (فقط در دسکتاپ)."
+
+msgid "Show on browsers"
+msgstr "نمایش در مرورگرها"
+
+msgid "Show on devices"
+msgstr "نمایش بر روی دستگاه‌ها"
+
+msgid "Show the full text of the post"
+msgstr "نمایش متن کامل نوشته"
+
+msgid "Show up to X times"
+msgstr "نمایش بالای X زمان"
+
+msgid "Show when arriving from"
+msgstr "نمایش از هنگام ورود"
+
+msgid "Side Cart"
+msgstr "سبد خرید جانبی"
+
+msgid "Single"
+msgstr "مفرد"
+
+msgid "Single Page"
+msgstr "صفحه تکی"
+
+msgid "Single Pages"
+msgstr "صفحات تکی"
+
+msgid "Single Post"
+msgstr "نوشته تکی"
+
+msgid "Single Posts"
+msgstr "نوشته های تکی"
+
+msgid "Single Product"
+msgstr "محصول تکی"
+
+msgid "Single Product Page"
+msgstr "صفحه محصول تکی"
+
+msgid "Single Products"
+msgstr "محصول تکی"
+
+msgid "Singles"
+msgstr "تکی ها"
+
+msgid "Singular"
+msgstr "مفرد"
+
+msgid "Site"
+msgstr "سایت"
+
+msgid "Site Key"
+msgstr "Site Key"
+
+msgid "Site Logo"
+msgstr "لوگوی سایت"
+
+msgid "Site Tagline"
+msgstr "شعار سایت"
+
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+msgid "Site URL"
+msgstr "لینک سایت"
+
+msgid "Sitemap"
+msgstr "نقشه سایت"
+
+msgid "Size"
+msgstr "اندازه"
+
+msgid "Skin"
+msgstr "پوسته"
+
+msgid "Skype"
+msgstr "اسکایپ"
+
+msgid "Slack"
+msgstr "شل"
+
+msgid "Slide"
+msgstr "اسلاید"
+
+msgid "Slide #%d"
+msgstr "اسلاید #%d"
+
+msgid "Slide #1"
+msgstr "اسلاید #1"
+
+msgid "Slide #2"
+msgstr "اسلاید#2"
+
+msgid "Slide #3"
+msgstr "اسلاید #3"
+
+msgid "Slide 1 Heading"
+msgstr "سرعنوان اسلاید 1"
+
+msgid "Slide 2 Heading"
+msgstr "سرعنوان اسلاید 2"
+
+msgid "Slide 3 Heading"
+msgstr "سرعنوان اسلاید 3"
+
+msgid "Slide By Direction"
+msgstr "جهت براساس اسلاید"
+
+msgid "Slide Heading"
+msgstr "سرعنوان اسلاید"
+
+msgid "Slide In Down"
+msgstr "Slide In Down"
+
+msgid "Slide In Left"
+msgstr "اسلاید به سمت چپ"
+
+msgid "Slide In Right"
+msgstr "Slide In Right"
+
+msgid "Slide In Up"
+msgstr "Slide In Up"
+
+msgid "Slide Out Down"
+msgstr "Slide Out Down"
+
+msgid "Slide Out Left"
+msgstr "اسلاید به سمت راست"
+
+msgid "Slide Out Right"
+msgstr "Slide Out Right"
+
+msgid "Slide Out Up"
+msgstr "Slide Out Up"
+
+msgid "Slide Title"
+msgstr "عنوان اسلاید"
+
+msgid "Slider Options"
+msgstr "تنظیم‌های اسلایدر"
+
+msgid "Slides"
+msgstr "اسلایدها"
+
+msgid "Slides Per View"
+msgstr "اسلایدها در هر مشاهده"
+
+msgid "Slides on display"
+msgstr "اسلایدهای نمایش داده شده"
+
+msgid "Slides on scroll"
+msgstr "اسلایدها روی اسکرول"
+
+msgid "Slides to Scroll"
+msgstr "اسلایدها جهت پیمایش"
+
+msgid "Slideshow"
+msgstr "اسلایدشو"
+
+msgid "Slug"
+msgstr "نامک"
+
+msgid "Small"
+msgstr "کوچگ"
+
+msgid "Small Header"
+msgstr "سربرگ کوچک"
+
+msgid "Snap Position"
+msgstr "موقعیت اسنپ"
+
+msgid "Social"
+msgstr "اجتماعی"
+
+msgid "Soft Beat"
+msgstr "نرم"
+
+msgid "Solid"
+msgstr "ساده"
+
+msgid "Something went wrong"
+msgstr "اشتباهی رخ داده است"
+
+msgid "Something went wrong, please refresh the page."
+msgstr "مشکلی پیش آمد، لطفاً صفحه را بازخوانی کنید."
+
+msgid "Source"
+msgstr "منبع"
+
+msgid "Source Type"
+msgstr "نوع منبع"
+
+msgid "Space"
+msgstr "فضا"
+
+msgid "Space Between"
+msgstr "فاصله بینابینی"
+
+msgid "Space From slides"
+msgstr "فضا از اسلایدها"
+
+msgid "Space between Items"
+msgstr "فاصله بین موارد"
+
+msgid "Space from bottom"
+msgstr "فضا از پایین"
+
+msgid "Space from top"
+msgstr "فضا از بالا"
+
+msgid "Spacing"
+msgstr "فاصله"
+
+msgid "Spam detected"
+msgstr "هرزنامه شناسایی شد"
+
+msgid "Speed"
+msgstr "سرعت"
+
+msgid "Spinner"
+msgstr "اسپینر"
+
+msgid "Spinner Color"
+msgstr "رنگ اسپینر"
+
+msgid "Spinners"
+msgstr "اسپینرها"
+
+msgid "Spinning"
+msgstr "حال چرخش"
+
+msgid "Square"
+msgstr "مربع"
+
+msgid "Stacked"
+msgstr "انباشته"
+
+msgid "Standard"
+msgstr "استاندارد"
+
+msgid "Star Color"
+msgstr "رنگ ستاره"
+
+msgid "Star Size"
+msgstr "اندازه ستاره"
+
+msgid "Start"
+msgstr "شروع"
+
+msgid "Start Point"
+msgstr "نقطه شروع"
+
+msgid ""
+"Start by creating a master item. All the other instances in the grid will match "
+"this design. Then go back to the widget in the editor panel and assign both a "
+"template and a source of content. Your grid should populate automatically."
+msgstr ""
+"با ایجاد یک مورد اصلی شروع کنید. تمام نمونه های دیگر در شبکه با این طرح مطابقت "
+"دارند. سپس به ویجت در پنل ویرایشگر برگردید و هم یک الگو و هم منبع محتوا را "
+"اختصاص دهید. شبکه شما باید به طور خودکار پر شود."
+
+msgid "State"
+msgstr "استان"
+
+msgid "Static item position"
+msgstr "موقعیت مورد ثابت"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Stay In Column"
+msgstr "ماندن در ستون"
+
+msgid "Step"
+msgstr "مرحله"
+
+msgid "Step Buttons"
+msgstr "دکمه های مرحله"
+
+msgid "Steps"
+msgstr "مراحل"
+
+msgid "Steps Settings"
+msgstr "تنظیمات مراحل"
+
+msgid "Sticky"
+msgstr "چسبان"
+
+msgid "Sticky On"
+msgstr "چسبیده روی"
+
+msgid "Sticky Right Column"
+msgstr "ستون سمت راست چسبان"
+
+msgid "Sticky-posts ordering is visible on frontend only"
+msgstr "ترتیب نوشته‌های چسبان برای نمایش فقط در بخش ظاهری سایت"
+
+msgid "Stock Status"
+msgstr "وضعیت انبار"
+
+msgid "Street Address"
+msgstr "آدرس خیابان"
+
+msgid "Stretch"
+msgstr "کشش"
+
+msgid "Stretch the dropdown of the menu to full width."
+msgstr "برای تمام عرض کردن منو کرکره را بکشید."
+
+msgid "Stripe"
+msgstr "استریپ"
+
+msgid "Stripe Button"
+msgstr "دکمه استریپ"
+
+msgid "Stripe test environment"
+msgstr "محیط تست استریپ"
+
+msgid "Style"
+msgstr "استایل"
+
+msgid "Style the dropdown box that contains menu items."
+msgstr "به کادر کشویی که حاوی موارد منو است استایل بدهید."
+
+msgid "Styles apply to items when the menu switches to dropdown layout"
+msgstr "هنگامی که منو به طرح‌بندی کشویی تغییر می‌کند، سبک‌ها برای موارد اعمال می‌شوند"
+
+msgid "Sub Title"
+msgstr "عنوان ساب"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Submenu Indicator"
+msgstr "شاخص ساب منو"
+
+msgid "Submission ID"
+msgstr "شناسه ارسال"
+
+msgid "Submission not found or not in trash."
+msgstr "ارسال در سطل زباله یافت نشد."
+
+msgid "Submission not found."
+msgstr "ارسال یافت نشد."
+
+msgid "Submissions"
+msgstr "ارسال ها"
+
+msgid "Submit"
+msgstr "ثبت"
+
+msgid "Submit Button"
+msgstr "دکمه ثبت"
+
+msgid "Subscriber already exists."
+msgstr "از قبل مشترک وجود دارد."
+
+msgid "Subscription"
+msgstr "اشتراک"
+
+msgid "Subtotal"
+msgstr "زیر مجموع"
+
+msgid "Success"
+msgstr "موفقیت"
+
+msgid "Success Message"
+msgstr "پیام موفق آمیز"
+
+msgid "Success Message Color"
+msgstr "رنگ پیام موفق آمیز"
+
+msgid "Sunday"
+msgstr "یکشنبه"
+
+msgid "Swing"
+msgstr "تاب خوردن"
+
+msgid "Switch Account"
+msgstr "تعویض حساب"
+
+msgid ""
+"Switch on comments from either the discussion box on the WordPress post edit "
+"screen or from the WordPress discussion settings."
+msgstr ""
+"سوئیچ روی فرم دیدگاه‌ها بر روی صفحه ویرایش وردپرس و یا از تنظیمات وردپرس تغییر "
+"دهید."
+
+msgid "Sync Project"
+msgstr "همگام‌سازی پروژه"
+
+msgid "Tab #1"
+msgstr "زبانه 1"
+
+msgid "Tab #2"
+msgstr "زبانه 2"
+
+msgid "Tab 1 Name"
+msgstr "نام زبانه 1"
+
+msgid "Tab 2 Name"
+msgstr "نام زبانه 2"
+
+msgid "Tab Name"
+msgstr "نام زبانه"
+
+msgid "Table"
+msgstr "جدول"
+
+msgid "Table of Contents"
+msgstr "جدول محتوا"
+
+msgid "Tabs"
+msgstr "زبانه‌ها"
+
+msgid "Tabs Position"
+msgstr "موقعیت زبانه ها"
+
+msgid "Tada"
+msgstr "Tada"
+
+msgid "Tag"
+msgstr "برچسپ"
+
+msgid "Tag: %s"
+msgstr "برچسب: %s"
+
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+msgid "Take me there"
+msgstr "مرا به آنجا ببر"
+
+msgid "Target URL"
+msgstr "هدف لینک"
+
+msgid "Tax"
+msgstr "مالیات"
+
+msgid "Tax Percentage"
+msgstr "درصد مالیات"
+
+msgid "Tax Rate"
+msgstr "نرخ مالیات"
+
+msgid "Taxonomy"
+msgstr "طبقه بندی"
+
+msgid "Taxonomy Children"
+msgstr "چیلد طبقه بندی"
+
+msgid "Taxonomy Filter"
+msgstr "فیلتر طبقه بندی"
+
+msgid ""
+"Taxonomy Filter is a powerful tool that enables users to easily filter and sort "
+"their posts and product categories. %1$sLearn More%2$s"
+msgstr ""
+"فیلتر طبقه بندی ابزاری قدرتمند است که کاربران را قادر می سازد تا پست ها و دسته "
+"بندی های محصولات خود را به راحتی فیلتر و مرتب کنند. %1$s بیشتر بدانید %2$s"
+
+msgid "Tel"
+msgstr "تلفن"
+
+msgid "Template"
+msgstr "قالب"
+
+msgid "Templates"
+msgstr "الگوها"
+
+msgid "Term"
+msgstr "شرط"
+
+msgid "Terms"
+msgstr "مقررات"
+
+msgid "Terms & Conditions"
+msgstr "شرایط و ضوابط"
+
+msgid "Terms &amp; Conditions"
+msgstr "شرایط و ضوابط"
+
+msgid ""
+"Terms are items in a taxonomy. The available taxonomies are: Categories, Tags, "
+"Formats and custom taxonomies."
+msgstr ""
+"شرایط موارد در یک طبقه بندی هستند. طبقه بندی‌های موجود اعبارتند از: دسته‌بندی‌ها، "
+"برچسب‌ها، فرمت‌ها و طبقه‌بندی‌های سفارشی."
+
+msgid "Test Secret key"
+msgstr "کلید مخفی تست"
+
+msgid "Testimonial Carousel"
+msgstr "چرخش توصیه‌نامه"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Text  Align"
+msgstr "تراز کردن متن"
+
+msgid "Text Align"
+msgstr "چینش متن"
+
+msgid "Text Color"
+msgstr "رنگ متن"
+
+msgid "Text Padding"
+msgstr "فاصله داخلی متن"
+
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr "سایه"
+
+msgid "Text Wrap"
+msgstr "ناحیه محتوا"
+
+msgid "Textarea"
+msgstr "ناحیه متنی"
+
+msgid "Thank You. Your order has been received."
+msgstr "متشکرم. سفارش شما دریافت شد."
+
+msgid ""
+"The \"Collapse\" option should only be used if the Table of Contents is made "
+"sticky"
+msgstr "گزینه \"بستن\" فقط باید در صورت استفاده از جدول محتویات چسبنده استفاده شود"
+
+msgid "The %s Widget was not found in your template."
+msgstr "ابزارک %s در قالب شما پیدا نشد."
+
+msgid ""
+"The Autoplay is inactive while editing. Preview your page to see it in action."
+msgstr ""
+"پخش خودکار هنگام ویرایش غیرفعال است. صفحه خود را پیش نمایش کنید تا آن را در عمل "
+"ببینید."
+
+msgid "The Captcha field cannot be blank. Please enter a value."
+msgstr "زمینه کپچا نمی‌تواند خالی باشد. لطفاً یک مقدار را وارد کنید."
+
+msgid ""
+"The Icon Set prefix already exists in your site. In order to avoid conflicts we "
+"recommend to use a unique prefix per Icon Set."
+msgstr ""
+"پیشوند آیکون مجموعه‌ای در حال حاضر در سایت شما وجود دارد. برای جلوگیری از "
+"اختلال‌ها توصیه می‌کنیم از یک پیشوند منحصربفرد در هر مجموعه آیکون استفاده کنید."
+
+msgid ""
+"The Order Summary and Payment sections will remain in place while scrolling."
+msgstr "بخش خلاصه سفارش و پرداخت هنگام پیمایش در جای خود باقی می مانند."
+
+msgid ""
+"The Theme Comments skin uses the currently active theme comments design and "
+"layout to display the comment form and comments."
+msgstr ""
+"پوسته قالب دیدگاه‌ها با استفاده از طرح‌های دیدگاه در حال حاضر فعال است برای نمایش "
+"فرم دیدگاه و دیدگاه‌ها."
+
+msgid "The Web Open Font Format 2, Used by Super Modern Browsers"
+msgstr "فرمت 2 فونت Web Open، مورد استفاده برای مرورگرهای سوپر مدرن"
+
+msgid "The Web Open Font Format, Used by Modern Browsers"
+msgstr "فرمت فونت Web Open، مورد استفاده برای مرورگرهای مدرن"
+
+msgid ""
+"The editor preview might look different from the live site. Please make sure to "
+"check the frontend."
+msgstr ""
+"پیش‌نمایش ویرایشگر ممکن است متفاوت از نمایش زنده باشد. لطفاً مطمئن شوید که بخش "
+"ظاهری سایت را بررسی کرده‌اید."
+
+msgid "The field accepts only numbers and phone characters (#, -, *, etc)."
+msgstr "این زمینه فقط اعداد و کاراکترهای تلفن (#، -، *، و غیره) را می پذیرد."
+
+msgid "The field should be in HH:MM format."
+msgstr "زمینه باید در قالب HH:MM باشد."
+
+msgid "The field value must be greater than or equal to %s."
+msgstr "مقدار زمینه باید بزرگتر یا مساوی %s باشد."
+
+msgid "The field value must be less than or equal to %s."
+msgstr "مقدار زمینه باید کمتر یا مساوی %s باشد."
+
+msgid ""
+"The footer template allows you to easily design and edit custom WordPress "
+"footers without the limits of your theme’s footer design constraints"
+msgstr ""
+"الگوی پاورقی به شما امکان می دهد به راحتی و بدون محدودیت محدودیت های طراحی "
+"پاورقی طرح زمینه وردپرس خود را به راحتی طراحی و ویرایش کنید"
+
+msgid ""
+"The header template allows you to easily design and edit custom WordPress "
+"headers so you are no longer constrained by your theme’s header design "
+"limitations."
+msgstr ""
+"الگوی سربرک به شما امکان می دهد تا به راحتی سربرگ های سفارشی وردپرس را طراحی و "
+"ویرایش کنید ، بنابراین دیگر محدودیت طراحی عنوان هد خود را محدود نمی کنید."
+
+msgid ""
+"The hover effect is inactive while editing. Preview your page to see it in "
+"action."
+msgstr ""
+"افکت شناور هنگام ویرایش غیرفعال است. صفحه خود را پیش نمایش کنید تا آن را در عمل "
+"ببینید."
+
+msgid "The note you are looking for was not found."
+msgstr "یادداشتی که به دنبال آن هستید یافت نشد."
+
+msgid "The response parameter is invalid or malformed."
+msgstr "پارامتر response نامعتبر است یا نقص است."
+
+msgid "The response parameter is missing."
+msgstr "پارامتر response گم شده است."
+
+msgid "The secret parameter is invalid or malformed."
+msgstr "پارامتر سیکرت نامعتبر است یا ناقص است."
+
+msgid "The secret parameter is missing."
+msgstr "پارامتر سیکرت گم شده است."
+
+msgid ""
+"The style of this widget is often affected by your theme and plugins. If you "
+"experience any such issue, try to switch to a basic theme and deactivate related "
+"plugins."
+msgstr ""
+"استایل این ابزارک اغلب توسط قالب و افزونه‌های شما تحت تاثیر قرار گرفته می‌شود. اگر "
+"چنین مشکلی را تجربه کنید، سعی کنید آن را به یک قالب اصلی تغییر دهید و افزونه‌های "
+"مرتبط را غیرفعال کنید."
+
+msgid "The uploaded file exceeds the %1$s directive in %2$s."
+msgstr "فایل آپلود شده بیش از %1$s است در %2$s."
+
+msgid ""
+"The uploaded file exceeds the %s directive that was specified in the HTML form."
+msgstr "فایل آپلود شده بیش از %s است که در فرم HTML مشخص شده است."
+
+msgid "The uploaded file was only partially uploaded."
+msgstr "آپلود فایل تنها تا حدی انجام شده است."
+
+msgid "The zip file provided is not supported!"
+msgstr "فایل zip ارائه شده پشتیبانی نمی‌شود!"
+
+msgid "Theme"
+msgstr "قالب"
+
+msgid "Theme Builder"
+msgstr "سازننده قالب"
+
+msgid "Theme Comments"
+msgstr "قالب دیدگاه‌ها"
+
+msgid "There are no menus in your site."
+msgstr "منوها در سایت شما وجود ندارد."
+
+msgid "There is no error, the file uploaded with success."
+msgstr "هیچ خطایی وجود ندارد، فایل با موفقیت ارسال شده است."
+
+msgid "There is nothing to export."
+msgstr "هیچ چیز برای برون بری وجود ندارد."
+
+msgid "There was an error while trying to upload your file."
+msgstr "هنگام تلاش برای بارگذاری فایل شما خطایی روی داد."
+
+msgid ""
+"These keys will serve as your default API key for all stripe implementations on "
+"your site."
+msgstr ""
+"این کلیدها به عنوان کلید API پیش‌فرض شما برای همه پیاده‌سازی‌های نواری در سایت شما "
+"عمل می‌کنند."
+
+msgid "These messages override Stripe's error messages."
+msgstr "این پیام‌ها پیام‌های خطای Stripe را لغو می‌کنند."
+
+msgid "Third item on the list"
+msgstr "مورد سوم در لیست"
+
+msgid ""
+"This affects the types of widgets and templates you can use for your master item."
+msgstr ""
+"این روی انواع ویجت‌ها و قالب‌هایی که می‌توانید برای آیتم اصلی خود استفاده کنید، "
+"تأثیر می‌گذارد."
+
+msgid ""
+"This control confines the Table of Contents to heading elements under a specific "
+"container"
+msgstr "این کنترل جدول محتویات را در عناصر عنوان تحت یک ظرف خاص محدود می کند"
+
+msgid "This field is required."
+msgstr "این زمینه ضروری است ."
+
+msgid "This file exceeds the maximum allowed size."
+msgstr "این فایل بیش از حداکثر اندازه مجاز است."
+
+msgid "This file type is not allowed."
+msgstr "نوع فایل مجاز نیست."
+
+msgid ""
+"This is an example of a WooCommerce notice. (You won't see this while previewing "
+"your site.)"
+msgstr ""
+"این نمونه ای از اعلان ووکامرس است. (در حین پیش نمایش سایت خود این مورد را نمی "
+"بینید.)"
+
+msgid "This is how WooCommerce provides an info notice."
+msgstr "اینگونه است که ووکامرس یک اعلان اطلاعاتی ارائه می دهد."
+
+msgid "This is how an error notice would look."
+msgstr "اخطار خطا اینگونه به نظر می رسد."
+
+msgid "This is text element"
+msgstr "این متن المان است"
+
+msgid ""
+"This is the address given to you by PayPal when you set up a sandbox with your "
+"developer account. You can use the sandbox to test your purchase flow."
+msgstr ""
+"این آدرس است که هنگام راه اندازی جعبه شن و ماسه با حساب برنامه نویس خود توسط "
+"PayPal به شما داده می شود. می توانید از جعبه شن برای آزمایش جریان خرید خود "
+"استفاده کنید."
+
+msgid "This is the heading"
+msgstr "این یک تیتر است"
+
+msgid "This is the page color behind your loading animation"
+msgstr "این رنگ صفحه پشت انیمیشن بارگیری شماست"
+
+msgid "This is what a WooCommerce message notice looks like."
+msgstr "این همان چیزی است که یک پیام ووکامرس به نظر می رسد."
+
+msgid "This message is not visible to site visitors."
+msgstr "این پیام برای بازدیدکنندگان سایت قابل مشاهده نیست."
+
+msgid ""
+"This option will allow the right column (e.g, Cart Totals) to be sticky while "
+"scrolling."
+msgstr ""
+"این گزینه به ستون سمت راست (به عنوان مثال، مجموع سبد خرید) اجازه می‌دهد در حین "
+"پیمایش چسبان باشد."
+
+msgid "This page is"
+msgstr "این صفحه است"
+
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"این نوشته با گذرواژه محافظت می‌شود. برای نمایش نوشته و دیدگاها رمز عبور را وارد "
+"کنید."
+
+msgid "This subscriber already exists."
+msgstr "این مشترک در حال حاضر وجود دارد."
+
+msgid "This template includes the header, full-width content and footer"
+msgstr "این قالب شامل سربرگ، پابرگ و محتوای تمام عرض است"
+
+msgid "Thumbnail"
+msgstr "بندانگشتی"
+
+msgid "Thumbnails"
+msgstr "تصاویر بند انگشتی‌ها"
+
+msgid "Thursday"
+msgstr "پنج شنبه"
+
+msgid "Time"
+msgstr "زمان"
+
+msgid "Time Format"
+msgstr "قالب زمان"
+
+msgid "Time of the day"
+msgstr "زمان روز"
+
+msgid "Timeline"
+msgstr "نوار زمانی"
+
+msgid "Times"
+msgstr "حذف"
+
+msgid "Timestamp"
+msgstr "برچسب زمان"
+
+msgid "Timezone"
+msgstr "منطقه زمانی"
+
+msgid "Title"
+msgstr "عوان"
+
+msgid "Title Alignment"
+msgstr "ترازبندی عنوان"
+
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+msgid "Title HTML Tag"
+msgstr "عنوان تگ HTML"
+
+msgid "Titles"
+msgstr "عناوین"
+
+msgid "Titles & Totals"
+msgstr "عناوین و مجموع"
+
+msgid "Titles &amp; Totals"
+msgstr "عناوین و جمع کل"
+
+msgid "To"
+msgstr "به"
+
+msgid "To Left"
+msgstr "به سمت چپ"
+
+msgid "To Right"
+msgstr "به سمت راست"
+
+msgid "To change the Products Archive’s layout, go to Appearance > Customize."
+msgstr "برای تغییر طرح آرشیو محصولات به منوی نمایش -> شخصی‌سازی بروید."
+
+msgid ""
+"To change the design of your notices, go to your %1$sWooCommerce Settings%2$s"
+msgstr "برای تغییر طراحی اعلان‌های خود، به %1$sتنظیمات ووکامرس %2$s خود بروید"
+
+msgid "To edit the title of your site, go to %1$sSite Identity%2$s."
+msgstr "برای ویرایش عنوان سایت خود، به %1$s شناسه سایت %2$s بروید."
+
+msgid "To integrate with our forms you need an %1$sAPI Key%2$s."
+msgstr "برای ادغام با فرم‌های ما به یک کلید API %1$s %2$s نیاز دارید."
+
+msgid "To manage these options, go to your Stripe account > Products >  Tax Rates."
+msgstr "برای مدیریت این گزینه‌ها، به حساب استریپ > محصولات > نرخ‌های مالیاتی بروید."
+
+msgid ""
+"To use reCAPTCHA V3, you need to add the API Key and complete the setup process "
+"in Dashboard > Elementor > Settings > Integrations > reCAPTCHA V3."
+msgstr ""
+"برای استفاده از reCAPTCHA V3, شما نیاز به افزودن کلید API و تکمیل کردن روند نصب "
+"در داشبورد > المنتور > تنظیمات > یکپارچه‌سازی > reCAPTCHA V3 دارید."
+
+msgid ""
+"To use reCAPTCHA, you need to add the API Key and complete the setup process in "
+"Dashboard > Elementor > Settings > Integrations > reCAPTCHA."
+msgstr ""
+"برای استفاده از reCAPTCHA, شما نیاز به افزودن کلید API و تکمیل کردن روند نصب در "
+"داشبورد > المنتور > تنظیمات > یکپارچه‌سازی > reCAPTCHA دارید."
+
+msgid "To view the validation badge, switch to preview mode"
+msgstr "برای مشاهده نشان اعتبار ، به حالت پیش نمایش بروید"
+
+msgid "Toggle"
+msgstr "تغییر"
+
+msgid "Toggle Align"
+msgstr "ترازبندی تاگل"
+
+msgid "Toggle Button"
+msgstr "دکمه تغییر"
+
+msgid "Toggle Icon"
+msgstr "آیکون تغییر وضعیت"
+
+msgid "Toggle Popup"
+msgstr "تاگل پاپ‌آپ"
+
+msgid "Toolset"
+msgstr "مجموعه ابزار"
+
+msgid "Tooltip"
+msgstr "متن راهنما"
+
+msgid "Tooltip Content"
+msgstr "محتوا متن راهنما"
+
+msgid "Top"
+msgstr "بالا"
+
+msgid "Top Bar"
+msgstr "نوار بالا"
+
+msgid "Total"
+msgstr "جمع کل"
+
+msgid "Totals"
+msgstr "جمع کل"
+
+msgid "Town / City"
+msgstr "شهر/منطقه"
+
+msgid "Tracker"
+msgstr "ردیاب"
+
+msgid "Tracker Background"
+msgstr "پس زمینه ردیاب"
+
+msgid "Tracker Type"
+msgstr "نوع ردیاب"
+
+msgid "Transaction Type"
+msgstr "نوع معامله"
+
+msgid ""
+"Transactions made through your PayPal button will be registered under this "
+"account."
+msgstr "معاملات انجام شده از طریق دکمه PayPal شما در این حساب ثبت می شود."
+
+msgid "Transition"
+msgstr "نوع حرکت"
+
+msgid "Transition Duration"
+msgstr "مدت انتقال"
+
+msgid "Transition Speed"
+msgstr "سرعت حرکت"
+
+msgid "Transparency"
+msgstr "شفافیت"
+
+msgid "Trigger"
+msgstr "ماشه"
+
+msgid "TrueType Fonts, Used for better supporting Safari, Android, iOS"
+msgstr "فونت‌های TrueType، مورد استفاده بهتر برای سافری و اندروید و آی‌او‌اس"
+
+msgid "Try it Now"
+msgstr "الآن امتحانش کن"
+
+msgid "Tuesday"
+msgstr "سه شنبه"
+
+msgid "Tweet"
+msgstr "تویت"
+
+msgid "Tweet Button"
+msgstr "دکمه توییت"
+
+msgid "Two Way Progress Bar"
+msgstr "نوار پیشرفت دو طرفه"
+
+msgid "Two columns"
+msgstr "دو ستون"
+
+msgid "Type"
+msgstr "تایپ کردن"
+
+msgid "Type a value"
+msgstr "یک مقدار تایپ کنید"
+
+msgid "Type to search"
+msgstr "برای جستجو تایپ کنید"
+
+msgid ""
+"TypeKit partners with the world’s leading type foundries to bring thousands of "
+"beautiful fonts to designers every day."
+msgstr ""
+"شرکای وب کیت شما با انواع برجسته آن در جهان برای آوردن هزاران فونت زیبا برای "
+"طراحان در روز است."
+
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+msgid "UI Color"
+msgstr "رنگ رابط کاربری"
+
+msgid "UI Hover Color"
+msgstr "رنگ هاور رابط کاربری"
+
+msgid "URL"
+msgstr "آدرس"
+
+msgid "URL Field"
+msgstr "زمینه آدرس"
+
+msgid "URL Format"
+msgstr "فرمت لینک"
+
+msgid "USD"
+msgstr "USD"
+
+msgid "Underline"
+msgstr "زیر خط"
+
+msgid "Unknown"
+msgstr "ناشناخته"
+
+msgid "Unknown error."
+msgstr "خطای ناشناخته."
+
+msgid "Unlink"
+msgstr "بدون لینک"
+
+msgid "Unlink from global"
+msgstr "لغو لینک از سراسری"
+
+msgid "Unmarked Color"
+msgstr "رنگ انتخاب نشده"
+
+msgid "Unmarked Style"
+msgstr "استایل انتخاب نشده"
+
+msgid "Unsupported"
+msgstr "پشتیبانی نمی‌شود"
+
+msgid "Up"
+msgstr "بالا"
+
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "Update Cart"
+msgstr "بروزرسانی سبد خرید"
+
+msgid "Update Cart Automatically"
+msgstr "بروزرسانی خودکار سبد خرید"
+
+msgid "Update Cart Button"
+msgstr "دکمه بروزرسانی سبد خرید"
+
+msgid "Update Font Type"
+msgstr "بروزرسانی نوع فونت"
+
+msgid "Update Now"
+msgstr "الان بروزرسانی کنید"
+
+msgid "Update Shipping Button"
+msgstr "دکمه بروزرسانی حمل و نقل"
+
+msgid "Updated At"
+msgstr "بروز شده در"
+
+msgid "Updated At GMT"
+msgstr "بروز شده در GMT"
+
+msgid ""
+"Updates to the cart (e.g., a removed item) via Ajax. The cart will update "
+"without refreshing the whole page."
+msgstr ""
+"بروزرسانی سبد خرید (به عنوان مثال ، یک مورد حذف شده) از طریق ایجکس. سبد خرید "
+"بدون بروزرسانی کل صفحه بروز می شود."
+
+msgid "Upgrade"
+msgstr "ارتقا دهید"
+
+msgid "Upgrade Now"
+msgstr "اکنون ارتقا دهید"
+
+msgid "Upgrade now"
+msgstr "اکنون ارتقا دهید"
+
+msgid ""
+"Upgrade to Elementor Pro Advanced to get the %s widget as well as additional "
+"professional and ecommerce widgets."
+msgstr ""
+"برای دریافت ویجت %s و همچنین ویجت‌های حرفه‌ای و تجارت الکترونیک، به Elementor Pro "
+"Advanced ارتقا دهید."
+
+msgid "Upgrade your subscription to customize these and much more."
+msgstr "اشتراک خود را برای سفارشی کردن این موارد و موارد دیگر ارتقا دهید."
+
+msgid "Upload"
+msgstr "آپلود"
+
+msgid "Upload JSON File"
+msgstr "فایل JSON را بارگذاری کنید"
+
+msgid "Upload directory is not writable or does not exist."
+msgstr "پوشه آپلود قابل نوشتن نیست یا وجود ندارد."
+
+msgid "Upload font .%s file"
+msgstr "آپلود فونت. فایل %s"
+
+msgid "Uploading&hellip;"
+msgstr "در حال آپلود &hellip;"
+
+msgid ""
+"Uploads you receive via link are stored on your server. However, uploads via "
+"attachment won't be saved on your server, and under Submissions"
+msgstr ""
+"آپلودهایی که از طریق پیوند دریافت می کنید در سرور شما ذخیره می شوند. با این حال، "
+"آپلودها از طریق پیوست در سرور شما و در قسمت ارسال‌ها ذخیره نمی‌شوند"
+
+msgid "Upsell"
+msgstr "پرفروش"
+
+msgid "Upsells"
+msgstr "پرفروش‌ها"
+
+msgid ""
+"Use %1$scustom CSS%3$s to style your content or add %2$sthe \"selector\" prefix"
+"%3$s to target specific elements."
+msgstr ""
+"از %1$s CSS سفارشی %3$s برای استایل دادن به محتوای خود استفاده کنید یا %2$sپیوند "
+"«انتخابگر» %3$s را برای هدف قرار دادن عناصر خاص اضافه کنید."
+
+msgid ""
+"Use %s widget and dozens more pro features to extend your toolbox and build "
+"sites faster and better."
+msgstr ""
+"از ویجت %s و ده ها ویژگی حرفه ای دیگر برای گسترش جعبه ابزار خود و ساخت سایت های "
+"سریع تر و بهتر استفاده کنید."
+
+msgid ""
+"Use Custom Code to create sophisticated custom interactions to engage visitors"
+msgstr ""
+"از کد سفارشی برای ایجاد تعاملات سفارشی پیچیده برای جذب بازدیدکنندگان استفاده کنید"
+
+msgid "Use the letters: %s"
+msgstr "استفاده از حروف: %s"
+
+msgid "Use them on your live site - not while testing."
+msgstr "از آنها در سایت زنده خود استفاده کنید - نه در حین آزمایش."
+
+msgid "Use this field to set a custom API Key for the current form"
+msgstr "این زمینه برای تنظیم یک کلید API سفارشی برای فرم کنونی است"
+
+msgid "Use this field to set a custom API URL for the current form"
+msgstr "این زمینه برای تنظیم یک آدرس API سفارشی برای فرم کنونی است"
+
+msgid "Use this setting to skip over posts (e.g. '2' to skip over 2 posts)."
+msgstr ""
+"از این تنظیم برای ردکردن نوشته‌های کاور استفاده کنید (به عنوان مثال: '2' برای رد "
+"کردن بیش از 2 نوشته)."
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "User Agent"
+msgstr "کاربر"
+
+msgid "User ID"
+msgstr "شناسه کاربر"
+
+msgid "User IP"
+msgstr "IP کاربر"
+
+msgid "User Info"
+msgstr "اطلاعات کاربر"
+
+msgid "User Meta"
+msgstr "کاربر متا"
+
+msgid "User Profile Picture"
+msgstr "تصویر پروفایل کاربر"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Username Label"
+msgstr "برچسب نام کاربری"
+
+msgid "Username Placeholder"
+msgstr "نگهدارنده نام کاربری"
+
+msgid "Username or Email Address"
+msgstr "نام کاربری یا آدرس ایمیل"
+
+msgid "Validate API Key"
+msgstr "اعتبار کلید API"
+
+msgid "Validate Kit ID"
+msgstr "اعتبار سنجی شناسه Kit"
+
+msgid "Validate Live API Key"
+msgstr "اعتبار سنجی کلید Live API"
+
+msgid "Validate Test API Key"
+msgstr "اعتبار سنجی کلید API تست"
+
+msgid "Variations"
+msgstr "متغیرها"
+
+msgid "Vertical"
+msgstr "عمودی"
+
+msgid "Vertical Align"
+msgstr "چینش عمودی"
+
+msgid "Vertical Orientation"
+msgstr "جهت عمودی"
+
+msgid "Vertical Padding"
+msgstr "فاصله داخلی عمودی"
+
+msgid "Vertical Position"
+msgstr "موقعیت عمودی"
+
+msgid "Vertical Scroll"
+msgstr "اسکرول عمودی"
+
+msgid "Viber"
+msgstr "وایبر"
+
+msgid "Video"
+msgstr "ویدئو"
+
+msgid "Video Count"
+msgstr "تعداد ویدئو"
+
+msgid "Video Link"
+msgstr "پیوند ویدئو"
+
+msgid "Video Playlist"
+msgstr "لیست پخش ویدئو"
+
+msgid "Video Position"
+msgstr "موقعیت ویدیو"
+
+msgid "Video URL"
+msgstr "آدرس ویدیو"
+
+msgid "Video Width"
+msgstr "عرض ویدیو"
+
+msgid "Videos"
+msgstr "ویدئوها"
+
+msgid "View"
+msgstr "مشاهده"
+
+msgid "View Cart"
+msgstr "مشاهده‌ی سبد خرید"
+
+msgid "View Elementor Pro Changelog"
+msgstr "مشاهده گزارش تغییرات المنتور پرو"
+
+msgid "View Font"
+msgstr "مشاهده فونت"
+
+msgid "View Icon"
+msgstr "مشاهده آیکون"
+
+msgid "View Site"
+msgstr "مشاهده سایت"
+
+msgid "View cart"
+msgstr "مشاهده‌ی سبد خرید"
+
+msgid "Viewport"
+msgstr "نقطه نمایش"
+
+msgid "Vimeo"
+msgstr "ویمئو"
+
+msgid "Visible only if selected step type contains \"Icon\""
+msgstr "فقط در صورتی قابل مشاهده است که نوع مرحله انتخاب شده شامل \"آیکون\" باشد"
+
+msgid "Visitor"
+msgstr "بازدید کننده"
+
+msgid "Visitor Time"
+msgstr "زمان بازدید کننده"
+
+msgid "Want to activate this website by a different license?"
+msgstr "آیا می‌خواهید این وب‌سایت را با لایسنس دیگری فعال کنید؟"
+
+msgid ""
+"Want to continue using Pro to build your website? Choose the plan that's right "
+"for you!"
+msgstr ""
+"آیا می خواهید به استفاده از Pro برای ساختن وب سایت خود ادامه دهید؟ طرحی را "
+"انتخاب کنید که برای شما مناسب است!"
+
+msgid "Want to deactivate the license for any reason?"
+msgstr "آیا می‌خواهید لایسنس را به هر دلیلی غیرفعال کنید؟"
+
+msgid "Want to give access only to content?"
+msgstr "آیا می خواهید فقط به محتوا دسترسی داشته باشید؟"
+
+msgid ""
+"Want to keep creating secure and high-performing websites? Renew your "
+"subscription to regain access to all of the Elementor Pro widgets, templates, "
+"updates & more"
+msgstr ""
+"آیا می خواهید به ایجاد وب سایت های ایمن و با عملکرد بالا ادامه دهید؟ اشتراک خود "
+"را تمدید کنید تا دوباره به همه ویجت‌ها، قالب‌ها، به‌روزرسانی‌ها و موارد دیگر "
+"Elementor Pro دسترسی پیدا کنید"
+
+msgid "Want to learn more about Elementor library?"
+msgstr "آیا می‌خواهید در مورد کتابخانه المنتور بیشتر بدانید؟"
+
+msgid "Warning"
+msgstr "هشدار"
+
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "هشدار: لطفا پیش از بازگشت به نسخه قبل از دیتابیس خود بکاپ تهیه کنید."
+
+msgid "Watched Icon"
+msgstr "آیکون تماشا شده"
+
+msgid "Waze"
+msgstr "ویز"
+
+msgid "We couldn’t submit your responses because they seem like spam."
+msgstr "ما نتوانستیم پاسخ های شما را ارسال کنیم زیرا به نظر می رسد هرزنامه هستند."
+
+msgid "Webhook"
+msgstr "وب‌هوک"
+
+msgid "Webhook URL"
+msgstr "آدرس هوک"
+
+msgid "Website"
+msgstr "وب سایت"
+
+msgid "Wednesday"
+msgstr "چهار شنبه"
+
+msgid "Week"
+msgstr "هفته‌"
+
+msgid "Weekly"
+msgstr "هفتگی"
+
+msgid "Weeks"
+msgstr "هفته‌"
+
+msgid "Weight"
+msgstr "وزن"
+
+msgid "Welcome to Elementor Pro!"
+msgstr "خوش آمدید به المنتور پرو!"
+
+msgid "What is a 404 Page Template?"
+msgstr "الگوی 404 صفحه چیست؟"
+
+msgid "What is a Footer Template?"
+msgstr "الگوی پاورقی چیست؟"
+
+msgid "What is a Header Template?"
+msgstr "الگوی سربرگ چیست؟"
+
+msgid "What is a Products Archive Template?"
+msgstr "الگوی بایگانی محصولات چیست؟"
+
+msgid "What is a Search Results Template?"
+msgstr "الگوی نتایج جستجو چیست؟"
+
+msgid "What is a Single Page Template?"
+msgstr "یک الگوی صفحه تکی چیست؟"
+
+msgid "What is a Single Post Template?"
+msgstr "الگوی تک نوشته چیست؟"
+
+msgid "What is a Single Product Template?"
+msgstr "الگوی تک محصول چیست؟"
+
+msgid "What is a loop?"
+msgstr "حلقه چیست؟"
+
+msgid "What is an Archive Template?"
+msgstr "الگوی بایگانی چیست؟"
+
+msgid "WhatsApp"
+msgstr "واتس اپ"
+
+msgid "When arriving from specific URL"
+msgstr "هنگام ورود از لینک خاص"
+
+msgid "Where Do You Want to Display Your %s?"
+msgstr "کجا می‌خواهید %s خود را نمایش دهید؟"
+
+msgid "Whole Box"
+msgstr "کل جعبه"
+
+msgid "Whole Slide"
+msgstr "کل اسلاید"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid ""
+"With the new Theme Builder you can visually manage every part of your site "
+"intuitively, making the task of designing a complete website that much easier"
+msgstr ""
+"با ایجاد جدید سازنده قالب می توانید بصری هر قسمت از سایت خود را بصورت بصری "
+"مدیریت کنید و وظیفه طراحی یک وب سایت کامل را که بسیار آسان تر است انجام می دهد"
+
+msgid "Within"
+msgstr "در داخل"
+
+msgid "Wobble"
+msgstr "تکان دادن"
+
+msgid "Woo - Products-"
+msgstr "ووکامرس - محصولات-"
+
+msgid "Woo - Single Elements"
+msgstr "ووکامرس - المان‌های تکی"
+
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+msgid "WooCommerce Breadcrumbs"
+msgstr "موقعیت‌های کنونی ووکامرس"
+
+msgid "WooCommerce Notices"
+msgstr "اعلان ووکامرس"
+
+msgid "WooCommerce Pages"
+msgstr "صفحه‌های ووکامرس"
+
+msgid "Word Wrap"
+msgstr "بسته بندی کلمه"
+
+msgid "WordPress Menu"
+msgstr "منوی وردپرس"
+
+msgid "X Anchor Point"
+msgstr "لنگر نقطه X"
+
+msgid "Y Anchor Point"
+msgstr "لنگر نقطه Y"
+
+msgid "Yahoo Calendar"
+msgstr "تقویم یاهو"
+
+msgid "Year: %s"
+msgstr "سال: %s"
+
+msgid "Yearly"
+msgstr "سالانه"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "You Haven’t Saved Templates Yet."
+msgstr "هنوز الگوها را ذخیره نکرده‌اید."
+
+msgid "You are Logged in as %1$s (%2$sLogout%3$s)"
+msgstr "شما به عنوان %1$s وارد شده‌اید (%2$s خروج %3$s)"
+
+msgid "You are connected to Facebook App %1$s, %2$sChange App%3$s"
+msgstr "شما به برنامه فیسبوک %1$s متصل هستید، %2$s برنامه %3$s را تغییر دهید"
+
+msgid "You are not autorized to view this Note. Please contact your admin."
+msgstr "شما مجاز به مشاهده این یادداشت نیستید. لطفا با مدیر خود تماس بگیرید."
+
+msgid "You are using %1$s set in the %2$sIntegrations Settings%3$s."
+msgstr "شما از %1$s تنظیم شده در %2$s تنظیمات ادغام%3$s استفاده می‌کنید."
+
+msgid "You can also set a different %s by choosing \"Custom\"."
+msgstr "شما همچنین می‌توانید یک %s براساس انتخاب \"سفارشی\" تنظیم کنید."
+
+msgid ""
+"You can create multiple footers, and assign each to different areas of your site."
+msgstr ""
+"می توانید چندین پاورقی ایجاد کنید و هرکدام را به مناطق مختلف سایت خود اختصاص "
+"دهید."
+
+msgid ""
+"You can create multiple headers, and assign each to different areas of your site."
+msgstr ""
+"می توانید چندین سربرگ ایجاد کنید و هرکدام را به مناطق مختلف سایت خود اختصاص دهید."
+
+msgid ""
+"You can create multiple products archive templates, and assign each to different "
+"categories of products. This gives you the freedom to customize the appearance "
+"for each type of product being shown."
+msgstr ""
+"می توانید چندین الگو بایگانی محصولات ایجاد کنید و هر یک را به دسته بندی های "
+"مختلف محصولات اختصاص دهید. این به شما آزادی می دهد تا ظاهر دلخواه را برای هر نوع "
+"کالایی که نشان داده می شود ، شخصی سازی کنید."
+
+msgid ""
+"You can create multiple single page templates, and assign each to different "
+"areas of your site."
+msgstr ""
+"شما می توانید چندین الگوی تک صفحه ای ایجاد کنید و هر یک را به مناطق مختلف سایت "
+"خود اختصاص دهید."
+
+msgid ""
+"You can create multiple single post templates, and assign each to a different "
+"category."
+msgstr ""
+"شما می توانید چندین الگوی تک نوشته ایجاد کنید و هرکدام را به دسته دیگری اختصاص "
+"دهید."
+
+msgid ""
+"You can create multiple single product templates, and assign each to different "
+"types of products, enabling a custom design for each group of similar products."
+msgstr ""
+"شما می توانید چندین الگوی تک محصول ایجاد کرده و هر یک را به انواع مختلف محصولات "
+"اختصاص دهید و یک طراحی سفارشی را برای هر گروه از محصولات مشابه امکان پذیر کنید."
+
+msgid "You can customize the message if there are no results for the search term."
+msgstr ""
+"اگر هیچ نتیجه ای برای اصطلاح جستجو نداشته باشید می توانید پیام را سفارشی کنید."
+
+msgid ""
+"You can easily control the layout and design of the Search Results page with the "
+"Search Results template, which is simply a special archive template just for "
+"displaying search results."
+msgstr ""
+"شما به راحتی می توانید طرح و طراحی صفحه نتایج جستجو را با الگوی نتایج جستجو "
+"جستجو کنید ، که به سادگی یک الگوی بایگانی ویژه است فقط برای نمایش نتایج جستجو."
+
+msgid "You can only add the Notices widget once per page."
+msgstr "در هر صفحه فقط یکبار می توانید ویجت Notices را اضافه کنید."
+
+msgid "You can upload only %d file."
+msgid_plural "You can upload up to %d files."
+msgstr[0] "شما می‌توانید %d فایل آپلود کنید."
+
+msgid ""
+"You have not entered a valid secret key for this environment, Please add a valid "
+"secret key"
+msgstr ""
+"شما یک کلید مخفی معتبر برای این محیط وارد نکرده اید، لطفا یک کلید مخفی معتبر "
+"اضافه کنید"
+
+msgid "You may also like..."
+msgstr "شما همچنین ممکن است دوست داشته باشید ..."
+
+msgid "You may be interested in..."
+msgstr "شما ممکن است علاقه مند باشید ..."
+
+msgid ""
+"You must include the %1$s Widget in your template (%2$s), in order for Elementor "
+"to work on this page."
+msgstr ""
+"شما باید المان %1$s را در قالب خودتان (%2$s) وارد کنید تا المنتور بتواند روی این "
+"صفحه کار کند."
+
+msgid "You need an active Elementor Pro license"
+msgstr "شما به یک مجوز فعال Elementor Pro نیاز دارید"
+
+msgid "You need at least one WooCommerce order to preview the order here."
+msgstr "برای مشاهده پیش نمایش سفارش در اینجا به حداقل یک سفارش ووکامرس نیاز دارید."
+
+msgid "You're connected as %s."
+msgstr "شما بعنوان %s متصل هستید."
+
+msgid "You're not using Elementor Pro yet!"
+msgstr "شما هنوز از Elementor Pro استفاده نمی کنید!"
+
+msgid "YouTube"
+msgstr "یوتیوب"
+
+msgid "YouTube or Vimeo link"
+msgstr "لینک یوتیوب یا ویمیو"
+
+msgid "Your Elementor Pro license has expired."
+msgstr "مجوز Elementor Pro شما منقضی شده است."
+
+msgid ""
+"Your Elementor Pro license is about to expire. Renew now and get an exclusive, "
+"time-limited %s discount."
+msgstr ""
+"مجوز Elementor Pro شما رو به اتمام است. اکنون تمدید کنید و از %s تخفیف انحصاری و "
+"با زمان محدود برخوردار شوید."
+
+msgid ""
+"Your Elementor Pro license is about to expire. Renew now and get updates, "
+"support, Pro widgets & templates for another year."
+msgstr ""
+"مجوز Elementor Pro شما رو به اتمام است. اکنون تمدید کنید و به‌روزرسانی‌ها، "
+"پشتیبانی، ابزارک‌های حرفه‌ای و قالب‌ها را برای یک سال دیگر دریافت کنید."
+
+msgid ""
+"Your Elementor Pro license is inactive. To access premium Elementor widgets, "
+"templates, support & plugin updates activate your Pro license."
+msgstr ""
+"مجوز Elementor Pro شما غیرفعال است. برای دسترسی به ویجت‌ها، قالب‌ها، پشتیبانی و "
+"به‌روزرسانی‌های پلاگین ممتاز Elementor، مجوز Pro خود را فعال کنید."
+
+msgid "Your Fontello, IcoMoon or Fontastic .zip file"
+msgstr "فایل زیپ Your Fontello, IcoMoon و Fontastic"
+
+msgid "Your Global Widget is locked"
+msgstr "ویجت عمومی شما قفل شده است"
+
+msgid "Your License Is Inactive"
+msgstr "لایسنس شما غیرفعال است"
+
+msgid "Your License Key"
+msgstr "کلید لایسنس شما"
+
+msgid "Your License Will Expire in %s."
+msgstr "لایسنس شما در %s منقضی می‌شود."
+
+msgid "Your Order"
+msgstr "سفارش شما"
+
+msgid "Your cart is currently empty."
+msgstr "سبد خرید شما خالی است."
+
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار تایید مدیر است."
+
+msgid "Your license is invalid for this domain. Please check your key again."
+msgstr "لایسنس شما برای این دامنه نامعتبر است. لطفاً کلید خود را دوباره بررسی کنید."
+
+msgid "Your license is missing. Please check your key again."
+msgstr "لایسنس شما گم شده است. لطفاً کلید خود را دوباره بررسی کنید."
+
+msgid "Your license key should look something like this: %s"
+msgstr "کلید لایسنس زیر را در کادر بالا وارد کنید: %s"
+
+msgid "Your submission failed because of a server error."
+msgstr "ارسال شما به دلیل یک خطای سرور انجام نشد."
+
+msgid "Your submission failed because of an error."
+msgstr "ارسال شما به دلیل یک خطا ناموفق بود."
+
+msgid "Your submission failed because the form is invalid."
+msgstr "ارسال شما ناموفق بود زیرا فرم نامعتبر است."
+
+msgid "Your submission was successful."
+msgstr "ارسال شما با موفقیت انجام شد."
+
+msgid "Your trial expires in %s"
+msgstr "دوره آزمایشی شما در %s منقضی می‌شود"
+
+msgid "Your trial has expired"
+msgstr "دوره آزمایشی شما به پایان رسیده است"
+
+msgid "Your trial has expired. Miss your favorite Elementor Pro features?"
+msgstr ""
+"دوره آزمایشی شما به پایان رسیده است. آیا ویژگی های مورد علاقه Elementor Pro خود "
+"را از دست می دهید؟"
+
+msgid "Zoom"
+msgstr "بزرگنمایی"
+
+msgid "Zoom Direction"
+msgstr "جهت بزرگنمایی"
+
+msgid "Zoom In"
+msgstr "بزرگنمایی"
+
+msgid "Zoom Out"
+msgstr "خروج از بزرگنمایی"
+
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+msgid "https://go.elementor.com/wp-dash-wp-plugins-author-uri/"
+msgstr "https://webdenj.com/product/elementor-pro/"
+
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+msgid "https://your-webhook-url.com"
+msgstr "https://your-webhook-url.com"
+
+msgid "key|value"
+msgstr "کلید|مقدار"
+
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+msgid "of"
+msgstr "از"
+
+msgid "post"
+msgstr "پست"
+
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "حاشیه"
+
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "صدا"
+
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "نمودار"
+
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گالری"
+
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصاویر"
+
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "لینک ها"
+
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "نقل‌وقول"
+
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "وضعیت"
+
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "ویدیوها"
+
+msgid "reCAPTCHA"
+msgstr "ری‌کپچا"
+
+msgid "reCAPTCHA V3"
+msgstr "reCAPTCHA V3"
+
+msgid "reCAPTCHA V3 validation failed, suspected as abusive usage"
+msgstr "اعتبارسنجی reCAPTCHA V3 انجام نشد ، مشکوک به سوء استفاده"
+
+msgid "shipping fee"
+msgstr "هزینه ارسال"
+
+msgid "terms and conditions"
+msgstr "شرایط و ضوابط"
+
+msgid "via Elementor"
+msgstr "از طریق المنتور"
+
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+msgid "{number} Responses"
+msgstr "{number} پاسخ‌"
